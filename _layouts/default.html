@@ -64,7 +64,7 @@
         </ul>
       </div>
 
-      <a class="page-top" href="#masthead" title="Arriba">Top</a>
+      <a class="page-top" href="#masthead" title="Arriba">Arriba</a>
     </div>
   </nav>
 
@@ -82,83 +82,77 @@
   </header>
   <div class="site-wrap">
 
-  <nav id="nav-util" class="can-stick ">
-    <ul class="content">
-  <li>
-  </li>
-    </ul>
-  </nav>
+    <nav id="nav-util" class="can-stick ">
+      <ul class="content">
+        <li></li>
+      </ul>
+    </nav>
 
     <main id="content" role="main">
 
-    {{ content }}
+      {{ content }}
 
-      </div>
-    </div>
-</main>
-
-
-
-
+       
+    </main>
       
-<aside id="newsletter-subscribe" class="section">
-  <form id="newsletter_form" class="content newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post" data-blog="Mozilla Chile">
-    <input type="hidden" id="newsletters" name="newsletters" value="mozilla-foundation">
-    <input type="hidden" id="source_url" name="source_url" value="http://www.mozillachile.cl">
+    <aside id="newsletter-subscribe" class="section">
+      <form id="newsletter_form" class="content newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post" data-blog="Mozilla Chile">
+        <input type="hidden" id="newsletters" name="newsletters" value="mozilla-foundation">
+        <input type="hidden" id="source_url" name="source_url" value="http://www.mozillachile.cl">
 
-    <div class="form-title">
-      <h3>¿Te encanta la Web?</h3>
-      <h4>Obtén el boletín de noticias de Mozilla y ayudanos a mantenerlo abierto y libre.</h4>
-    </div>
-
-    <div id="form-contents" class="form-contents">
-      <div id="newsletter_errors" class="newsletter_errors"></div>
-
-      <div class="field field-email">
-        <label for="email">Tu correo electrónico</label>
-                <input type="email" id="email" name="email" required placeholder="tunombre@ejemplo.com" size="30">
-      </div>
-
-      <div class="form-details">
-        <div class="field field-language">
-          <label for="lang">Idioma</label>
-          <select aria-required="true" id="lang" name="lang" required="required">
-            <option value="de">Deutsch</option>
-            <option value="en">English</option>
-            <option value="es" selected="selected">Español</option>
-            <option value="fr">Français</option>
-            <option value="pl">Polski</option>
-          </select>
+        <div class="form-title">
+          <h3>¿Te encanta la Web?</h3>
+          <h4>Obtén el boletín de noticias de Mozilla y ayudanos a mantenerlo abierto y libre.</h4>
         </div>
 
-        <div class="field field-format">
-          <label for="format-h"><input checked="checked" id="format-h" name="fmt" value="H" type="radio"> HTML</label>
-          <label for="format-t"><input id="format-t" name="fmt" value="T" type="radio"> Text</label>
+        <div id="form-contents" class="form-contents">
+          <div id="newsletter_errors" class="newsletter_errors"></div>
+
+          <div class="field field-email">
+            <label for="email">Tu correo electrónico</label>
+                    <input type="email" id="email" name="email" required placeholder="tunombre@ejemplo.com" size="30">
+          </div>
+
+          <div class="form-details">
+            <div class="field field-language">
+              <label for="lang">Idioma</label>
+              <select aria-required="true" id="lang" name="lang" required="required">
+                <option value="de">Deutsch</option>
+                <option value="en">English</option>
+                <option value="es" selected="selected">Español</option>
+                <option value="fr">Français</option>
+                <option value="pl">Polski</option>
+              </select>
+            </div>
+
+            <div class="field field-format">
+              <label for="format-h"><input checked="checked" id="format-h" name="fmt" value="H" type="radio"> HTML</label>
+              <label for="format-t"><input id="format-t" name="fmt" value="T" type="radio"> Text</label>
+            </div>
+
+            <div class="field field-privacy">
+              <label for="privacy">
+                <input type="checkbox" id="privacy" name="privacy" required>
+                Estoy de acuerdo con Mozilla manejando mi información como se explica en esta <a href="https://www.mozilla.org/privacy/">Política de Privacidad</a>.          </label>
+            </div>
+          </div>
+
+          <div class="form-submit">
+            <button id="newsletter_submit" type="submit" class="form-button button-dark">Regístrate ahora</button>
+            <p class="form-details promise">
+              <small>Solo le enviaremos información relacionada con Mozilla.</small>
+            </p>
+          </div>
         </div>
 
-        <div class="field field-privacy">
-          <label for="privacy">
-            <input type="checkbox" id="privacy" name="privacy" required>
-            Estoy de acuerdo con Mozilla manejando mi información como se explica en esta <a href="https://www.mozilla.org/privacy/">Política de Privacidad</a>.          </label>
+        <div id="newsletter_thanks" class="thanks">
+          <h2>¡Gracias!</h2>
+          <p>
+            Si no ha confirmado previamente una suscripción a un boletín informativo relacionado con Mozilla, es posible que deba hacerlo.        Revise su bandeja de entrada o su filtro de correo no deseado para verificar el correo electrónico enviado por nuestra parte.      </p>
         </div>
-      </div>
 
-      <div class="form-submit">
-        <button id="newsletter_submit" type="submit" class="form-button button-dark">Regístrate ahora</button>
-        <p class="form-details promise">
-          <small>Solo le enviaremos información relacionada con Mozilla.</small>
-        </p>
-      </div>
-    </div>
-
-    <div id="newsletter_thanks" class="thanks">
-      <h2>¡Gracias!</h2>
-      <p>
-        Si no ha confirmado previamente una suscripción a un boletín informativo relacionado con Mozilla, es posible que deba hacerlo.        Revise su bandeja de entrada o su filtro de correo no deseado para verificar el correo electrónico enviado por nuestra parte.      </p>
-    </div>
-
-  </form>
-</aside>
+      </form>
+    </aside>
 
 
 
@@ -221,6 +215,6 @@
     </div>
   </footer>
 
-  <script src="/themes/frontierline-rm/functions.js"></script>
+  <script src="/themes/frontierline-rm/js/functions.js"></script>
   </body>
 </html>

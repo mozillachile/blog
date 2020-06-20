@@ -1,11 +1,92 @@
 (function() {
     'use strict';
+
+
+    var newsletterForm = document.getElementById('newsletter_form');
+    var newsletterWrapper = document.getElementById('form-contents');
+    var $doc = document.documentElement;
+    var $window = $(window);
+    var blogname = $('body').data('blogname');
+    var navMoz = $('#nav-mozilla-menu');
+    var navMozToggle = $('#nav-global .nav-mozilla .toggle');
+    var categories = $('#categories');
+    var catToggle = $('#toggle-categories');
+    var catCats = $('#categories .category');
+    var sidebar = $('#sidebar');
+    var sideToggle = $('#toggle-sidebar');
+    var navGlobal = $('#nav-global');
+    var navUtil = $('#nav-util');
+    var navUtilTop = navUtil.offset();
+    var siteWrap = $('.site-wrap');
+    var canStick = $('.can-stick');
+    var topLink = $('.page-top');
+
+
+    // Sticky navigation
+    var fixed = false;
+    var didScroll = false;
+
+    $window.scroll(function() {
+        didScroll = true;
+    });
+
+    $window.resize(function() {
+        navUtilTop = navUtil.offset();
+    });
+
+    $(document).ready(function() {
+        var scrollTop = $window.scrollTop();
+        if (scrollTop >= navUtilTop.top) {
+            didScroll = true;
+        }
+    });
+
+     // Smooth scroll to top
+     topLink.on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({
+            scrollTop: 0
+        }, 400);
+    });
+
+    function adjustScrollbar() {
+        if (didScroll) {
+            didScroll = false;
+            var scrollTop = $window.scrollTop();
+
+            if (scrollTop >= 40) {
+                navGlobal.addClass('is-minified');
+            } else {
+                navGlobal.removeClass('is-minified');
+            }
+
+            if (scrollTop >= navUtilTop.top - 30) {
+                if (!fixed) {
+                    fixed = true;
+                    canStick.addClass('is-sticky');
+                    siteWrap.css({
+                        'padding-top' : '3em'
+                    });
+                }
+            } else {
+                if (fixed) {
+                    fixed = false;
+                    canStick.removeClass('is-sticky');
+                    siteWrap.css({
+                        'padding-top' : '0'
+                    });
+                }
+            }
+        }
+    }
+
+    // Check for an adjusted scrollbar every 100ms.
+    setInterval(adjustScrollbar, 100);
     
     // Expand email form on input focus or submit if details aren't visible
     function initEmailForm() {
-        console.log("init")
-        var submitButton = jQuery('.newsletter_form button[type=submit]');
-        var formDetails = jQuery('.newsletter_form .form-details');
+        var submitButton = $('.newsletter_form button[type=submit]');
+        var formDetails = $('.newsletter_form .form-details');
 
         function showDetails() {
             if (formDetails.is(':hidden')) {
@@ -13,11 +94,11 @@
             }
         }
 
-        if (jQuery('.newsletter_form #email').val() !== '') {
+        if ($('.newsletter_form #email').val() !== '') {
             showDetails();
         }
 
-        jQuery('.newsletter_form').on('focus', 'select, input', showDetails);
+        $('.newsletter_form').on('focus', 'select, input', showDetails);
 
         submitButton.on('click', function(e) {
             if (formDetails.is(':hidden')) {
@@ -29,9 +110,6 @@
     initEmailForm();
 
 
-
-    var newsletterForm = document.getElementById('newsletter_form');
-    var newsletterWrapper = document.getElementById('form-contents');
     if (newsletterForm) {
         var blogName = newsletterForm.getAttribute('data-blog');
     }
@@ -152,6 +230,14 @@
 
     if (newsletterForm) {
         newsletterForm.addEventListener('submit', newsletterSubscribe, false);
-        console.log("suscribed")
-    }
+    }   
+
+     // Show/hide the global nav in small viewports
+     navMozToggle.on('click', function(){
+        navMoz.slideToggle('fast');
+    });
+
+   
+
+
 })(jQuery);

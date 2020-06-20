@@ -286,5 +286,5 @@ html {
 
 @media screen and (min-width: 1400px) { #newsletter-subscribe .content { width: 980px; } }
 
-.js #newsletter-subscribe .form-details, .js #newsletter-subscribe #form-details { display: none; }
-.js #newsletter-subscribe #newsletter-spinner { bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
+#newsletter-subscribe .form-details, #newsletter-subscribe #form-details { display: none; }
+#newsletter-subscribe #newsletter-spinner { bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
