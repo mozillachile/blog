@@ -1,0 +1,290 @@
+/*
+Theme Name:     Frontierline - Nightly
+Description:    The Firefox Nightly blog, a child theme of Frontierline.
+Author:         Craig Cook, Kohei Yoshino
+Template:       frontierline
+Version:        1.0
+*/
+
+@import url('../frontierline/style.css');
+
+.nav-global-twitter a,
+.nav-global-join a {
+    padding-left: 30px;
+}
+
+.nav-global-twitter a::before,
+.nav-global-join a::before {
+    display: inline-block;
+    margin: 0 5px -.35em -30px;
+    width: 25px;
+    height: 20px;
+    -webkit-background-size: 25px 200px;
+    background-size: 25px 200px;
+    background-image: url("img/icon-sprite.svg");
+    background-repeat: no-repeat;
+    content: '';
+}
+
+.nav-global-twitter a::before {
+    background-position: 0 -160px;
+}
+
+.nav-global-twitter a:hover::before,
+.nav-global-twitter a:focus::before {
+    background-position: 0 -180px;
+}
+
+.nav-global-join a::before {
+    background-position: 0 -120px;
+}
+
+.nav-global-join a:hover::before,
+.nav-global-join a:focus::before {
+    background-position: 0 -140px;
+}
+
+.nav-global .fx-cta {
+    display: none;
+}
+
+.nav-global .fx-cta .button {
+    font-size: 12px;
+    font-size: .75rem;
+    padding: .15em 20px;
+    margin: -.25em 0 0;
+}
+
+.fx-footer {
+    border-top: 1px solid #ccc;
+    padding: 30px 0 0;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.fx-footer h4 {
+    margin-bottom: 1em;
+}
+
+#social * {
+    font-family: inherit !important;
+}
+
+#social .social-post,
+#social-tabs-comments {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto !important;
+    padding: 20px !important;
+    min-width: 300px;
+}
+
+#social #reply-title {
+    padding: 0 !important;
+    font-size: 28px;
+    font-size: 1.75rem;
+    font-weight: bold;
+    background-image: none !important;
+}
+
+#social #respond textarea.social-input,
+#social #respond input.social-input {
+    width: 100%;
+    max-width: 100% !important;
+}
+
+#social .social-comment-body {
+    line-height: 1.6 !important;
+}
+
+#social .social-replied {
+    display: inline-block !important;
+    position: static !important;
+}
+
+@media screen and (max-width: 460px) {
+    #social .social-sign-in-links a {
+        display: block !important;
+        float: none !important;
+        margin: 15px auto !important;
+    }
+}
+
+@media screen and (min-width: 460px) {
+    .nav-global .fx-cta {
+        display: inline-block;
+        float: right;
+        margin: -.25em 20px 0;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    #social .social-post,
+    #social-tabs-comments {
+        width: 460px;
+    }
+}
+
+@media screen and (min-width: 760px) {
+    .nav-global .fx-cta {
+        float: right;
+        margin: .25em 0 0 10px;
+    }
+
+    .nav-global .fx-cta .button {
+        padding: .25em 20px;
+        font-size: 16px;
+        font-size: 1rem;
+        border-width: 2px;
+        -webkit-transition: font-size 250ms ease-in-out, padding 250ms ease-in-out;
+                transition: font-size 250ms ease-in-out, padding 250ms ease-in-out;
+    }
+
+    .nav-global.is-minified .fx-cta {
+        margin: -.25em 0 0 20px;
+    }
+
+    .nav-global.is-minified .fx-cta .button {
+        font-size: 12px;
+        padding: .15em 20px;
+    }
+
+    #social .social-post,
+    #social-tabs-comments {
+        width: 740px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    #social .social-post,
+    #social-tabs-comments {
+        width: 980px;
+    }
+}
+
+html {
+    margin-top: 32px !important;
+}
+
+* html body {
+    margin-top: 32px !important;
+}
+
+@media screen and ( max-width: 782px ) {
+    html { margin-top: 46px !important; }
+    * html body { margin-top: 46px !important; }
+}
+
+/* RM blog additions */
+@media screen and (min-width: 480px) {
+    #site-description {
+           line-height: initial;
+        }
+    #masthead {
+      background-image: url('/themes/frontierline-rm/img/fox-tail.png');
+    }
+}
+
+/* Author picture styling */
+.entry-info .author-photo {
+    float: right;
+    box-shadow: 0 4px 6px rgba(0,0,0,.3);
+    border: 1px solid lightgray;
+    margin: -1em 0 0em 1em;
+    padding: 10px 10px 1em 10px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    transform: rotate(5deg);
+    font-weight: bold;
+    font-family: cursive;
+    font-style: italic;
+    border-radius: 2px;
+}
+
+.entry-info .author-photo::after {
+    content: attr(alt);
+}
+
+.entry-info .author-photo img {
+    border: 1px solid darkgray;
+    margin-bottom: 1.5em;
+}
+/* end of author picture styling */
+
+/* Aside element in blog post */
+
+.entry-content aside {
+    float: left;
+    width: 200px;
+    margin: 0.5em 1em 0 0;
+    padding: 0.5em;
+    color: #fff;
+    background: #000;
+    font-style: italic;
+    text-align: center;
+}
+
+
+@-webkit-keyframes pebbles-bounce-down { 0%, 60%, 75%, 90%, 100% { -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; -webkit-transform: translate3d(0, -500px, 0); transform: translate3d(0, -500px, 0); }
+  60% { opacity: 1; -webkit-transform: translate3d(0, 25px, 0); transform: translate3d(0, 25px, 0); }
+  75% { -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }
+  90% { -webkit-transform: translate3d(0, 5px, 0); transform: translate3d(0, 5px, 0); }
+  100% { -webkit-transform: none; transform: none; } }
+@keyframes pebbles-bounce-down { 0%, 60%, 75%, 90%, 100% { transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(0, -500px, 0); }
+  60% { opacity: 1; transform: translate3d(0, 25px, 0); }
+  75% { transform: translate3d(0, 0, 0); }
+  90% { transform: translate3d(0, 5px, 0); }
+  100% { transform: none; } }
+@-webkit-keyframes pebbles-fade-in { 0% { opacity: 0; }
+  100% { opacity: 1; } }
+@keyframes pebbles-fade-in { 0% { opacity: 0; }
+  100% { opacity: 1; } }
+@-webkit-keyframes pebbles-fade-out { 0% { opacity: 1; }
+  100% { opacity: 0; } }
+@keyframes pebbles-fade-out { 0% { opacity: 1; }
+  100% { opacity: 0; } }
+#newsletter-form .form-button { width: 100%; }
+#newsletter-subscribe { background-color: #4eb5e6; color: #000; padding: 20px 0; }
+#newsletter-subscribe .form-title { background: url("/themes/frontierline/img/mozorg-newsletter.svg") center top no-repeat; -webkit-background-size: 100px 100px; background-size: 100px 100px; padding: 120px 0 20px; text-align: center; }
+#newsletter-subscribe h3 { font-size: 18px; font-size: 1rem; margin: 0 0 0.2em; text-align: center; }
+@media screen and (min-width: 760px) { #newsletter-subscribe h3 { font-size: 24px; font-size: 1.3333333333rem; } }
+@media screen and (min-width: 1000px) { #newsletter-subscribe h3 { font-size: 36px; font-size: 2rem; } }
+#newsletter-subscribe h4 { font-size: 16px; font-size: 0.8888888889rem; font-weight: normal; }
+@media screen and (min-width: 760px) { #newsletter-subscribe h4 { font-size: 18px; font-size: 1rem; } }
+@media screen and (min-width: 1000px) { #newsletter-subscribe h4 { font-size: 24px; font-size: 1.3333333333rem; } }
+#newsletter-subscribe .field { margin-bottom: 10px; }
+#newsletter-subscribe .field label { display: block; margin-bottom: 0.25em; }
+#newsletter-subscribe .field-format label { display: inline; margin-right: 20px; }
+#newsletter-subscribe .field-privacy { font-size: 12px; font-size: 0.6666666667rem; }
+#newsletter-subscribe .field-privacy input { float: left; }
+#newsletter-subscribe .field-privacy .title { display: block; padding-left: 25px; }
+#newsletter-subscribe a { color: #000; }
+#newsletter-subscribe input[type='email'] { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 14px; font-size: 0.7777777778rem; -webkit-transition: all 100ms linear; transition: all 100ms linear; background-color: #000; border: 0; color: #fff; line-height: 1.1; padding: .75em 20px; width: 100%; }
+@media screen and (min-width: 760px) { #newsletter-subscribe input[type='email'] { font-size: 16px; font-size: 0.8888888889rem; } }
+#newsletter-subscribe select { font-size: inherit; line-height: 1.5; max-width: 80%; }
+#newsletter-subscribe .form-submit .form-button { width: 100%; }
+#newsletter-subscribe .promise { line-height: 1.1; margin-top: .5em; text-align: center; }
+#newsletter-subscribe .thanks { display: none; padding-top: 10px; }
+#newsletter-subscribe .thanks p { -webkit-animation: pebbles-fade-in 150ms ease-in 800ms 1 normal both; animation: pebbles-fade-in 150ms ease-in 800ms 1 normal both; margin-top: 20px; }
+#newsletter-subscribe .newsletter_errors > ul { background: #fff; color: #c13832; padding: 10px 20px; }
+@media screen and (min-width: 760px) { #newsletter-subscribe .form-title { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; float: left; width: 49.998%; padding-left: 10px; padding-right: 10px; -webkit-background-size: 120px 120px; background-size: 120px 120px; background-position: left 10px; float: left; padding: 10px 10px 20px 140px; text-align: left; }
+  #newsletter-subscribe .form-contents, #newsletter-subscribe .thanks { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; float: left; width: 49.998%; padding-left: 10px; padding-right: 10px; }
+  #newsletter-subscribe h3 { text-align: left; } }
+@media screen and (min-width: 1000px) { #newsletter-subscribe .form-title { -webkit-background-size: 150px 150px; background-size: 150px 150px; background-position: left top; min-height: 120px; padding: 10px 10px 20px 180px; }
+  #newsletter-subscribe h3 { font-size: 24px; font-size: 1.3333333333rem; } }
+@media screen and (min-width: 1000px) and (min-width: 760px) { #newsletter-subscribe h3 { font-size: 36px; font-size: 2rem; } }
+@media screen and (min-width: 1000px) and (min-width: 1000px) { #newsletter-subscribe h3 { font-size: 48px; font-size: 2.6666666667rem; } }
+@media screen and (min-width: 1000px) { #newsletter-subscribe h4 { font-size: 16px; font-size: 0.8888888889rem; } }
+@media screen and (min-width: 1000px) and (min-width: 760px) { #newsletter-subscribe h4 { font-size: 18px; font-size: 1rem; } }
+@media screen and (min-width: 1000px) and (min-width: 1000px) { #newsletter-subscribe h4 { font-size: 24px; font-size: 1.3333333333rem; } }
+
+@media screen and (min-width: 1400px) { #newsletter-subscribe .content { width: 980px; } }
+
+.js #newsletter-subscribe .form-details, .js #newsletter-subscribe #form-details { display: none; }
+.js #newsletter-subscribe #newsletter-spinner { bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
