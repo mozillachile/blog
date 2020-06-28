@@ -14,7 +14,11 @@ prefix: [1,2,3,4,5,6]
       <header class="entry-header">
         <a href="{{ post.url }}" class="entry-link" title="Permanent link to “These Weeks in Firefox: Issue 25”" rel="bookmark">
                   <div class="post-image post-image-large">
-                      <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png">
+                      {% if post.image != null %}
+                        <img class="wp-post-image image-fallback" width="600" height="330" src="{{ post.image }}">
+                      {% else %}
+                        <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png">
+                      {% endif %}
                     </div>
                 <h2 class="entry-title">{{ post.title }}</h2>
         </a>
@@ -40,14 +44,14 @@ prefix: [1,2,3,4,5,6]
 <nav class="pagination">
   <ul class='page-numbers'>
     {% if paginator.previous_page %}
-    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a></li>
-  {% endif %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo; Previous</a></li>
+    {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <li><span class='page-numbers current'>{{ page }}</span></li>
     {% elsif page == 1 %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: 'page:num', ''}}">{{ page }}</a></li>
     {% else %}
       <li><a  class='page-numbers' href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
     {% endif %}

@@ -3,6 +3,7 @@ description: Por un internet público, libre y accesible.
 extradescription: Medio de difusión de actividades de Mozilla Chile
 email: release-mgmt@mozilla.com
 url: "https://mozillachile.cl"
+baseurl: "https://mozillachile.cl"
 github: "https://github.com/mozilla/release-blog"
 highlighter: rouge
 repository: https://github.com/mozillachile/blog
@@ -22,5 +23,23 @@ authors:
     web: https://community.mozilla.org/people/iformas/
     github: iformas
 
+  lourcastillo:
+    display_name: Lourdes Castillo
+    web: https://community.mozilla.org/people/lourcastillo/
+    github: lourcastillo
+
+  Miguel Pedreros:
+    display_name: Miguel Pedreros
+    web: https://community.mozilla.org/people/ocioslax/
+    github: ocioslax
+
+  Javier Martínez Ortiz:
+    display_name: Javier Martínez Ortiz
+    web: https://mozillians.org/en-US/u/hyoga2k/
+
+  Mozilla:
+    display_name: Mozilla
+    web: https://mozillachile.cl
+    
 paginate: 12
 excerpt_separator: "<!-- more -->"
