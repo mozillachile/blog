@@ -3,7 +3,6 @@ description: Por un internet público, libre y accesible.
 extradescription: Medio de difusión de actividades de Mozilla Chile
 email: release-mgmt@mozilla.com
 url: "https://mozillachile.cl"
-baseurl: "https://mozillachile.cl"
 github: "https://github.com/mozilla/release-blog"
 highlighter: rouge
 repository: https://github.com/mozillachile/blog
