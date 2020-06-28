@@ -27,6 +27,12 @@ authors:
     web: https://community.mozilla.org/people/lourcastillo/
     github: lourcastillo
 
+    Eduardo Urcullú:
+      display_name: Eduardo Urcullú
+      web: https://reps.mozilla.org/u/Urcu/
+      github: lourcastillo
+
+
   Miguel Pedreros:
     display_name: Miguel Pedreros
     web: https://community.mozilla.org/people/ocioslax/
@@ -35,6 +41,12 @@ authors:
   Javier Martínez Ortiz:
     display_name: Javier Martínez Ortiz
     web: https://mozillians.org/en-US/u/hyoga2k/
+
+  ravmn:
+    display_name: Richard von Moltke Necochea
+    web: https://community.mozilla.org/people/ravmn/
+    github: RAVMN
+
 
   Mozilla:
     display_name: Mozilla

@@ -44,7 +44,7 @@ prefix: [1,2,3,4,5,6]
 <nav class="pagination">
   <ul class='page-numbers'>
     {% if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo; Previous</a></li>
+      <li><a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo; Anterior</a></li>
     {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -58,9 +58,9 @@ prefix: [1,2,3,4,5,6]
   {% endfor %}
 
   {% if paginator.next_page %}
-    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Siguiente &raquo;</a></li>
   {% else %}
-    <li><span>Next &raquo;</span></li>
+    <li><span>Siguiente &raquo;</span></li>
 
   {% endif %}
 </ul>
