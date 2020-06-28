@@ -27,11 +27,9 @@ authors:
     web: https://community.mozilla.org/people/lourcastillo/
     github: lourcastillo
 
-    Eduardo Urcullú:
-      display_name: Eduardo Urcullú
-      web: https://reps.mozilla.org/u/Urcu/
-      github: lourcastillo
-
+  Eduardo Urcullú:
+    display_name: Eduardo Urcullú
+    web: https://reps.mozilla.org/u/Urcu/
 
   Miguel Pedreros:
     display_name: Miguel Pedreros
@@ -47,8 +45,7 @@ authors:
     web: https://community.mozilla.org/people/ravmn/
     github: RAVMN
 
-
-  Mozilla:
+  mozilla:
     display_name: Mozilla
     web: https://mozillachile.cl
     
