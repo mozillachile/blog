@@ -16,7 +16,7 @@ tags:
   - mozilla
   - Mozilla Chile
 ---
-_Esta es una traducción del [artículo original](https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/) publicado en el blog de Mozilla Hacks. Traducción por Sergio Carlavilla Delgado._
+Esta es una traducción del [artículo original](https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/) publicado en el blog de Mozilla Hacks. Traducción por Sergio Carlavilla Delgado._
 
 `console.log` no es un depurador. Es genial para averiguar qué está haciendo tu aplicación JavaScript, pero se limita a escupir una cantidad mínima de información. Si tu código es complejo, necesitarás un depurador adecuado. Es por eso que hemos agregado una nueva sección a el Firefox DevTools Playground, que [trata sobre la depuración](https://mozilladevelopers.github.io/playground/debugger). Hemos creado cuatro lecciones básicas que usan el depurador de Firefox para examinar y arreglar una aplicación de tareas (_to-do_) en JavaScript.
 

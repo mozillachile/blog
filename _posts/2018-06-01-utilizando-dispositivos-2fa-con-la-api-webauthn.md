@@ -16,7 +16,7 @@ tags:
   - Chile
   - dispositivos
 ---
-_Esta es una traducción del [artículo original](https://hacks.mozilla.org/2018/01/using-hardware-token-based-2fa-with-the-webauthn-api/) publicado en el blog de Mozilla Hacks. Traducción por Emmanuel Sanchez.  
+Esta es una traducción del [artículo original](https://hacks.mozilla.org/2018/01/using-hardware-token-based-2fa-with-the-webauthn-api/) publicado en el blog de Mozilla Hacks. Traducción por Emmanuel Sanchez.  
 _ 
 
 Para proveer una seguridad mayor al momento de iniciar sesiones, los sitios web utilizan la autenticación de dos pasos (2FA, _two-factor authentication_), comúnmente utilizando una aplicación de smartphone o mensajes de texto. Estos mecanismos hacen que los usuarios sean menos susceptibles a los ataques de [phishing](https://developer.mozilla.org/es/docs/Mozilla/Phishing), pero no son perfectos (los usuarios pueden ser engañados para que entreguen sus códigos y los mensajes de texto pueden ser interceptados de varias maneras).
