@@ -7,33 +7,38 @@ prefix: [1,2,3,4,5,6]
 <div class="content posts-grid hfeed">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
-    {% assign prefix = page.prefix | sample: 2 %}
+      {% assign prefix = page.prefix | sample: 2 %}
 
-    <article class="post-summary post type-post" >
+      <article class="post-summary post type-post" >
 
-      <header class="entry-header">
-        <a href="{{ post.url }}" class="entry-link" title="Link a “{{ post.title }}”" rel="bookmark">
-                  <div class="post-image post-image-large">
-                      {% if post.image != null %}
-                        <img class="wp-post-image image-fallback" width="600" height="330" src="{{ post.image }}">
-                      {% else %}
-                        <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png">
-                      {% endif %}
-                    </div>
-                <h2 class="entry-title">{{ post.title }}</h2>
-        </a>
+        <header class="entry-header">
+          <a href="{{ post.url }}" class="entry-link" title="Link a “{{ post.title }}”" rel="bookmark">
+                    <div class="post-image post-image-large">
+                        {% if post.image != null %}
+                          <img class="wp-post-image image-fallback" width="600" height="330" src="{{ post.image }}">
+                        {% else %}
+                          <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png">
+                        {% endif %}
+                      </div>
+                  <h2 class="entry-title">{{ post.title }}</h2>
+          </a>
 
           <div class="entry-info">
             <address class="vcard">
-          {% if post.author != null %}
-            <a href="{{ site.authors[post.author].web }}">{{ site.authors[post.author].display_name }}</a>
-        {% endif %}
-        </address>
-          <time class="date">{{ post.date | date_to_string }}</time>
+              {% if post.author != null %}
+                <a href="{{ site.authors[post.author].web }}">{{ site.authors[post.author].display_name }}</a>
+              {% endif %}
+            </address>
+            <time class="date">{{ post.date | date: "%d/%m/%Y" }}</time>
+          </div>
+        </header>
+        <div class="entry-summary">
+          <p>
+            {{ post.excerpt | strip_html | truncatewords: 65 }}
+            <a class="go" href="{{ post.url }}">Leer más</a>
+          </p>
         </div>
-      </header>
-       {{ post.excerpt | strip_html | truncatewords: 65 }}
-    </article>
+      </article>
     {% endfor %}
 </div>
 

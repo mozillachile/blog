@@ -23,7 +23,7 @@ bodyclasses: "post-template-default single single-post single-format-standard co
       {% endif %}
 
     </address>
-      <time class="date">{{ page.date | date_to_string }}</time>
+      <time class="date">{{ page.date | date: "%d/%m/%Y" }}</time>
     </div>
 
   </header>
