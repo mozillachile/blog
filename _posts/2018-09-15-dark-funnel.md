@@ -4,7 +4,6 @@ title: Dark Funnel
 date: 2018-09-15T13:55:54-03:00
 author: Miguel Pedreros
 layout: post
-guid: http://www.mozillachile.cl/?p=1274
 permalink: /blog/2018/09/15/dark-funnel/
 image: /images/2018/09/photo4954083792428050415-300x165.jpg
 categories:

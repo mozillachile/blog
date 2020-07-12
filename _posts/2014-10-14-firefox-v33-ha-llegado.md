@@ -4,7 +4,6 @@ title: Firefox v33 ha llegado
 date: 2014-10-14T00:00:26-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=843
 permalink: /blog/2014/10/14/firefox-v33-ha-llegado/
 categories:
   - Firefox

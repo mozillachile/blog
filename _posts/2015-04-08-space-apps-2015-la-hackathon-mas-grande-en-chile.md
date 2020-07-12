@@ -4,7 +4,6 @@ title: Space Apps 2015 la hackathon más grande en Chile
 date: 2015-04-08T12:48:49-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=988
 permalink: /blog/2015/04/08/space-apps-2015-la-hackathon-mas-grande-en-chile/
 image: /images/2014/04/10171664_376479525826255_5109141388443283901_n.jpg
 categories:
@@ -50,7 +49,7 @@ El sábado estaremos impartiendo un taller de **<a href="https://location.servic
 
 **PARA MÁS INFO SÍGUELOS EN: **
 
-**Twitter: **<a href="http://www.twitter.com/SpaceApps_CL" target="_blank" rel="noopener noreferrer"><b>@spaceapps_cl</b></a>** / ht: #SpaceApps_CL**
+**Twitter: **<a href="https://www.twitter.com/SpaceApps_CL" target="_blank" rel="noopener noreferrer"><b>@spaceapps_cl</b></a>** / ht: #SpaceApps_CL**
 
 **Facebook: <a href="http://www.facebook.com/SpaceappsCL" target="_blank" rel="noopener noreferrer">SpaceApps_CL</a>**
 

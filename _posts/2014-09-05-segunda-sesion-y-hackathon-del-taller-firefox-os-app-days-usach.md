@@ -4,7 +4,6 @@ title: Segunda sesión y hackathon del Taller Firefox OS App Days USACH
 date: 2014-09-05T00:31:46-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=778
 permalink: /blog/2014/09/05/segunda-sesion-y-hackathon-del-taller-firefox-os-app-days-usach/
 categories:
   - Comunidad
@@ -46,7 +45,7 @@ _Firefox Marketplace y Hackathon_
 • Presentación de aplicaciones.  
 • Evaluación y premiación.
 
-http://www.slideshare.net/lourcastillo/firefox-os-app-days-usach-2014
+https://www.slideshare.net/lourcastillo/firefox-os-app-days-usach-2014
 
 **La ayuda constante a través del hashtag #FirefoxosUSACH**
 

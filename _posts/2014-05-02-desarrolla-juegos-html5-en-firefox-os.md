@@ -4,7 +4,6 @@ title: Desarrolla juegos HTML5 en Firefox OS
 date: 2014-05-02T13:05:23-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=638
 permalink: /blog/2014/05/02/desarrolla-juegos-html5-en-firefox-os/
 categories:
   - Comunidad
@@ -23,7 +22,7 @@ tags:
   - Pixi JS
 ---
 <div id="post_thumbnail">
-  <img class="attachment-post-thumbnail wp-post-image" src="http://lulucastillo.cl/wp-content/uploads/2014/04/Curso-de-desarrollo-de-Aplicaciones-en-HTML5.jpg" alt="Curso-de-desarrollo-de-Aplicaciones-en-HTML5" width="595" height="470" />
+  <img class="attachment-post-thumbnail wp-post-image" src="/images/2014/04/Curso-de-desarrollo-de-Aplicaciones-en-HTML5.jpg" alt="Curso-de-desarrollo-de-Aplicaciones-en-HTML5" width="595" height="470" />
 </div>
 
 <div class="entry-content">
@@ -158,7 +157,7 @@ tags:
       <span class="author-g-3n5ygoyhbm83ge3f"><a href="http://impactjs.com/" target="_blank">Impact JS</a> es una biblioteca de pago, existe un <a href="http://shop.oreilly.com/product/0636920022633.do" target="_blank">libro de la editorial O’Reilly</a> sobre lo mismo que es súper bueno.</span>
     </li>
     <li>
-      <a href="http://www.cocos2d-x.org/" target="_blank">Cocos2d-x </a>es un <a title="Framework" href="http://es.wikipedia.org/wiki/Framework">framework</a>, basado en (<a title="Pyglet" href="http://es.wikipedia.org/wiki/Pyglet">Pyglet</a>), escrito en <a title="Python" href="http://es.wikipedia.org/wiki/Python">Python</a> para crear juegos en 2d, y presentaciones gráficas. Para crear juegos HTML5 con Cocos2d, recomiendo <a href="http://www.cocos2d-x.org/wiki/Cocos2d-JS" target="_blank">Cocos2d-JS</a>.
+      <a href="http://www.cocos2d-x.org/" target="_blank">Cocos2d-x </a>es un <a title="Framework" href="https://es.wikipedia.org/wiki/Framework">framework</a>, basado en (<a title="Pyglet" href="https://es.wikipedia.org/wiki/Pyglet">Pyglet</a>), escrito en <a title="Python" href="https://es.wikipedia.org/wiki/Python">Python</a> para crear juegos en 2d, y presentaciones gráficas. Para crear juegos HTML5 con Cocos2d, recomiendo <a href="http://www.cocos2d-x.org/wiki/Cocos2d-JS" target="_blank">Cocos2d-JS</a>.
     </li>
     <li>
       <a href="http://craftyjs.com/" target="_blank"><span class="author-g-3n5ygoyhbm83ge3f">Crafty JS</span></a>

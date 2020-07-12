@@ -4,7 +4,6 @@ title: ¡Firefox 29 ya está aquí!
 date: 2014-04-29T10:34:40-04:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=601
 permalink: /blog/2014/04/29/firefox-29-ya-esta-aqui/
 categories:
   - Firefox

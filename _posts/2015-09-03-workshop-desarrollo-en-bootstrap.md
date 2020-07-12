@@ -4,7 +4,6 @@ title: Workshop desarrollo en Bootstrap
 date: 2015-09-03T21:29:21-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=1030
 permalink: /blog/2015/09/03/workshop-desarrollo-en-bootstrap/
 image: /images/2015/01/IMG_7340.jpg
 categories:
@@ -25,7 +24,7 @@ Hace unos 3 o 4 años, ahí por 2011 **se empezó a hablar de los sitios web res
 
   
 El taller se realizará el sábado 5 y 12 de Septiembre de 10 a 15 horas en la <span lang="ES-CL">INACAP Sede Maipú.</span> <span lang="ES-CL">Avenida Américo Vespucio 974, Maipú. Con el apoyo de la Directiva de la Carrera Área Informática & Telecomunicaciones</span>, en su afán de promover e incentivar a los interesados/as en el área de la programación e inclusión al mundo de las TICs.  
-La actividad contará con la mentoría de <a href="https://twitter.com/SebsLakes" target="_blank">Sebastian Lagos</a>, Ingeniero en Informática y creador de <a href="http://chiletemblores.cl/" target="_blank">Chiletemblores.cl</a>. Además es miembro del equipo de Desarrollo de Firefox OS para  <a title="Mozilla Chile" href="http://www.mozillachile.cl/" target="_blank">Mozilla Chile.</a>
+La actividad contará con la mentoría de <a href="https://twitter.com/SebsLakes" target="_blank">Sebastian Lagos</a>, Ingeniero en Informática y creador de <a href="http://chiletemblores.cl/" target="_blank">Chiletemblores.cl</a>. Además es miembro del equipo de Desarrollo de Firefox OS para  <a title="Mozilla Chile" href="https://www.mozillachile.cl/" target="_blank">Mozilla Chile.</a>
 
 **REQUERIMIENTOS PARTICIPANTES:**
 
@@ -46,6 +45,6 @@ Componentes, Glyphicons, Dropdowns, Grupos de botones, botones dropdowns, Grupos
 
 **REFERENCIAS**
 
-[http://getbootstrap.com](http://getbootstrap.com/)  
+[https://getbootstrap.com](https://getbootstrap.com/)  
 <http://www.w3schools.com/bootstrap/>  
 <https://librosweb.es/libro/bootstrap_3/>

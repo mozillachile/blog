@@ -4,7 +4,6 @@ title: Utilizando dispositivos 2FA con la API WebAuthn
 date: 2018-06-01T17:50:23-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=1264
 permalink: /blog/2018/06/01/utilizando-dispositivos-2fa-con-la-api-webauthn/
 image: /images/2018/06/2fastud-fullsize-300x165.jpg
 categories:
@@ -98,7 +97,7 @@ Nos gustaría fomentar que los desarrolladores empiecen a experimentar con WebAu
 
 Es muy emocionate traer la estandarización de la autenticación de dos factores a la web; la criptografía de llave pública también protege nuestra información cuando viaja a través de internet a través del protocolo TLS, y ahora permite que los ataques phishing sean más difíciles de realizar. Prueba WebAuthn en Firefox ([firefox.com](http://firefox.com)).
 
-[<img class="aligncenter size-full wp-image-41672" src="https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351.jpg" sizes="(max-width: 650px) 100vw, 650px" srcset="https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351.jpg 650w, https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351-300x247.jpg 300w, https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351-130x107.jpg 130w, https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351-100x83.jpg 100w" alt="Autenticación con token" width="650" height="535" />](https://www.mozilla-hispano.org/wp-content/uploads/20180111_162351.jpg)
+[<img class="aligncenter size-full wp-image-41672" src="/images/2018/06/20180111_162351.jpg" sizes="(max-width: 650px) 100vw, 650px" srcset="/images/2018/06/ 650w, /images/2018/06/20180111_162351-300x247.jpg 300w, /images/2018/06/20180111_162351-130x107.jpg 130w, /images/2018/06/20180111_162351-100x83.jpg 100w" alt="Autenticación con token" width="650" height="535" />](/images/2018/06/20180111_162351.jpg)
 
 ### Una nota final sobre pruebas
 

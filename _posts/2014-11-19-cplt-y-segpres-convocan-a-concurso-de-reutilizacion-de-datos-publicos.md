@@ -4,7 +4,6 @@ title: CPLT y SEGPRES convocan a concurso de Reutilización de Datos Públicos
 date: 2014-11-19T20:58:19-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=922
 permalink: /blog/2014/11/19/cplt-y-segpres-convocan-a-concurso-de-reutilizacion-de-datos-publicos/
 image: /images/2014/11/AFICHE-ABRECL_2014.jpg
 categories:
@@ -36,6 +35,6 @@ De esta forma, la convocatoria es a utilizar datos públicos para desarrollar ap
 
 El concurso cuenta con un total de USD 20.000 en premios a repartir.
 
-Para mayor información, ingresa al sitio web del Laboratorio de Innovación en Transparencia del Consejo para la Transparencia (<http://labtransparencia.cl/abrecl>) y/o al Portal de Datos Abiertos (<http://datos.gob.cl/abrecl>).
+Para mayor información, ingresa al sitio web del Laboratorio de Innovación en Transparencia del Consejo para la Transparencia (<https://labtransparencia.cl/abrecl>) y/o al Portal de Datos Abiertos (<https://datos.gob.cl/abrecl>).
 
-Twitter: <a href="http://twitter.com/labcivico" target="_blank" rel="noopener noreferrer">@labcivico</a>
+Twitter: <a href="https://twitter.com/labcivico" target="_blank" rel="noopener noreferrer">@labcivico</a>

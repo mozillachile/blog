@@ -4,7 +4,6 @@ title: El futuro de Firefox OS
 date: 2015-12-11T10:51:52-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=1093
 permalink: /blog/2015/12/11/el-futuro-de-firefox-os/
 image: /images/2015/01/IMG_7367.jpg
 categories:

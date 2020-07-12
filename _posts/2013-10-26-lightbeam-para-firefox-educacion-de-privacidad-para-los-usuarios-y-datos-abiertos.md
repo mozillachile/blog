@@ -5,7 +5,6 @@ date: 2013-10-26T02:03:13-03:00
 author: lourcastillo
 excerpt: Lightbeam de Mozilla para Firefox permite a los usuarios visualizar cómo los sitios web realizan el seguimiento de ellos y por qué.
 layout: post
-guid: http://www.mozillachile.cl/?p=236
 permalink: /blog/2013/10/26/lightbeam-para-firefox-educacion-de-privacidad-para-los-usuarios-y-datos-abiertos/
 categories:
   - Firefox
@@ -19,7 +18,7 @@ tags:
   - mozilla
   - privacidad
 ---
-El 25 de octubre se anunció el lanzamiento de la versión mejorada de Collusion, llamado <a href="http://www.mozilla.org/en-US/lightbeam/" target="_blank">Lightbeam para Firefox</a>. La presentación se realizó en el <a href="http://mozillafestival.org/" target="_blank">MozFest</a> de Londres.
+El 25 de octubre se anunció el lanzamiento de la versión mejorada de Collusion, llamado <a href="https://www.mozilla.org/en-US/lightbeam/" target="_blank">Lightbeam para Firefox</a>. La presentación se realizó en el <a href="https://mozillafestival.org/" target="_blank">MozFest</a> de Londres.
 
 Lightbeam es un complemento para Firefox que visualiza el tráfico de páginas externas hacia los datos de navegación. El desarrollo de Lightbeam para Firefox fue realizado con el apoyo de la <a href="http://www.fordfoundation.org/" target="_blank">Fundación Ford,</a> <a href="http://www.nserc-crsng.gc.ca/" target="_blank">Natural Sciences and Engineering Research Council,</a> con la ayuda de profesores y estudiantes de <a href="http://www.simcentre.ca/" target="_blank">Emily Carr University of Art and Design</a>.
 
@@ -41,7 +40,7 @@ En Mozilla creemos que cada uno debe tener el control de sus datos y de su intim
 
 <img class="aligncenter" alt="" src="https://blog.mozilla.org/files/2013/10/lightbeam_logo-wordmark_800x250-252x78.png" width="252" height="78" /> 
 
-Lightbeam de Firefox se encuentra todavía en una etapa de desarrollo, siendo sólo la segunda versión del complemento. Todo el código se publica en <a href="https://github.com/mozilla/lightbeam" target="_blank">Github</a> y está disponible para la comunidad de Mozilla para hackear, ampliar y mejorar. <a href="http://www.mozilla.org/en-US/lightbeam/" target="_blank">Lightbeam está disponible para descargar</a>.
+Lightbeam de Firefox se encuentra todavía en una etapa de desarrollo, siendo sólo la segunda versión del complemento. Todo el código se publica en <a href="https://github.com/mozilla/lightbeam" target="_blank">Github</a> y está disponible para la comunidad de Mozilla para hackear, ampliar y mejorar. <a href="https://www.mozilla.org/en-US/lightbeam/" target="_blank">Lightbeam está disponible para descargar</a>.
 
 **Fuente:** <a href="https://blog.mozilla.org/blog/2013/10/25/lightbeam-for-firefox-privacy-education-for-users-open-data-for-publishers/" target="_blank">The Mozilla Blog</a>
 

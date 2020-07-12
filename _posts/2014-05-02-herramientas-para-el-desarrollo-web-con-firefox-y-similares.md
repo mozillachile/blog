@@ -4,7 +4,6 @@ title: Herramientas para el desarrollo web con Firefox y similares
 date: 2014-05-02T11:58:54-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=633
 permalink: /blog/2014/05/02/herramientas-para-el-desarrollo-web-con-firefox-y-similares/
 categories:
   - Comunidad
@@ -38,7 +37,7 @@ tags:
 &nbsp;
 
 <p style="margin-bottom: 0cm;line-height: 100%">
-  <img class="aligncenter size-full wp-image-1051" src="http://www.psep.cl/wp-content/uploads/2014/05/imagen1.png" alt="tamper data" width="600" height="322" />
+  <img class="aligncenter size-full wp-image-1051" src="/images/2014/05/imagen1.png" alt="tamper data" width="600" height="322" />
 </p>
 
 <p style="margin-bottom: 0cm;line-height: 100%">
@@ -64,7 +63,7 @@ tags:
 &nbsp;
 
 <p style="margin-bottom: 0cm;line-height: 100%">
-  <img class="aligncenter size-full wp-image-1056" src="http://www.psep.cl/wp-content/uploads/2014/05/imagen4.png" alt="SQLite Manager" width="600" height="396" />
+  <img class="aligncenter size-full wp-image-1056" src="/images/2014/05/imagen4.png" alt="SQLite Manager" width="600" height="396" />
 </p>
 
 <p style="margin-bottom: 0cm;line-height: 100%">
@@ -92,7 +91,7 @@ tags:
 &nbsp;
 
 <p style="margin-bottom: 0cm;line-height: 100%">
-  <img class="aligncenter size-full wp-image-1059" src="http://www.psep.cl/wp-content/uploads/2014/05/imagen8.png" alt="APP Manager" width="600" height="481" />
+  <img class="aligncenter size-full wp-image-1059" src="/images/2014/05/imagen8.png" alt="APP Manager" width="600" height="481" />
 </p>
 
 <p style="margin-bottom: 0cm;line-height: 100%">
@@ -142,7 +141,7 @@ tags:
 &nbsp;
 
 <p style="margin-bottom: 0cm;line-height: 100%">
-  <img class="aligncenter size-full wp-image-1060" src="http://www.psep.cl/wp-content/uploads/2014/05/imagen9.png" alt="Adblock" width="281" height="235" />
+  <img class="aligncenter size-full wp-image-1060" src="/images/2014/05/imagen9.png" alt="Adblock" width="281" height="235" />
 </p>
 
 <p style="margin-bottom: 0cm;line-height: 100%">
@@ -152,5 +151,5 @@ tags:
 &nbsp;
 
 <p style="margin-bottom: 0cm;line-height: 100%">
-  <em>Artículo original en <a title="Herramientas para el desarrollo web con Firefox y similares - Psep.cl" href="http://www.psep.cl/2014/05/02/herramientas-para-el-desarrollo-web-con-firefox-y-similares" target="_blank">Psep.cl</a>, puede ser distribuido y modificado mientras incluya esta nota según <a href="http://creativecommons.org/licenses/by-sa/3.0/cl/" target="_blank">Licencia CC</a>.</em>
+  <em>Artículo original en <a title="Herramientas para el desarrollo web con Firefox y similares - Psep.cl" href="https://mozillachile.cl/2014/05/02/herramientas-para-el-desarrollo-web-con-firefox-y-similares" target="_blank">Psep.cl</a>, puede ser distribuido y modificado mientras incluya esta nota según <a href="http://creativecommons.org/licenses/by-sa/3.0/cl/" target="_blank">Licencia CC</a>.</em>
 </p>

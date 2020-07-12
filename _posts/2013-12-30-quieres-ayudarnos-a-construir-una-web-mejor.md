@@ -4,7 +4,6 @@ title: ¿Quieres ayudarnos a construir una Web mejor?
 date: 2013-12-30T15:45:22-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=368
 permalink: /blog/2013/12/30/quieres-ayudarnos-a-construir-una-web-mejor/
 categories:
   - Comunidad
@@ -24,7 +23,7 @@ tags:
   </p>
 </div>
 
-> Somos un movimiento, no un negocio. Mozilla, el desarrollador de Firefox, es una organización sin fines de lucro, lo que significa que dependemos de donaciones y subvenciones para ayudarnos a crear una Web mejor. Por favor, considera hacer una donación de fin de año: <a href="http://mzl.la/1bglJ93" target="_blank" rel="nofollow nofollow">http://mzl.la/1bglJ93</a>
+> Somos un movimiento, no un negocio. Mozilla, el desarrollador de Firefox, es una organización sin fines de lucro, lo que significa que dependemos de donaciones y subvenciones para ayudarnos a crear una Web mejor. Por favor, considera hacer una donación de fin de año: <a href="https://mzl.la/1bglJ93" target="_blank" rel="nofollow nofollow">https://mzl.la/1bglJ93</a>
 
 <!--more-->
 
@@ -34,4 +33,4 @@ Como comunidad chilena de Mozilla, te pedimos que hagas una donación en la medi
 
 Es nuestro propósito de Año Nuevo seguir construyendo una comunidad fuerte y comprometida con una Internet libre, de todos y para todos.
 
-Si quieres donar, sigue el siguiente link: <a href="http://mzl.la/1bglJ93" target="_blank" rel="nofollow nofollow">http://mzl.la/1bglJ93</a>
+Si quieres donar, sigue el siguiente link: <a href="https://mzl.la/1bglJ93" target="_blank" rel="nofollow nofollow">https://mzl.la/1bglJ93</a>

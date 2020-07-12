@@ -4,7 +4,6 @@ title: 'SPACE APPS CHILE 2014: La hackatón más grande del mundo'
 date: 2014-04-09T10:18:53-03:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=438
 permalink: /blog/2014/04/09/space-apps-chile-2014-la-hackaton-mas-grande-del-mundo/
 image: /images/2014/04/BkPvVC1CQAAXFCV.jpg
 categories:
@@ -21,7 +20,7 @@ Esta hackaton por equipos, se desarrollará este sábado 12 y domingo 13 de abri
 
 Invitamos a quienes quieran participar junto a sus equipos en Space Apps, a inscribirse en la Sede Santiago en <a href="https://2014.spaceappschallenge.org/register/" target="_blank" rel="nofollow nofollow">https://2014.spaceappschallenge.org/register/</a> y a difundir entre sus cercanos en Twitter (@spaceapps\_cl) y Facebook (/spaceapps\_cl).
 
-> ¡Crea tu equipo y participa! Recuerda tener en cuenta [#FirefoxOS](https://www.facebook.com/hashtag/firefoxos) para tus aplicaciones [#OpenWeb.](https://www.facebook.com/hashtag/openweb) Info: <a title="Un dispositivo Firefox OS ya está en manos de un chileno" href="http://www.mozillachile.cl/blog/2014/02/22/firefox-os-presentado-en-chile/" target="_blank">Firefox OS en el mercado chileno</a> 🙂
+> ¡Crea tu equipo y participa! Recuerda tener en cuenta [#FirefoxOS](https://www.facebook.com/hashtag/firefoxos) para tus aplicaciones [#OpenWeb.](https://www.facebook.com/hashtag/openweb) 🙂
 
 Datos clave  
 Inscripción: <a href="https://2014.spaceappschallenge.org/register/" target="_blank" rel="nofollow nofollow">https://2014.spaceappschallenge.org/register/</a>  

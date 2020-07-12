@@ -4,7 +4,6 @@ title: Cuenta alegre de Firefox OS App Days USACH
 date: 2014-09-09T02:05:07-03:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=801
 permalink: /blog/2014/09/09/cuenta-alegre-de-firefox-os-app-days-usach/
 categories:
   - Comunidad
@@ -64,12 +63,12 @@ Muchas gracias a todos los que compartieron tres días importantes para el futur
 Les recordamos que pueden <a href="https://marketplace.firefox.com/developers/submit/" target="_blank">subir las aplicaciones al Marketplace</a> con un par de clics.  
 <a href="https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame" target="_blank">Dispositivos para desarrolladores de Flame</a>.  
 <a href="https://etherpad.mozilla.org/FxOSAppDays-resources" target="_blank">Ejemplos y plantillas usadas en el hackaton</a>, <a href="https://wiki.mozilla.org/ReMo/SOPs/AppDaysInABox/Resources" target="_blank">más recursos</a>.  
-Mozilla es una comunidad de entusiastas de la web como tú. Descubre <a href="http://www.mozillachile.cl/colabora/" target="_blank">cómo participar</a>.
+Mozilla es una comunidad de entusiastas de la web como tú. Descubre cómo participar.
 
-Si no pudiste asistir o quieres revisar algunas de las presentaciones en detalle, puedes ver uno de nuestros anteriores <a href="http://www.mozilla-hispano.org/firefox-os-app-days-valladolid/" target="_blank">AppDays que documentamos en vídeo</a>, <a href="http://www.mozillachile.cl/?s=App+days" target="_blank">la de Chile</a> y/o ver el <a href="http://devcode.la/firefoxos/" target="_blank">curso online Firefox OS</a> realizado por <a href="http://mozilla.pe/" target="_blank">Mozilla Perú</a>.
+Si no pudiste asistir o quieres revisar algunas de las presentaciones en detalle, puedes ver uno de nuestros anteriores <a href="https://www.mozilla-hispano.org/firefox-os-app-days-valladolid/" target="_blank">AppDays que documentamos en vídeo</a>,la de Chile y/o ver el <a href="http://devcode.la/firefoxos/" target="_blank">curso online Firefox OS</a> realizado por <a href="http://mozilla.pe/" target="_blank">Mozilla Perú</a>.
 
 Recordamos que pueden seguir a la comunidad Mozilla Chile y todas las novedades de Firefox OS desde las redes sociales, también en Facebook <a href="https://www.facebook.com/groups/mobilizerchile/" target="_blank">Team Mobilizer</a> y el hashtag <a href="https://twitter.com/hashtag/firefoxosusach?f=realtime&src=hash" target="_blank">#FirefoxosUSACH</a>.
 
-Agradecemos a las organizaciones por el apoyo y realización de este taller, la <a href="http://www.informaticos.usach.cl/" target="_blank">Asociación de Informáticos UTE-USACH A.G.</a> y <a href="http://sitios.diinf.usach.cl/cgl/" target="_blank">Comunidad CGL USACH</a> por la ayuda constante durante las tres semanas de trabajo y apoyo cooperativo. Así mismo damos las gracias a nuestro instructor, <a title="Psep.cl" href="http://www.psep.cl/" target="_blank">Pablo Sepúlveda</a>, por lo entregado.
+Agradecemos a las organizaciones por el apoyo y realización de este taller, la <a href="http://www.informaticos.usach.cl/" target="_blank">Asociación de Informáticos UTE-USACH A.G.</a> y <a href="https://sitios.diinf.usach.cl/cgl/" target="_blank">Comunidad CGL USACH</a> por la ayuda constante durante las tres semanas de trabajo y apoyo cooperativo. Así mismo damos las gracias a nuestro instructor, <a title="Psep.cl" href="https://mozillachile.cl/" target="_blank">Pablo Sepúlveda</a>, por lo entregado.
 
 > ¡Entre todos marcaremos la diferencia en el ecosistema móvil! Happy Hacking!

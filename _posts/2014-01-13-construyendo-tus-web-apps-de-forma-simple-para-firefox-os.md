@@ -4,7 +4,6 @@ title: 'Construyendo tus web apps de forma simple para  Firefox OS'
 date: 2014-01-13T13:28:25-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=372
 permalink: /blog/2014/01/13/construyendo-tus-web-apps-de-forma-simple-para-firefox-os/
 categories:
   - Firefox
@@ -15,9 +14,9 @@ tags:
   - guia
   - web apps
 ---
-<img class="size-medium wp-image-1580 alignright" alt="firefoxos_boton_azul2" src="http://mozilla.pe/wp-content/uploads/2013/08/firefoxos_boton_azul2-252x252.png" width="252" height="252" />
+<img class="size-medium wp-image-1580 alignright" alt="firefoxos_boton_azul2" src="images/2013/08/firefoxos_boton_azul2-252x252.png" width="252" height="252" />
 
-> Basado en la <a title="Tu app para Firefox OS en 5 pasos" href="http://mozilla.pe/firefoxos-dev" target="_blank">entrada original</a> de Mozilla Perú, replicada por <a title="Tu app para Firefox OS en 5 pasos" href="http://www.mozilla-hispano.org/tu-app-para-firefox-os-en-5-pasos/" target="_blank">Jorge Villalobos</a> en Mozilla Hispano.
+> Basado en la <a title="Tu app para Firefox OS en 5 pasos" href="http://mozilla.pe/firefoxos-dev" target="_blank">entrada original</a> de Mozilla Perú, replicada por <a title="Tu app para Firefox OS en 5 pasos" href="https://www.mozilla-hispano.org/tu-app-para-firefox-os-en-5-pasos/" target="_blank">Jorge Villalobos</a> en Mozilla Hispano.
 
 Firefox OS, el sistema operativo de Mozilla para dispositivos móviles, trae la velocidad, personalización y libertad de Firefox a los celulares.<!--more-->
 
@@ -36,7 +35,7 @@ Por estar basadas en estándares web, las aplicaciones de Firefox OS corren tamb
 
 ### Recursos adicionales:
 
-  * [Firefox OS Building Blocks](http://buildingfirefoxos.com/): Componentes gráficos utilizados en Firefox OS y que pueden usarse en cualquier aplicación.
+  * [Firefox OS Building Blocks](https://buildingfirefoxos.com/): Componentes gráficos utilizados en Firefox OS y que pueden usarse en cualquier aplicación.
   * [WebAPI](https://developer.mozilla.org/es/docs/WebAPI): Serie de funciones en JavaScript para controlar componentes de hardware y software en Firefox OS.
   * [Firefox OS App Icons](https://www.mozilla.org/en-US/styleguide/products/firefox-os/icons/): Una guía de estilo a tener en cuenta al elaborar íconos de aplicaciones en Firefox OS.
 

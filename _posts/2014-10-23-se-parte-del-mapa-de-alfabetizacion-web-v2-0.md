@@ -4,7 +4,6 @@ title: Sé parte del Mapa de Alfabetización Web v2.0
 date: 2014-10-23T23:12:13-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=873
 permalink: /blog/2014/10/23/se-parte-del-mapa-de-alfabetizacion-web-v2-0/
 categories:
   - Comunidad
@@ -39,12 +38,12 @@ Las propuestas son las siguientes:
 
 Hemos añadido  estos temas a una encuesta en los siguientes idiomas:
 
-  * <a class="external text" href="http://goo.gl/forms/LKNSNrXCnu" rel="nofollow">Inglés</a> _(en)_
-  * <a class="external text" href="http://goo.gl/forms/pDLydjgZfQ" rel="nofollow">Español</a> _(es_CL)_
-  * <a class="external text" href="http://goo.gl/forms/OR1T5gOAnU" rel="nofollow">Francés</a> _(fr)_
-  * <a class="external text" href="http://goo.gl/forms/dnj44C24I4" rel="nofollow">Hindi</a> _(hi_IN)_
-  * <a class="external text" href="http://goo.gl/forms/eYLqVF9XzL" rel="nofollow">Indonesio</a> _(id_ID)_
-  * <a class="external text" href="http://goo.gl/forms/5oZcHNqxlN" rel="nofollow">Malayo</a> _(ml)_
+  * <a class="external text" href="https://goo.gl/forms/LKNSNrXCnu" rel="nofollow">Inglés</a> _(en)_
+  * <a class="external text" href="https://goo.gl/forms/pDLydjgZfQ" rel="nofollow">Español</a> _(es_CL)_
+  * <a class="external text" href="https://goo.gl/forms/OR1T5gOAnU" rel="nofollow">Francés</a> _(fr)_
+  * <a class="external text" href="https://goo.gl/forms/dnj44C24I4" rel="nofollow">Hindi</a> _(hi_IN)_
+  * <a class="external text" href="https://goo.gl/forms/eYLqVF9XzL" rel="nofollow">Indonesio</a> _(id_ID)_
+  * <a class="external text" href="https://goo.gl/forms/5oZcHNqxlN" rel="nofollow">Malayo</a> _(ml)_
 
 La encuesta finaliza el **1° de Noviembre**. Si deseas traducir la encuesta en otro idioma, por favor únete a alguno de los equipos en **Transifex** (o mucho mejor, crea tu propio grupo).
 

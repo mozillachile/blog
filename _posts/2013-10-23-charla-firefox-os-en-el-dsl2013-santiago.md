@@ -4,7 +4,6 @@ title: 'Charla Firefox OS en el #DSL2013 Santiago'
 date: 2013-10-23T23:32:13-03:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=186
 permalink: /blog/2013/10/23/charla-firefox-os-en-el-dsl2013-santiago/
 categories:
   - Comunidad
@@ -16,7 +15,7 @@ tags:
   - Santiago
   - SFD
 ---
-El pasado 19 de octubre estuvimos con la comunidad Mozilla Chile, participando del Día de la libertad del Software en la Universidad DUOC UC Sede Alonso Ovalle. [<img class="aligncenter size-full wp-image-583" alt="1376648_10151973373932340_340407661_n" src="http://lourcastillo.files.wordpress.com/2013/10/1376648_10151973373932340_340407661_n.jpg" width="640" height="360" />](http://lourcastillo.files.wordpress.com/2013/10/1376648_10151973373932340_340407661_n.jpg)En dicha actividad, presentamos en una charla de 45 minutos, el sistema operativo para móviles Firefox OS.
+El pasado 19 de octubre estuvimos con la comunidad Mozilla Chile, participando del Día de la libertad del Software en la Universidad DUOC UC Sede Alonso Ovalle. [<img class="aligncenter size-full wp-image-583" alt="1376648_10151973373932340_340407661_n" src="/images/2013/10/1376648_10151973373932340_340407661_n.jpg" width="640" height="360" />](/images/2013/10/1376648_10151973373932340_340407661_n.jpg)En dicha actividad, presentamos en una charla de 45 minutos, el sistema operativo para móviles Firefox OS.
 
 <!--more-->
 
@@ -112,7 +111,7 @@ Hay tres tipos de aplicaciones en Firefox OS: Aplicaciones alojadas, privilegiad
 </p>
 
 <p align="JUSTIFY">
-  <a href="http://lourcastillo.files.wordpress.com/2013/10/webapiwiki.png"><img class="aligncenter size-full wp-image-585" alt="webapiwiki" src="http://lourcastillo.files.wordpress.com/2013/10/webapiwiki.png" width="608" height="474" /></a>
+  <a href="/images/2013/10/webapiwiki.png"><img class="aligncenter size-full wp-image-585" alt="webapiwiki" src="/images/2013/10/webapiwiki.png" width="608" height="474" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -195,7 +194,7 @@ Este es un ejemplo de cómo usar una de estas APIs. Contienen propiedades, méto
 
 Las aplicaciones privilegiadas tienen acceso a más APIs y aquellas que tienen acceso a información más sensible, como guardar información en la memoria de tu dispositivo, acceder a la lista de contactos o traer contenido de terceros de una página web. Las aplicaciones privilegiadas deben sern empaquetadas y enviadas al marketplace y ofrecidas por la arquitectura de Mozilla. No podemos permitir que cualquier servidor en la web tenga acceso a la libreta de contactos del usuario, ya que esto generaría el espacio para la creación de software malicioso en muchas formas.
 
-[<img class="aligncenter size-full wp-image-586" alt="api" src="http://lourcastillo.files.wordpress.com/2013/10/api.png" width="640" height="352" />](http://lourcastillo.files.wordpress.com/2013/10/api.png)Para una aplicación privilegiada es simple crear un nuevo contacto. Esto te permite sincronizas libretas de direcciones entre servicios, por ejemplo. Nuevamente, tienes algunos métodos y manejadores de eventos disponibles para poder manejar los éxitos y fallas.<header> 
+[<img class="aligncenter size-full wp-image-586" alt="api" src="/images/2013/10/api.png" width="640" height="352" />](/images/2013/10/api.png)Para una aplicación privilegiada es simple crear un nuevo contacto. Esto te permite sincronizas libretas de direcciones entre servicios, por ejemplo. Nuevamente, tienes algunos métodos y manejadores de eventos disponibles para poder manejar los éxitos y fallas.<header> 
 
 ## Web APIs (aplicaciones certificadas)</header> 
 
@@ -261,8 +260,8 @@ Si quieres acceder a la cámara o la libreta de direcciones sin tener que empaqu
 
 Este ejemplo nos muestra una actividad de llamado. Cuando se ejecuta el JavaScript, el usuario será derivado a la aplicación de llamadas (o a la aplicación que el usuario haya definido como predeterminadad), el número es enviado a la aplicación y el usuario puede iniciar la llamada. Esta es la mayor diferencia con las WebAPIs, el usuario es quien decide. Cunado la llamada es negada o se termine, el teléfono volverá a tu aplicación.
 
-[<img class="aligncenter size-full wp-image-587" alt="telef" src="http://lourcastillo.files.wordpress.com/2013/10/telef.png" width="640" height="363" />](http://lourcastillo.files.wordpress.com/2013/10/telef.png)La actividad &#8216;pick&#8217; es probablemente una de las más útiles, porque le dice al usuario que quieres algo del dispositivo. En este caso definimos en la matriz de tipos MIME que estamos esperando una imagen. Esto puede terminar como la captura que se muestra a la derecha, se le pregunta al usuario si quiere darnos una imagen, ya sea de la carptea de fondos de pantalla o de fotos, o tomar una nueva foto con la cámara.  
-[<img class="aligncenter size-full wp-image-588" alt="telef2" src="http://lourcastillo.files.wordpress.com/2013/10/telef2.png" width="640" height="331" />](http://lourcastillo.files.wordpress.com/2013/10/telef2.png) Para recibir la imagen, lo único que tienes que hacer es un evento que pueda manejar la respuesta que le llegue de las otras aplicaciones.
+[<img class="aligncenter size-full wp-image-587" alt="telef" src="/images/2013/10/telef.png" width="640" height="363" />](/images/2013/10/telef.png)La actividad &#8216;pick&#8217; es probablemente una de las más útiles, porque le dice al usuario que quieres algo del dispositivo. En este caso definimos en la matriz de tipos MIME que estamos esperando una imagen. Esto puede terminar como la captura que se muestra a la derecha, se le pregunta al usuario si quiere darnos una imagen, ya sea de la carptea de fondos de pantalla o de fotos, o tomar una nueva foto con la cámara.  
+[<img class="aligncenter size-full wp-image-588" alt="telef2" src="/images/2013/10/telef2.png" width="640" height="331" />](/images/2013/10/telef2.png) Para recibir la imagen, lo único que tienes que hacer es un evento que pueda manejar la respuesta que le llegue de las otras aplicaciones.
 
 ## Activities y aplicaciones alojadas en Android
 
@@ -289,7 +288,7 @@ La gran noticia es que si tienes Firefox para Android, está funcionalidad tambi
   * Encuentras usuarios rápidamente que prueban la aplicación sin tener que descargarla ni instalarla
   * Puedes convertirte en la aplicación local más importante de una temática, sin tener que competir con otros en mercados cerrados
 
-[<img class="aligncenter size-full wp-image-589" alt="app" src="http://lourcastillo.files.wordpress.com/2013/10/app.png" width="640" height="424" />](http://lourcastillo.files.wordpress.com/2013/10/app.png)
+[<img class="aligncenter size-full wp-image-589" alt="app" src="/images/2013/10/app.png" width="640" height="424" />](/images/2013/10/app.png)
 
 ## Caso de uso a aplicación
 
@@ -366,7 +365,7 @@ Ahora los navegadores son, también, herramientas de desarrollo. Las herramienta
 ## Simulador de Firefox OS
 
 <p style="text-align: center;">
-  <a href="http://lourcastillo.files.wordpress.com/2013/10/simulator.png"><img class="aligncenter size-full wp-image-590" alt="simulator" src="http://lourcastillo.files.wordpress.com/2013/10/simulator.png" width="640" height="492" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/">Simulador de Firefox OS </a>
+  <a href="/images/2013/10/simulator.png"><img class="aligncenter size-full wp-image-590" alt="simulator" src="/images/2013/10/simulator.png" width="640" height="492" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/">Simulador de Firefox OS </a>
 </p>
 
 <p style="text-align: left;">
@@ -386,7 +385,7 @@ JSFiddle es una forma simple de crear código de forma colaborativa. La última 
 ## Componentes de la interfaz de Firefox
 
 <p style="text-align: center;">
-  <a href="http://lourcastillo.files.wordpress.com/2013/10/buildingfirefoxos.png"><img class="aligncenter size-full wp-image-591" alt="buildingfirefoxos" src="http://lourcastillo.files.wordpress.com/2013/10/buildingfirefoxos.png" width="640" height="460" /></a><a href="http://buildingfirefoxos.com">Crear FirefoxOS</a>
+  <a href="/images/2013/10/buildingfirefoxos.png"><img class="aligncenter size-full wp-image-591" alt="buildingfirefoxos" src="/images/2013/10/buildingfirefoxos.png" width="640" height="460" /></a><a href="https://buildingfirefoxos.com">Crear FirefoxOS</a>
 </p>
 
 <p style="text-align: left;">
@@ -396,11 +395,11 @@ JSFiddle es una forma simple de crear código de forma colaborativa. La última 
 ## Bloques de Firefox OS</header> 
 
 <h2 style="text-align: center;">
-  <img alt="Firefox OS UI components" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/buildingblocks.png" height="400" />
+  <img alt="Firefox OS UI components" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/buildingblocks.png" height="400" />
 </h2>
 
 <p style="text-align: center;">
-  <a href="http://buildingfirefoxos.com/building-blocks/edit-mode.html">FirefoxOS edit mode</a>
+  <a href="https://buildingfirefoxos.com/building-blocks/edit-mode.html">FirefoxOS edit mode</a>
 </p>
 
 Los bloques de Firefox OS son componentes reusables que forman parte del sistema operativo (aplicaciones certificadas). Puedes decir que son el diseño del sistema operativo. Sin embargo no están preparadas para aplicaciones de alto rendimiento, como canales de redes sociales o juegos. Puedes usar estos bloques para empezar, pero tienes que estar atento a que tu aplicación se verá como parte del sistema operativo, lo que puede confundir a los usuarios. Para otras opciones de más alto rendimiento o que no corran el peligro de confundirse con el sistema operativo, mira Mozilla Brick.<header> 
@@ -408,11 +407,11 @@ Los bloques de Firefox OS son componentes reusables que forman parte del sistema
 ## Mozilla Brick</header> 
 
 <p style="text-align: center;">
-  <img alt="Mozilla Brick" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/brick.jpg" height="400" />
+  <img alt="Mozilla Brick" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/brick.jpg" height="400" />
 </p>
 
 <p style="text-align: center;">
-  <a href="http://mozilla.github.io/brick/">Brick</a> – <a href="https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/">Presentamos Brick</a>
+  <a href="https://mozilla.github.io/brick/">Brick</a> – <a href="https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/">Presentamos Brick</a>
 </p>
 
 Mozilla Brick es una forma más inteligente de lidiar con el problemas de los componentes de la iterfaz en la web. Es una biblioteca que permite crear aplicaciones desde componentes web incluidos en etiquetas peronalizadas. De esa forma tu marcado se hace mínimo, los componentes no tienen el problema de heredar estilos del documento principal y su rendimiento es mucho mejor que los componentes creados en el DOM, porque se muestran como parte del proceso de renderizado del navegador.<header> 
@@ -422,7 +421,7 @@ Mozilla Brick es una forma más inteligente de lidiar con el problemas de los co
 </h2></header> 
 
 <p style="text-align: center;">
-  <img alt="Firefox OS Boiler Plate" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/boilerplate.jpg" height="400" />
+  <img alt="Firefox OS Boiler Plate" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/boilerplate.jpg" height="400" />
 </p>
 
 <p style="text-align: center;">
@@ -434,7 +433,7 @@ El modelo de aplicaciones para Firefox OS creado por Robert Nyman es el comienzo
 ## En breve: Mozilla Flathead</header> 
 
 <p style="text-align: center;">
-  <img alt="Mozilla Flathead" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/flathead.png" height="400" />
+  <img alt="Mozilla Flathead" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/flathead.png" height="400" />
 </p>
 
 <p style="text-align: center;">
@@ -446,18 +445,18 @@ Flathead es un editor WYSIWYG para aplicaciones que permite arrastrar y soltar c
 ## Conversión de HTML5 a código nativo</header> 
 
 <p style="text-align: center;">
-  <img alt="Phonegap" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/phonegapdiagram.png" height="400" />
+  <img alt="Phonegap" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/phonegapdiagram.png" height="400" />
 </p>
 
 <p style="text-align: center;">
-  <a href="http://build.phonegap.com/">http://build.phonegap.com/</a>
+  <a href="https://build.phonegap.com/">https://build.phonegap.com/</a>
 </p>
 
 Phonegap es una herramienta excelente para convertir aplicaciones de HTML5 en aplicaciones nativas para Android e iOS. La forma inversa no es posible, pero usando Phonegap puedes crear tu aplicación en HTML5 y todavía participar en los otros mercados.
 
 ## Recursos
 
-  * <http://www.mozilla.org/en-US/firefox/os/> &#8211; el sitio oficial para usuarios finales de Firefox OS
+  * <https://www.mozilla.org/en-US/firefox/os/> &#8211; el sitio oficial para usuarios finales de Firefox OS
   * <https://marketplace.firefox.com/> &#8211; donde conseguir aplicaciones de Firefox OS
   * <https://marketplace.firefox.com/developers/> &#8211; el centro de información para desarrolladores del marketplace, mucha información sobre cómo diseñar una aplicación, aplicaciones de demostración para descargar e información de cómo enviar tu aplicación.
   * <https://hacks.mozilla.org/category/firefox-os/> &#8211; El blog de Mozilla Hacks con mucha información sobre cómo escribir código para Firefox OS y cómo instalarlo
@@ -469,11 +468,11 @@ Phonegap es una herramienta excelente para convertir aplicaciones de HTML5 en ap
 </h2></header> 
 
 <p style="text-align: center;">
-  <img alt="Firefox OS for end users" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/enduser-fxos.jpg" height="400" />
+  <img alt="Firefox OS for end users" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/enduser-fxos.jpg" height="400" />
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.mozilla.org/en-US/firefox/os/">http://www.mozilla.org/en-US/firefox/os/</a>
+  <a href="https://www.mozilla.org/en-US/firefox/os/">https://www.mozilla.org/en-US/firefox/os/</a>
 </p>
 
 Esta es la página de información para el usuario final de Firefox OS. No hay notas ni información para los desarrolladores aquí, pero es útil para ver cómo los usuarios finales pueden beneficiarse con Firefox OS.<header> 
@@ -481,7 +480,7 @@ Esta es la página de información para el usuario final de Firefox OS. No hay n
 ## Firefox OS Marketplace</header> 
 
 <p style="text-align: center;">
-  <img alt="Firefox OS Marketplace" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/marketplace.jpg" />
+  <img alt="Firefox OS Marketplace" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/marketplace.jpg" />
 </p>
 
 <p style="text-align: center;">
@@ -495,7 +494,7 @@ El marketplace de Firefox OS es donde puedes conseguir aplicaciones para Firefox
 </h2></header> 
 
 <p style="text-align: center;">
-  <img alt="Developer Hub" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/devhub.jpg" height="400" />
+  <img alt="Developer Hub" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/devhub.jpg" height="400" />
 </p>
 
 <p style="text-align: center;">
@@ -506,7 +505,7 @@ El centro para desarrolladores es la solución más rápida para todo lo relacio
 
 ## El blog de Hacks</header> 
 
-<img alt="Hacks Blog" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/hacksblog.jpg" height="400" /> 
+<img alt="Hacks Blog" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/hacksblog.jpg" height="400" /> 
 
 <p style="text-align: center;">
   <a href="https://hacks.mozilla.org/category/firefox-os/">https://hacks.mozilla.org/category/firefox-os/</a>
@@ -517,7 +516,7 @@ El blog de hacks se actualiza casi semanalmente con noticias acerca de cómo cre
 ## Serie de videos sobre Firefox OS</header> 
 
 <p style="text-align: center;">
-  <img class="aligncenter" alt="Firefox OS Video Series" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/fxosvideos.jpg" width="658" height="400" />
+  <img class="aligncenter" alt="Firefox OS Video Series" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/fxosvideos.jpg" width="658" height="400" />
 </p>
 
 <p style="text-align: center;">
@@ -529,7 +528,7 @@ La serie de videos «Firefox OS para desarrolladores: la plataforma que HTML5 me
 ## El Wiki de Firefox OS</header> 
 
 <p style="text-align: center;">
-  <img class="aligncenter" alt="Firefox OS Wiki" src="http://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/fxoswiki.jpg" width="854" height="400" />
+  <img class="aligncenter" alt="Firefox OS Wiki" src="https://codepo8.github.io/mozilla-presentation-templates/html5/pictures/fxos/fxoswiki.jpg" width="854" height="400" />
 </p>
 
 <p style="text-align: center;">

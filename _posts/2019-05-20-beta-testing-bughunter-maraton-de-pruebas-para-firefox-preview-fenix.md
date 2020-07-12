@@ -5,7 +5,6 @@ date: 2019-05-20T20:48:14-04:00
 author: lourcastillo
 excerpt: Mozilla está trabajando en el lanzamiento del nuevo navegador web para Android, Firefox Preview (Fenix), actualmente no está disponible para el público. Requerimos de tu ayuda, siendo un beta-tester.
 layout: post
-guid: http://www.mozillachile.cl/?p=1285
 permalink: /blog/2019/05/20/beta-testing-bughunter-maraton-de-pruebas-para-firefox-preview-fenix/
 image: /images/2019/05/450cb361ee7da396a94ca19b5522ef55d11d1008-1-300x165.jpeg
 categories:

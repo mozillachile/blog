@@ -4,7 +4,6 @@ title: 'Nuestra primera vez: App Days in a Box en Santiago'
 date: 2013-12-02T23:38:43-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=314
 permalink: /blog/2013/12/02/nuestra-primera-vez-app-days-in-a-box-en-santiago/
 categories:
   - Comunidad
@@ -49,9 +48,9 @@ Nuestro evento fue difundido a través de redes sociales con el hashtag #Firefox
 
 Agradecemos a los siguientes medios de comunicación que publicaron nuestra convocatoria:
 
-  * BioBioChile.cl &#8211; <a href="http://www.biobiochile.cl/2013/11/22/os-app-days-in-a-box-firefox-realizara-en-santiago-su-1-hackaton-de-desarrollo-de-aplicaciones.shtml" target="_blank">«OS App Days in a box»: Firefox realizará en Santiago su 1° hackaton de desarrollo de aplicaciones</a>
+  * BioBioChile.cl &#8211; <a href="https://www.biobiochile.cl/2013/11/22/os-app-days-in-a-box-firefox-realizara-en-santiago-su-1-hackaton-de-desarrollo-de-aplicaciones.shtml" target="_blank">«OS App Days in a box»: Firefox realizará en Santiago su 1° hackaton de desarrollo de aplicaciones</a>
   * FoxDev.es &#8211; <a href="http://foxosdev.es/firefoxos-app-days-in-a-box-en-ingenieria-de-la-u-de-chile/" target="_blank">FirefoxOS App Days in a Box en Ingeniería de la U. de Chile</a>
-  * SiliconWeek.com &#8211; <a href="http://www.siliconweek.com/actualidad/mozilla-chile-organiza-un-evento-para-desarrolladores-de-firefox-os-48031" target="_blank">Mozilla Chile organiza un evento para desarrolladores de Firefox OS</a>
+  * SiliconWeek.com &#8211; <a href="https://www.siliconweek.com/actualidad/mozilla-chile-organiza-un-evento-para-desarrolladores-de-firefox-os-48031" target="_blank">Mozilla Chile organiza un evento para desarrolladores de Firefox OS</a>
   * ElParadiario14.cl &#8211; <a href="http://www.elparadiario14.cl/noticia/tecnologia/mozilla-chile-organiza-firefox-os-app-days-box/" target="_blank">Mozilla Chile organiza Firefox OS App Days in a Box</a>
 
 ### Galería de Imágenes

@@ -4,7 +4,6 @@ title: Software Freedom Day 2015 en Santiago
 date: 2015-09-29T21:56:58-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=1046
 permalink: /blog/2015/09/29/software-freedom-day-2015-en-santiago-2/
 image: /images/2013/10/mozdsl.jpg
 categories:

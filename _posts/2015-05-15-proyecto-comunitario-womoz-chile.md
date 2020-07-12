@@ -4,7 +4,6 @@ title: 'Proyecto comunitario: Womoz Chile'
 date: 2015-05-15T12:58:38-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=1009
 permalink: /blog/2015/05/15/proyecto-comunitario-womoz-chile/
 image: /images/2015/05/11048657_10153362006562340_6841851467906329328_n.jpg
 categories:
@@ -31,7 +30,7 @@ También se contó con la participación de una miembro de Mozilla Chile, <a hre
 
 <img class="aligncenter size-large wp-image-1010" src="/images/2015/05/11156155_678685432261078_821914227378641694_n-600x338.jpg" alt="11156155_678685432261078_821914227378641694_n" width="600" height="338" data-id="1010" srcset="/images/2015/05/11156155_678685432261078_821914227378641694_n-600x338.jpg 600w, /images/2015/05/11156155_678685432261078_821914227378641694_n-252x142.jpg 252w, /images/2015/05/11156155_678685432261078_821914227378641694_n.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-Artículo extraído: <a href="http://www.inacap.cl/tportalvp/maipu/sede/noticias-maipu/area-informatica-y-telecomunicaciones-de-inacap-maipu-celebra-dia-de-las-mujeres-en-las-tecnologias-de-la-informacion-y-la-comunicacion" target="_blank" rel="noopener noreferrer">Vida INACAP Maipú</a>
+Artículo extraído: <a href="https://www.inacap.cl/tportalvp/maipu/sede/noticias-maipu/area-informatica-y-telecomunicaciones-de-inacap-maipu-celebra-dia-de-las-mujeres-en-las-tecnologias-de-la-informacion-y-la-comunicacion" target="_blank" rel="noopener noreferrer">Vida INACAP Maipú</a>
 
 En el mes de mayo dimos inicio a otra actividad, el taller womoz Inacap Maipú y nuestra instructora del taller <a href="https://cl.linkedin.com/in/karangop" target="_blank" rel="noopener noreferrer">Karina González</a>.
 

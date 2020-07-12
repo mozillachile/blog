@@ -4,7 +4,6 @@ title: Encuentro «Nuevas tecnologías para la enseñanza y revitalización del 
 date: 2017-05-01T14:57:05-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=1145
 permalink: /blog/2017/05/01/encuentro-nuevas-tecnologias-para-la-ensenanza-y-revitalizacion-del-mapudungun/
 image: /images/2017/05/004.png
 categories:

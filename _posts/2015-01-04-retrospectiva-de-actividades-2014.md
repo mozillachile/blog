@@ -4,7 +4,6 @@ title: Retrospectiva de actividades 2014
 date: 2015-01-04T10:57:29-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=954
 permalink: /blog/2015/01/04/retrospectiva-de-actividades-2014/
 image: /images/2014/05/taller01.jpg
 categories:

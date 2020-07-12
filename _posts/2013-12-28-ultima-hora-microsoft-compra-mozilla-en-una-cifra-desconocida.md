@@ -4,7 +4,6 @@ title: '[ULTIMA HORA] Microsoft compra Mozilla en una cifra desconocida'
 date: 2013-12-28T11:16:21-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=364
 permalink: /blog/2013/12/28/ultima-hora-microsoft-compra-mozilla-en-una-cifra-desconocida/
 categories:
   - Comunidad

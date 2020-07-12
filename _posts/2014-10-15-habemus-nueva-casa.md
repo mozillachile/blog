@@ -4,7 +4,6 @@ title: Habemus nueva casa
 date: 2014-10-15T09:00:25-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=850
 permalink: /blog/2014/10/15/habemus-nueva-casa/
 categories:
   - Otros Productos

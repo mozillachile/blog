@@ -5,7 +5,6 @@ date: 2014-04-11T21:04:04-03:00
 author: lourcastillo
 excerpt: 'La hackathon más grande del mundo vuelve a Chile. Inscríbete junto a tu equipo http://www.spaceapps.cl  '
 layout: post
-guid: http://www.mozillachile.cl/?p=447
 permalink: /blog/2014/04/11/mozilla-partner-oficial-del-international-space-apps-2014-chile/
 image: /images/2014/04/BkQmVDECQAAxf0K.png
 categories:

@@ -4,7 +4,6 @@ title: Evento Online Introducción a Rust
 date: 2020-06-09T01:22:24-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=1344
 permalink: /blog/2020/06/09/introduccion-a-rust/
 spay_email:
   - ""

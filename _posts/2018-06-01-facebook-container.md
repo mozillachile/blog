@@ -4,7 +4,6 @@ title: Facebook Container
 date: 2018-06-01T12:59:59-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=1260
 permalink: /blog/2018/06/01/facebook-container/
 image: /images/2018/06/fbcontainer-300x165.png
 categories:

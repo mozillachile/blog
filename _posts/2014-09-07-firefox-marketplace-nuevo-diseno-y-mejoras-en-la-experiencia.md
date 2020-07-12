@@ -4,7 +4,6 @@ title: 'Firefox Marketplace: nuevo diseño y mejoras en la experiencia'
 date: 2014-09-07T01:59:04-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=728
 permalink: /blog/2014/09/07/firefox-marketplace-nuevo-diseno-y-mejoras-en-la-experiencia/
 categories:
   - Firefox for Android
@@ -23,7 +22,7 @@ tags:
   </p>
 </div>
 
-_Originalmente publicado en <a href="http://www.mozilla-hispano.org/firefox-marketplace-nuevo-diseno-y-mejoras-en-la-experiencia/" target="_blank">Mozilla-Hispano.org</a>_
+_Originalmente publicado en <a href="https://www.mozilla-hispano.org/firefox-marketplace-nuevo-diseno-y-mejoras-en-la-experiencia/" target="_blank">Mozilla-Hispano.org</a>_
 
 Marketplace es una de las principales aplicaciones de Firefox OS, ya que forma parte del sistema de gestión de apps. Inicialmente, era una especie de listado con las aplicaciones disponibles, pero poco a poco se ha ido puliendo y mejorando sus características de diseño de interacción y experiencia de usuario.<!--more-->
 

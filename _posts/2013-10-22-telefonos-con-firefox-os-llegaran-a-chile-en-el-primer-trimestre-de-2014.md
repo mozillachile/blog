@@ -5,7 +5,6 @@ date: 2013-10-22T23:32:22-03:00
 author: mozilla
 excerpt: 'A través del blog de Mozilla, Yotam Ben-Ami, director de dispositivos open-web de Telefónica, declaró: “Los primeros lanzamientos de Firefox OS en España, Colombia y Venezuela han sobrepasado nuestras expectativas, demostrando un apetito fuerte de los consumidores por una oferta de smartphones abierta y de gran valor. Ahora esperamos con ansias llevar lso beneficios de Firefox OS a nuestros clientes en Brasil y otros tres mercados de Latinoamérica durante el cuatro trimestre de 2013, además de ponerlo a disposición de más negocios operados por Téléfonica durante 2014″.'
 layout: post
-guid: http://www.mozillachile.cl/?p=137
 permalink: /blog/2013/10/22/telefonos-con-firefox-os-llegaran-a-chile-en-el-primer-trimestre-de-2014/
 categories:
   - Firefox OS
@@ -24,6 +23,6 @@ A través del <a href="https://blog.mozilla.org/blog/2013/10/09/mozilla-and-part
 
 Según Mozilla, los teléfonos con Firefox OS también llegarán a Hungría, Serbía y Montenegro antes que termine este año.
 
-El sistema operativo, desarrollado por la empresa detrás del navegador de internet del mismo nombre, fue anunciado en julio de 2012 y en febrero de este año mostró su primera versión pública <a href="http://www.emol.com/noticias/tecnologia/2013/02/24/585509/mozilla-entra-a-la-competencia-de-plataformas-moviles-con-su-propuesta-firefox-os.html" target="_self">en la feria Mobile World Congress</a>, en Barcelona, España. Desde mediados de este año está llegando a tiendas en algunos mercados, a través de equipos de bajo costo de ZTE y Alcatel.
+El sistema operativo, desarrollado por la empresa detrás del navegador de internet del mismo nombre, fue anunciado en julio de 2012 y en febrero de este año mostró su primera versión pública <a href="https://www.emol.com/noticias/tecnologia/2013/02/24/585509/mozilla-entra-a-la-competencia-de-plataformas-moviles-con-su-propuesta-firefox-os.html" target="_self">en la feria Mobile World Congress</a>, en Barcelona, España. Desde mediados de este año está llegando a tiendas en algunos mercados, a través de equipos de bajo costo de ZTE y Alcatel.
 
-Fuente: <a href="http://www.emol.com/noticias/tecnologia/2013/10/09/623757/telefonos-con-firefox-os-llegaran-a-chile-en-el-primer-trimestre-de-2014.html" target="_blank">Emol.com</a>
+Fuente: <a href="https://www.emol.com/noticias/tecnologia/2013/10/09/623757/telefonos-con-firefox-os-llegaran-a-chile-en-el-primer-trimestre-de-2014.html" target="_blank">Emol.com</a>

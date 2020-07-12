@@ -4,7 +4,6 @@ title: Te invitamos a la Fiesta Mobilizer
 date: 2014-09-10T22:40:44-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=827
 permalink: /blog/2014/09/10/te-invitamos-a-la-fiesta-mobilizer/
 categories:
   - Eventos

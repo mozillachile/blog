@@ -4,7 +4,6 @@ title: Partió la pre-venta de Flame, el teléfono para desarrolladores con Fire
 date: 2014-05-27T22:32:20-04:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=687
 permalink: /blog/2014/05/27/partio-la-pre-venta-de-flame-el-telefono-para-desarrolladores-con-firefox-os/
 categories:
   - Comunidad
@@ -24,7 +23,7 @@ El Flame, el dispositivo de referencia para Firefox OS que fue anunciado a fines
 <!--more-->
 
 <div style="width: 160px" class="wp-caption alignright">
-  <img src="http://image.e.mozilla.org/lib/fe9915707361037e75/m/2/Firefox-OS-Flame-Reference-Device-small.png" alt="Firefox O S Flame" width="150" height="305" />
+  <img src="/images/2014/05/Firefox-OS-Flame-Reference-Device-small.png" alt="Firefox O S Flame" width="150" height="305" />
   
   <p class="wp-caption-text">
     Flame: teléfono de referencia para Firefox OS

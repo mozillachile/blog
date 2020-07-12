@@ -4,7 +4,6 @@ title: 'Beta Testing  BugHunter  Inacap Maipu'
 date: 2019-06-22T09:50:06-04:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=1294
 permalink: /blog/2019/06/22/beta-testing-bughunter-inacap-maipu/
 image: /images/2019/06/firefox-preview-2-300x165.jpg
 categories:
@@ -42,35 +41,35 @@ Parte práctica:
   <div class="tiled-gallery__gallery">
     <div class="tiled-gallery__row">
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1301" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65149763_10156267618476696_1686905623058317312_n/" data-url="/images/2019/07/65149763_10156267618476696_1686905623058317312_n.jpg" data-width="960" src="https://i2.wp.com/www.mozillachile.cl/wp-content/uploads/2019/07/65149763_10156267618476696_1686905623058317312_n.jpg" /></figure><figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1302" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65036856_10156267618371696_4280252072323973120_n/" data-url="/images/2019/06/65036856_10156267618371696_4280252072323973120_n.jpg" data-width="960" src="https://i2.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/65036856_10156267618371696_4280252072323973120_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1301" data-link="/images/2019/07/65149763_10156267618476696_1686905623058317312_n.jpg" data-url="/images/2019/07/65149763_10156267618476696_1686905623058317312_n.jpg" data-width="960" src="/images/2019/07/65149763_10156267618476696_1686905623058317312_n.jpg" /></figure><figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1302" data-link="/images/2019/06/65036856_10156267618371696_4280252072323973120_n.jpg" data-url="/images/2019/06/65036856_10156267618371696_4280252072323973120_n.jpg" data-width="960" src="/images/2019/06/65036856_10156267618371696_4280252072323973120_n.jpg" /></figure>
       </div>
       
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1303" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65260095_10156267618331696_6218826028555436032_n/" data-url="/images/2019/06/65260095_10156267618331696_6218826028555436032_n.jpg" data-width="720" src="https://i1.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/65260095_10156267618331696_6218826028555436032_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1303" data-link="/images/2019/06/65260095_10156267618331696_6218826028555436032_n.jpg" data-url="/images/2019/06/65260095_10156267618331696_6218826028555436032_n.jpg" data-width="720" src="/images/2019/06/65260095_10156267618331696_6218826028555436032_n.jpg" /></figure>
       </div>
     </div>
     
     <div class="tiled-gallery__row">
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1304" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65245882_10156267618036696_712687223622860800_n/" data-url="/images/2019/06/65245882_10156267618036696_712687223622860800_n.jpg" data-width="720" src="https://i2.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/65245882_10156267618036696_712687223622860800_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1304" data-link="/images/2019/06/65245882_10156267618036696_712687223622860800_n.jpg" data-url="/images/2019/06/65245882_10156267618036696_712687223622860800_n.jpg" data-width="720" src="/images/2019/06/65245882_10156267618036696_712687223622860800_n.jpg" /></figure>
       </div>
       
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1305" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65156179_10156267618116696_9122440597456551936_n/" data-url="/images/2019/06/65156179_10156267618116696_9122440597456551936_n.jpg" data-width="720" src="https://i1.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/65156179_10156267618116696_9122440597456551936_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1305" data-link="/images/2019/06/65156179_10156267618116696_9122440597456551936_n.jpg" data-url="/images/2019/06/65156179_10156267618116696_9122440597456551936_n.jpg" data-width="720" src="/images/2019/06/65156179_10156267618116696_9122440597456551936_n.jpg" /></figure>
       </div>
       
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1306" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/64833928_10156267618201696_5473455207616610304_n/" data-url="/images/2019/06/64833928_10156267618201696_5473455207616610304_n.jpg" data-width="720" src="https://i1.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/64833928_10156267618201696_5473455207616610304_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="960" data-id="1306" data-link="/images/2019/06/64833928_10156267618201696_5473455207616610304_n.jpg" data-url="/images/2019/06/64833928_10156267618201696_5473455207616610304_n.jpg" data-width="720" src="/images/2019/06/64833928_10156267618201696_5473455207616610304_n.jpg" /></figure>
       </div>
     </div>
     
     <div class="tiled-gallery__row">
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1307" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/65014592_10156267618251696_6071370786147401728_n/" data-url="/images/2019/06/65014592_10156267618251696_6071370786147401728_n.jpg" data-width="960" src="https://i1.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/65014592_10156267618251696_6071370786147401728_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1307" data-link="/images/2019/06/65014592_10156267618251696_6071370786147401728_n.jpg" data-url="/images/2019/06/65014592_10156267618251696_6071370786147401728_n.jpg" data-width="960" src="/images/2019/06/65014592_10156267618251696_6071370786147401728_n.jpg" /></figure>
       </div>
       
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1308" data-link="http://www.mozillachile.cl/blog/2019/06/22/beta-testing-bughunter-inacap-maipu/64746123_10156267618411696_9135428505545211904_n/" data-url="/images/2019/06/64746123_10156267618411696_9135428505545211904_n.jpg" data-width="960" src="https://i2.wp.com/www.mozillachile.cl/wp-content/uploads/2019/06/64746123_10156267618411696_9135428505545211904_n.jpg" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="720" data-id="1308" data-link="/images/2019/06/64746123_10156267618411696_9135428505545211904_n.jpg" data-url="/images/2019/06/64746123_10156267618411696_9135428505545211904_n.jpg" data-width="960" src="/images/2019/06/64746123_10156267618411696_9135428505545211904_n.jpg" /></figure>
       </div>
     </div>
   </div>

@@ -4,7 +4,6 @@ title: Australis, la nueva apariencia de Firefox
 date: 2013-12-03T22:32:13-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=299
 permalink: /blog/2013/12/03/australis-la-nueva-apariencia-de-firefox-2/
 categories:
   - Firefox
@@ -14,7 +13,7 @@ tags:
   - nightly
   - UX
 ---
-[<img class="aligncenter size-large wp-image-300" alt="Multi-australis" src="/images/2013/11/Multi-australis-600x381.jpg" width="600" height="381" srcset="/images/2013/11/Multi-australis-600x381.jpg 600w, /images/2013/11/Multi-australis-252x160.jpg 252w, /images/2013/11/Multi-australis.jpg 1650w" sizes="(max-width: 600px) 100vw, 600px" />](/images/2013/11/Multi-australis.jpg)Mozilla publicó en el canal de pruebas de Firefox ([Nightly](http://nightly.mozilla.org)) lo que dentro del próximo año será la nueva interfaz de Firefox de escritorio, Australis, en lo que será la tercera renovación desde el cambio de la interfaz en la versión 4.0 respecto de la versión clásica.
+[<img class="aligncenter size-large wp-image-300" alt="Multi-australis" src="/images/2013/11/Multi-australis-600x381.jpg" width="600" height="381" srcset="/images/2013/11/Multi-australis-600x381.jpg 600w, /images/2013/11/Multi-australis-252x160.jpg 252w, /images/2013/11/Multi-australis.jpg 1650w" sizes="(max-width: 600px) 100vw, 600px" />](/images/2013/11/Multi-australis.jpg)Mozilla publicó en el canal de pruebas de Firefox ([Nightly](https://nightly.mozilla.org)) lo que dentro del próximo año será la nueva interfaz de Firefox de escritorio, Australis, en lo que será la tercera renovación desde el cambio de la interfaz en la versión 4.0 respecto de la versión clásica.
 
 <!--more-->
 
@@ -54,14 +53,14 @@ Debido a que solo recientemente fue incorporada en el canal Nightly, el plazo pa
 
 Aun así ya es posible descargar una versión de prueba de este navegador, el cual puede descargar en los siguientes enlaces:
 
-  * <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.linux-i686.tar.bz2" target="_blank">Linux i686</a>
-  * <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.linux-x86_64.tar.bz2" target="_blank">Linux x86_64</a>
-  * <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.mac.dmg" target="_blank">Mac OS X</a>
-  * <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.win32.installer-stub.exe" target="_blank">Windows, instalador express</a>
-  * <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.win32.installer.exe" target="_blank">Windows, instalador estándar</a>
+  * <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.linux-i686.tar.bz2" target="_blank">Linux i686</a>
+  * <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.linux-x86_64.tar.bz2" target="_blank">Linux x86_64</a>
+  * <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.mac.dmg" target="_blank">Mac OS X</a>
+  * <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.win32.installer-stub.exe" target="_blank">Windows, instalador express</a>
+  * <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/firefox-28.0a1.es-CL.win32.installer.exe" target="_blank">Windows, instalador estándar</a>
 
 Es necesario recordar que esta instalación puede producir conflictos tanto con tu actual instalación del navegador como también con el perfil y la información que almacena (marcadores, contraseñas, historial).
 
-En caso que no desees tomar el riesgo, puedes conocer más en [getaustralis.com](http://getaustralis.com) o jugar con esta [maqueta interactiva](http://people.mozilla.org/~shorlander/mockups-interactive/australis-interactive-mockups/windows8.html).
+En caso que no desees tomar el riesgo, puedes conocer más en [getaustralis.com](http://getaustralis.com) o jugar con esta [maqueta interactiva](https://people.mozilla.org/~shorlander/mockups-interactive/australis-interactive-mockups/windows8.html).
 
-Fuentes: <a title="Australis is landing in Firefox Nightly" href="https://blog.mozilla.org/ux/2013/11/australis-is-landing-in-firefox-nightly/" target="_blank">Mozilla UX Blog</a>  &#8211; <a title=" Australis ya llega a tu Firefox" href="http://www.mozilla-hispano.org/australis-ya-llega-a-tu-firefox/" target="_blank">Mozilla Hispano</a>
+Fuentes: <a title="Australis is landing in Firefox Nightly" href="https://blog.mozilla.org/ux/2013/11/australis-is-landing-in-firefox-nightly/" target="_blank">Mozilla UX Blog</a>  &#8211; <a title=" Australis ya llega a tu Firefox" href="https://www.mozilla-hispano.org/australis-ya-llega-a-tu-firefox/" target="_blank">Mozilla Hispano</a>

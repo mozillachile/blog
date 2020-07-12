@@ -4,7 +4,6 @@ title: Servicio de localización de Mozilla
 date: 2014-05-01T20:22:33-04:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=608
 permalink: /blog/2014/05/01/servicio-de-localizacion-de-mozilla/
 image: /images/2014/05/MLS.png
 categories:

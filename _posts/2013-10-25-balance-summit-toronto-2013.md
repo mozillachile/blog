@@ -4,7 +4,6 @@ title: Balance Summit Toronto 2013
 date: 2013-10-25T23:36:22-03:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=223
 permalink: /blog/2013/10/25/balance-summit-toronto-2013/
 enclosure:
   - |

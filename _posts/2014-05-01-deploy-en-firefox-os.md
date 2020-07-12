@@ -4,7 +4,6 @@ title: “Deploy” en Firefox OS
 date: 2014-05-01T21:34:08-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=622
 permalink: /blog/2014/05/01/deploy-en-firefox-os/
 categories:
   - Firefox OS
@@ -17,7 +16,7 @@ tags:
 ---
 <div class="entry-content">
   <p>
-    <img class="aligncenter size-full wp-image-898" src="http://www.psep.cl/wp-content/uploads/2013/12/Seleccion_008.png" alt="" width="552" height="240" />
+    <img class="aligncenter size-full wp-image-898" src="/images/2013/12/Seleccion_008.png" alt="" width="552" height="240" />
   </p>
   
   <p>
@@ -53,7 +52,7 @@ tags:
           <td class="code">
             <div class="container">
               <div class="line number1 index0 alt2">
-                <code class="bash plain">$ lsusb                                                                   &lt;a class="toolbar_item command_help help" href="http://www.psep.cl/2013/12/08/deploy-en-firefox-os/#">?&lt;/a></code>
+                <code class="bash plain">$ lsusb                                                                   &lt;a class="toolbar_item command_help help" href="https://mozillachile.cl/2013/12/08/deploy-en-firefox-os/#">?&lt;/a></code>
               </div>
             </div>
           </td>
@@ -63,7 +62,7 @@ tags:
   </div>
   
   <p>
-    <img class="aligncenter size-full wp-image-900" src="http://www.psep.cl/wp-content/uploads/2013/12/Seleccion_005.png" alt="" width="603" height="180" />
+    <img class="aligncenter size-full wp-image-900" src="/images/2013/12/Seleccion_005.png" alt="" width="603" height="180" />
   </p>
   
   <p>
@@ -79,7 +78,7 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter size-full wp-image-901" src="http://www.psep.cl/wp-content/uploads/2013/12/Seleccion_006.png" alt="Selección_006" width="479" height="27" />
+    <img class="aligncenter size-full wp-image-901" src="/images/2013/12/Seleccion_006.png" alt="Selección_006" width="479" height="27" />
   </p>
   
   <p>
@@ -87,7 +86,7 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter size-full wp-image-902" src="http://www.psep.cl/wp-content/uploads/2013/12/Seleccion_007.png" alt="" width="593" height="57" />
+    <img class="aligncenter size-full wp-image-902" src="/images/2013/12/Seleccion_007.png" alt="" width="593" height="57" />
   </p>
   
   <p>
@@ -107,7 +106,7 @@ tags:
           <td class="code">
             <div class="container">
               <div class="line number1 index0 alt2">
-                <code class="bash comments"># /etc/init.d/udev restart                                     &lt;a class="toolbar_item command_help help" href="http://www.psep.cl/2013/12/08/deploy-en-firefox-os/#">?&lt;/a></code>
+                <code class="bash comments"># /etc/init.d/udev restart                                     &lt;a class="toolbar_item command_help help" href="https://mozillachile.cl/2013/12/08/deploy-en-firefox-os/#">?&lt;/a></code>
               </div>
             </div>
           </td>
@@ -121,7 +120,7 @@ tags:
   </p>
   
   <p>
-    <img class="size-full wp-image-903 aligncenter" src="http://www.psep.cl/wp-content/uploads/2013/12/Seleccion_009.png" alt="" width="641" height="268" />
+    <img class="size-full wp-image-903 aligncenter" src="/images/2013/12/Seleccion_009.png" alt="" width="641" height="268" />
   </p>
   
   <p>
@@ -137,6 +136,6 @@ tags:
   </p>
   
   <p>
-    <em>Artículo original en <a title="&quot;Deploy&quot; en Firefox OS - Psep.cl" href="http://www.psep.cl/2013/12/08/deploy-en-firefox-os/" target="_blank">Psep.cl</a>, puede ser distribuido y modificado mientras incluya esta nota según <a title="CC BY-SA 3.0" href="http://creativecommons.org/licenses/by-sa/3.0/cl/" target="_blank">Licencia CC</a></em>
+    <em>Artículo original en <a title="&quot;Deploy&quot; en Firefox OS - Psep.cl" href="https://mozillachile.cl/2013/12/08/deploy-en-firefox-os/" target="_blank">Psep.cl</a>, puede ser distribuido y modificado mientras incluya esta nota según <a title="CC BY-SA 3.0" href="http://creativecommons.org/licenses/by-sa/3.0/cl/" target="_blank">Licencia CC</a></em>
   </p>
 </div>

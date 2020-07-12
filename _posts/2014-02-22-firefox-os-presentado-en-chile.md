@@ -4,7 +4,6 @@ title: Firefox OS presentado en Chile
 date: 2014-02-22T01:38:23-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=395
 permalink: /blog/2014/02/22/firefox-os-presentado-en-chile/
 categories:
   - Comunidad
@@ -33,7 +32,7 @@ Por su parte, **Javier Valenzuela**, Gerente de Terminales de **Movistar** decla
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-3-391'>
-      Nuestro bebé, en gloria y majestad | (C) ICC Crisis &#8211; http://www.icc-crisis.com
+      Nuestro bebé, en gloria y majestad | (C) ICC Crisis &#8211; https://www.icc-crisis.com
     </dd>
   </dl>
   
@@ -46,7 +45,7 @@ Por su parte, **Javier Valenzuela**, Gerente de Terminales de **Movistar** decla
   <img aria-describedby="caption-attachment-391" class="size-medium wp-image-391" alt="Alcatel One Touch Fire blanco" src="/images/2014/02/DSC4278a-252x379.jpg" width="252" height="379" data-id="391" />
   
   <p id="caption-attachment-391" class="wp-caption-text">
-    Nuestro bebé, en gloria y majestad | (C) ICC Crisis &#8211; http://www.icc-crisis.com
+    Nuestro bebé, en gloria y majestad | (C) ICC Crisis &#8211; https://www.icc-crisis.com
   </p>
 </div>
 

@@ -5,7 +5,6 @@ date: 2014-04-06T01:22:45-03:00
 author: lourcastillo
 excerpt: En esta Segunda Edición, les traigo nuevas aplicaciones chilenas subidas a la tienda del Marketplace de nuestro dispositivo móvil favorito, luego del exitoso debut en sociedad del Firefox OS de la mano de Movistar y Mozilla, los dispositivos Alcatel One touch Fire, el pasado 19 de febrero.
 layout: post
-guid: http://www.mozillachile.cl/?p=418
 permalink: /blog/2014/04/06/primeras-aplicaciones-chilenas-para-firefoxos-2-edicion/
 image: /images/2014/04/firefox-marketplace_logo-only_RGB.png
 categories:
@@ -19,7 +18,7 @@ tags:
 ---
 &nbsp;
 
-En esta Segunda Edición, les traigo nuevas aplicaciones chilenas subidas a la tienda del Marketplace de nuestro dispositivo móvil favorito, luego del <a title="Firefox OS llega a Chile" href="http://www.mozillachile.cl/blog/2014/02/22/firefox-os-presentado-en-chile/" target="_blank">exitoso debut en sociedad</a> del <a title="Obtener hoy un teléfono inteligente Firefox OS" href="http://www.mozilla.org/es-ES/firefox/os/" target="_blank">Firefox OS</a> de la mano de Movistar y Mozilla, los dispositivos <a title="Pase y vea las virtudes de este increíble dispositivo con Firefox OS" href="http://www.alcatelonetouch.com/global-en/products/smartphones/one_touch_fire.html#.U0DbS6b9-00" target="_blank">Alcatel One touch Fire</a>, el pasado 19 de febrero.<!--more-->
+En esta Segunda Edición, les traigo nuevas aplicaciones chilenas subidas a la tienda del Marketplace de nuestro dispositivo móvil favorito, luego del exitoso debut en sociedad del <a title="Obtener hoy un teléfono inteligente Firefox OS" href="https://www.mozilla.org/es-ES/firefox/os/" target="_blank">Firefox OS</a> de la mano de Movistar y Mozilla, los dispositivos <a title="Pase y vea las virtudes de este increíble dispositivo con Firefox OS" href="http://www.alcatelonetouch.com/global-en/products/smartphones/one_touch_fire.html#.U0DbS6b9-00" target="_blank">Alcatel One touch Fire</a>, el pasado 19 de febrero.<!--more-->
 
 [firefox-app id=»meteorología-chile»]
 

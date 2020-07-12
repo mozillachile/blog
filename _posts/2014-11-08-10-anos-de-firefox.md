@@ -4,7 +4,6 @@ title: 10 años de Firefox
 date: 2014-11-08T01:10:55-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=887
 permalink: /blog/2014/11/08/10-anos-de-firefox/
 categories:
   - Comunidad
@@ -54,7 +53,7 @@ categories:
   ¿Por qué es importante? El aprovechamiento de la tecnología de <strong>64bits permite a los usuarios disfrutar de un mejor rendimiento para juegos y aplicaciones web</strong>, junto a una mayor<strong> estabilidad y seguridad</strong>. Si tomamos en cuenta que el 50% de los usuarios de Firefox en Windows usa un sistema de 64bits, lo que podría aumentar en un par de años dado que cada vez se hace menos uso de sistemas de 32bits.
 </p>
 
-¿Quieres probarlo? Puedes [**bajar aquí**](https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/firefox-36.0a1.en-US.win64-x86_64.installer.exe) la versión Nightly en inglés. Las builds traducidas saldrán más adelante en [este repositorio](http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/) (recuerda bajar la versión es-CL, en español de Chile).
+¿Quieres probarlo? Puedes [**bajar aquí**](https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/firefox-36.0a1.en-US.win64-x86_64.installer.exe) la versión Nightly en inglés. Las builds traducidas saldrán más adelante en [este repositorio](https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/) (recuerda bajar la versión es-CL, en español de Chile).
 
 <h3 style="text-align: justify">
   Firefox para desarrolladores

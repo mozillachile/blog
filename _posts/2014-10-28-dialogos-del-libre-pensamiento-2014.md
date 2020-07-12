@@ -4,7 +4,6 @@ title: Diálogos del libre pensamiento 2014
 date: 2014-10-28T11:38:31-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=882
 permalink: /blog/2014/10/28/dialogos-del-libre-pensamiento-2014/
 categories:
   - Eventos

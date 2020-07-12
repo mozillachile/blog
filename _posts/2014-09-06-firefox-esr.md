@@ -4,7 +4,6 @@ title: Firefox ESR
 date: 2014-09-06T00:41:51-04:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=785
 permalink: /blog/2014/09/06/firefox-esr/
 categories:
   - Firefox

@@ -5,7 +5,6 @@ date: 2014-04-16T23:03:58-03:00
 author: lourcastillo
 excerpt: 'El International Space Apps Challenge es un evento organizado por la NASA alrededor del mundo, un espacio de colaboración internacional masivo con foco en la exploración espacial y en el desarrollo de soluciones libres en torno a la tierra y la vida en el espacio. En esta oportunidad el evento fue realizado en la Universidad Técnica Federico Santa María (campus San Joaquín, Santiago) los días 12 y 13 de abril del presente año y organizado a nivel local por la Fundación OpenStreetMap Chile. '
 layout: post
-guid: http://www.mozillachile.cl/?p=469
 permalink: /blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/
 image: /images/2014/04/Lbj3RfW5.png
 categories:
@@ -28,7 +27,7 @@ tags:
 </div>
 
 <div id="magicdomid227">
-  La comunidad Mozilla Chile asistió como <a href="http://spaceapps.cl/partners" target="_blank">sponsor </a>representando a la <a href="www.mozilla.org/" target="_blank">Fundación Mozilla</a>, tuvimos dos días de mucho trabajo, difusión del conocimiento sobre <a href="http://www.mozilla.org/es-CL/mission/" target="_blank">Mozilla</a> y <a href="https://www.mozilla.org/es-CL/firefox/os/" target="_blank">Firefox OS</a>.
+  La comunidad Mozilla Chile asistió como <a href="http://spaceapps.cl/partners" target="_blank">sponsor </a>representando a la <a href="www.mozilla.org/" target="_blank">Fundación Mozilla</a>, tuvimos dos días de mucho trabajo, difusión del conocimiento sobre <a href="https://www.mozilla.org/es-CL/mission/" target="_blank">Mozilla</a> y <a href="https://www.mozilla.org/es-CL/firefox/os/" target="_blank">Firefox OS</a>.
 </div>
 
 <div>
@@ -73,7 +72,7 @@ tags:
   </div>
   
   <p>
-    [youtube http://www.youtube.com/watch?v=TMP45DupbhI?list=PLFlAJDI87Jg2vk3THSt8RBoD7vLG2tnwH]<br /> Además de esto, nos hicieron una entrevista en vivo vía streaming (apareciendo en la pantalla gigante para los participantes en Chile como a nivel mundial) de la misión de mozilla como comunidad, privacidad de datos, Firefox OS.
+    [youtube https://www.youtube.com/watch?v=TMP45DupbhI?list=PLFlAJDI87Jg2vk3THSt8RBoD7vLG2tnwH]<br /> Además de esto, nos hicieron una entrevista en vivo vía streaming (apareciendo en la pantalla gigante para los participantes en Chile como a nivel mundial) de la misión de mozilla como comunidad, privacidad de datos, Firefox OS.
   </p>
 </div>
 
@@ -81,7 +80,7 @@ tags:
 >   En el minuto 22:50, en streaming, hablamos sobre Mozilla y Firefox OS: destacamos la importancia de la privacidad de los usuarios, que es multiplataforma, accesible, una web libre y abierta.
 > </div>
 
-[youtube http://www.youtube.com/watch?v=SYKcmyn7VQA]
+[youtube https://www.youtube.com/watch?v=SYKcmyn7VQA]
 
 &nbsp;
 
@@ -96,7 +95,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-4' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/img_20140413_113757710/'><img width="150" height="150" src="/images/2014/04/IMG_20140413_113757710-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-525" /></a>
+        <a href='/images/2014/04/IMG_20140413_113757710.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140413_113757710-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-525" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-525'>
@@ -106,7 +105,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/img_20140412_103740397/'><img width="150" height="150" src="/images/2014/04/IMG_20140412_103740397-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-478" /></a>
+        <a href='/images/2014/04/IMG_20140412_103740397.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140412_103740397-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-478" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-478'>
@@ -116,7 +115,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/img_20140413_191646195-2/'><img width="150" height="150" src="/images/2014/04/IMG_20140413_1916461951-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-526" /></a>
+        <a href='/images/2014/04/IMG_20140413_1916461951.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140413_1916461951-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-526" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-526'>
@@ -128,7 +127,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/blil33zicaadsro-jpglarge/'><img width="150" height="150" src="/images/2014/04/BlIl33ZIcAADSRo.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-527" /></a>
+        <a href='images/2014/04/BlIl33ZIcAADSRo.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIl33ZIcAADSRo.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-527" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-527'>
@@ -138,7 +137,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/bliqqytimaajhil-jpglarge/'><img width="150" height="150" src="/images/2014/04/BlIQQytIMAAJHIl.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-564" /></a>
+        <a href='images/2014/04/BlIQQytIMAAJHIl.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIQQytIMAAJHIl.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-564" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-564'>
@@ -148,7 +147,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/attachment/1397344188998/'><img width="150" height="150" src="/images/2014/04/1397344188998-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-555" /></a>
+        <a href='images/2014/04/1397344188998.jpg'><img width="150" height="150" src="/images/2014/04/1397344188998-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-555" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-555'>
@@ -160,7 +159,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon portrait'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/10013498_10152188419211696_8460090671302567364_n-3/'><img width="150" height="150" src="/images/2014/04/10013498_10152188419211696_8460090671302567364_n2-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-590" /></a>
+        <a href='images/2014/04/10013498_10152188419211696_8460090671302567364_n2.jpg'><img width="150" height="150" src="/images/2014/04/10013498_10152188419211696_8460090671302567364_n2-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-590" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-590'>
@@ -182,19 +181,19 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   
   <blockquote class="twitter-tweet" lang="es">
     <p>
-      Desarrolla aplicaciones web HTML5 para un mercado abierto. <a href="https://t.co/5VVmMKNtAm">https://t.co/5VVmMKNtAm</a> <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="http://t.co/5daQoHT6et">pic.twitter.com/5daQoHT6et</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455023807606960128">April 12, 2014</a>
+      Desarrolla aplicaciones web HTML5 para un mercado abierto. <a href="https://t.co/5VVmMKNtAm">https://t.co/5VVmMKNtAm</a> <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="https://t.co/5daQoHT6et">pic.twitter.com/5daQoHT6et</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455023807606960128">April 12, 2014</a>
     </p>
   </blockquote>
   
   <blockquote class="twitter-tweet" lang="es">
     <p>
-      ¿Como publicar tu aplicación en <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> ? presentes en <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="http://t.co/AJQ4tm9Dy2">pic.twitter.com/AJQ4tm9Dy2</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455021850397904896">April 12, 2014</a>
+      ¿Como publicar tu aplicación en <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> ? presentes en <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="https://t.co/AJQ4tm9Dy2">pic.twitter.com/AJQ4tm9Dy2</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455021850397904896">April 12, 2014</a>
     </p>
   </blockquote>
   
   <blockquote class="twitter-tweet" lang="es">
     <p>
-      Descarga aquí simulador de <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="https://t.co/YkQOKmUOJN">https://t.co/YkQOKmUOJN</a> <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="http://t.co/NGDe6LR4sL">pic.twitter.com/NGDe6LR4sL</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455098209136680960">April 12, 2014</a>
+      Descarga aquí simulador de <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="https://t.co/YkQOKmUOJN">https://t.co/YkQOKmUOJN</a> <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a> <a href="https://t.co/NGDe6LR4sL">pic.twitter.com/NGDe6LR4sL</a> — Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455098209136680960">April 12, 2014</a>
     </p>
   </blockquote>
   
@@ -206,7 +205,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   
   <blockquote class="twitter-tweet" lang="es">
     <p>
-      Felices por la gran cantidad de asistentes al evento <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a>, Mozilla da a conocer <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="http://t.co/y9JbgCSibE">pic.twitter.com/y9JbgCSibE </a>— Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455064642381815808">April 12, 2014</a>
+      Felices por la gran cantidad de asistentes al evento <a href="https://twitter.com/SpaceApps_CL">@SpaceApps_CL</a> <a href="https://twitter.com/search?q=%23SpaceApps_CL&src=hash">#SpaceApps_CL</a>, Mozilla da a conocer <a href="https://twitter.com/search?q=%23FirefoxOS&src=hash">#FirefoxOS</a> <a href="https://t.co/y9JbgCSibE">pic.twitter.com/y9JbgCSibE </a>— Mozilla Chile (@MozChile) <a href="https://twitter.com/MozChile/statuses/455064642381815808">April 12, 2014</a>
     </p>
   </blockquote>
   
@@ -345,7 +344,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
 </div>
 
 <div>
-  Se llevaron acabo <a title=" Mi primera semana con Firefox OS " href="https://www.youtube.com/watch?v=jzHIVfxqnts&list=PLLHmeZv0N31Qx5L3m8T-Uht4OA7NFVUqW" target="_blank">demostraciones</a> sobre los equipos Firefox OS, características como la búsqueda adaptativa, las aplicaciones alojadas en la tienda <a href="https://marketplace.firefox.com/" target="_blank">Firefox Marketplace</a> (hosteadas y empaquetadas), la radio, la galería de imágenes, entre otras virtudes. Los dispositivos utilizados fueron de <a title=" Firefox OS Teléfono prototipo para desarrolladores" href="https://marketplace.firefox.com/developers/dev_phone" target="_blank">Geeksphone</a> Keon y Peak. De <a title="Ya se puede comprar en Chile " href="http://www.alcatelonetouch.com/cl/productos/smartphones/one_touch_fire.html#.U07Aa6bWa00" target="_blank">Alcatel One Touch Fire</a> los modelos en color blanco y naranja, las versiones exhibidas del sistema fueron desde la <a href="http://downloads.geeksphone.com/" target="_blank">1.1, 1.3</a> y la <a href="http://downloads.geeksphone.com/" target="_blank">1.5</a>, se demostró la facilidad de desarrollo para una plataforma libre y abierta. Demostraciones <a href="https://marketplace.firefox.com/category/games" target="_blank">Juegos</a> en <a title=" Iniciando con el desarrollo de juegos HTML5" href="http://www.mozilla-hispano.org/iniciando-desarrollo-de-juegos-html5/" target="_blank">HTML5</a> como <a href="https://marketplace.firefox.com/app/cut-the-rope?src=search" target="_blank">CutTheRope,</a> <a href="https://marketplace.firefox.com/search?q=space+hunt" target="_blank">Space Hunt,</a> etc.
+  Se llevaron acabo <a title=" Mi primera semana con Firefox OS " href="https://www.youtube.com/watch?v=jzHIVfxqnts&list=PLLHmeZv0N31Qx5L3m8T-Uht4OA7NFVUqW" target="_blank">demostraciones</a> sobre los equipos Firefox OS, características como la búsqueda adaptativa, las aplicaciones alojadas en la tienda <a href="https://marketplace.firefox.com/" target="_blank">Firefox Marketplace</a> (hosteadas y empaquetadas), la radio, la galería de imágenes, entre otras virtudes. Los dispositivos utilizados fueron de <a title=" Firefox OS Teléfono prototipo para desarrolladores" href="https://marketplace.firefox.com/developers/dev_phone" target="_blank">Geeksphone</a> Keon y Peak. De <a title="Ya se puede comprar en Chile " href="http://www.alcatelonetouch.com/cl/productos/smartphones/one_touch_fire.html#.U07Aa6bWa00" target="_blank">Alcatel One Touch Fire</a> los modelos en color blanco y naranja, las versiones exhibidas del sistema fueron desde la <a href="http://downloads.geeksphone.com/" target="_blank">1.1, 1.3</a> y la <a href="http://downloads.geeksphone.com/" target="_blank">1.5</a>, se demostró la facilidad de desarrollo para una plataforma libre y abierta. Demostraciones <a href="https://marketplace.firefox.com/category/games" target="_blank">Juegos</a> en <a title=" Iniciando con el desarrollo de juegos HTML5" href="https://www.mozilla-hispano.org/iniciando-desarrollo-de-juegos-html5/" target="_blank">HTML5</a> como <a href="https://marketplace.firefox.com/app/cut-the-rope?src=search" target="_blank">CutTheRope,</a> <a href="https://marketplace.firefox.com/search?q=space+hunt" target="_blank">Space Hunt,</a> etc.
 </div>
 
 <div>
@@ -358,13 +357,13 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-6' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/img_20140413_103221100/'><img width="150" height="150" src="/images/2014/04/IMG_20140413_103221100-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='images/2014/04/IMG_20140413_103221100.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140413_103221100-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/blhapkxiuaa2goc-jpglarge/'><img width="150" height="150" src="/images/2014/04/BlHAPkXIUAA2gOc.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='images/2014/04/BlHAPkXIUAA2gOc.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlHAPkXIUAA2gOc.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
@@ -376,7 +375,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
 </div>
 
 <div>
-  Dentro de los desarrollos de participantes, se logró que una <a title="Aplicaciones" href="https://developer.mozilla.org/es/docs/Aplicaciones" target="_blank">aplicación</a> sea subida en el Firefox Marketplace. Esa app fue desarrollada con las últimas versiones de <a title="Cordova 3.4 “abraza” a Firefox OS" href="http://www.phonegapspain.com/cordova-3-4-abraza-a-firefox-os/" target="_blank">PhoneGap </a>y<a title="Cordova 3.4 “abraza” a Firefox OS" href="http://www.phonegapspain.com/cordova-3-4-abraza-a-firefox-os/" target="_blank"> Apache Cordova</a>:
+  Dentro de los desarrollos de participantes, se logró que una <a title="Aplicaciones" href="https://developer.mozilla.org/es/docs/Aplicaciones" target="_blank">aplicación</a> sea subida en el Firefox Marketplace. Esa app fue desarrollada con las últimas versiones de <a title="Cordova 3.4 “abraza” a Firefox OS" href="https://www.phonegapspain.com/cordova-3-4-abraza-a-firefox-os/" target="_blank">PhoneGap </a>y<a title="Cordova 3.4 “abraza” a Firefox OS" href="https://www.phonegapspain.com/cordova-3-4-abraza-a-firefox-os/" target="_blank"> Apache Cordova</a>:
 </div>
 
 <div>
@@ -389,13 +388,13 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-7' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/bliu0b1iuaaz3ov-jpglarge/'><img width="150" height="150" src="/images/2014/04/BlIU0B1IUAAz3oV.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='images/2014/04/BlIU0B1IUAAz3oV.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIU0B1IUAAz3oV.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon portrait'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/blhs7t0cyaejmjh/'><img width="150" height="150" src="/images/2014/04/BlHS7T0CYAEJMJh-160x160.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='images/2014/04/BlHS7T0CYAEJMJh.png'><img width="150" height="150" src="/images/2014/04/BlHS7T0CYAEJMJh-160x160.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
@@ -427,19 +426,19 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-8' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/10171664_376479525826255_5109141388443283901_n/'><img width="150" height="150" src="/images/2014/04/10171664_376479525826255_5109141388443283901_n-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/10171664_376479525826255_5109141388443283901_n.jpg'><img width="150" height="150" src="/images/2014/04/10171664_376479525826255_5109141388443283901_n-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/10253998_376479429159598_4032415000393810132_n/'><img width="150" height="150" src="/images/2014/04/10253998_376479429159598_4032415000393810132_n-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images//2014/04/10253998_376479429159598_4032415000393810132_n.jpg'><img width="150" height="150" src="/images/2014/04/10253998_376479429159598_4032415000393810132_n-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://www.mozillachile.cl/blog/2014/04/16/mozilla-participo-en-el-international-space-apps-challenge-chile-2014/blhcojuicaastio/'><img width="150" height="150" src="/images/2014/04/BlHcojuIcAAsTio-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/BlHcojuIcAAsTio.jpg'><img width="150" height="150" src="/images/2014/04/BlHcojuIcAAsTio-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     

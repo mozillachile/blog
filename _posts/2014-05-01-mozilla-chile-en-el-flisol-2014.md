@@ -4,7 +4,6 @@ title: Mozilla Chile en el FLISOL 2014
 date: 2014-05-01T20:58:50-04:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=613
 permalink: /blog/2014/05/01/mozilla-chile-en-el-flisol-2014/
 categories:
   - Comunidad

@@ -4,7 +4,6 @@ title: Mozilla permitirá reproducir contenido con DRM en Firefox
 date: 2014-05-14T20:52:45-04:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=670
 permalink: /blog/2014/05/14/mozilla-permitira-reproducir-contenido-con-drm-en-firefox/
 categories:
   - Firefox
@@ -101,6 +100,6 @@ Quizás sea el momento de llevar adelante la propuesta de Brendan Eich de crear 
 
 Para más información pueden leer el [escrito de Mitchell Baker](https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/ "Comunicado de Mitchell Baker sobre DRM en Mozilla") (en inglés) y [el texto de Andreas Gal](https://hacks.mozilla.org/2014/05/reconciling-mozillas-mission-and-w3c-eme/ "Comentario sobre la solución técninca adoptada por Mozilla sobre EME y DRM") con la solución técnica adoptada por Mozilla.
 
-También recomiendo [leer el escrito de Cory Doctorow](http://www.theguardian.com/technology/2014/may/14/firefox-closed-source-drm-video-browser-cory-doctorow "Cory Doctorow sobre la decisión de Mozilla") sobre la situación. Está en inglés y es largo, pero vale la pena.
+También recomiendo [leer el escrito de Cory Doctorow](https://www.theguardian.com/technology/2014/may/14/firefox-closed-source-drm-video-browser-cory-doctorow "Cory Doctorow sobre la decisión de Mozilla") sobre la situación. Está en inglés y es largo, pero vale la pena.
 
 [1] El término piratería no es correcto, por eso hablamos de usos no autorizados del contenido.

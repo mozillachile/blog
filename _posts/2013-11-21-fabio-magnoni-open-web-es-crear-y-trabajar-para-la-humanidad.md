@@ -4,7 +4,6 @@ title: 'Fabio Magnoni: «Open Web es crear y trabajar para la humanidad»'
 date: 2013-11-21T15:10:42-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=277
 permalink: /blog/2013/11/21/fabio-magnoni-open-web-es-crear-y-trabajar-para-la-humanidad/
 categories:
   - Comunidad
@@ -14,7 +13,7 @@ tags:
   - Fabio Magnoni
   - Móviles
 ---
-El próximo miércoles 27 se realizará el <a href="http://www.mozillachile.cl/blog/2013/11/14/firefoxos-apps-day-in-a-box-en-ingenieria-de-la-u-de-chile/" target="_blank">primer «Firefox OS App Days in a Box»</a> en Chile, y nuestro expositor invitado es **Fabio Magnoni**. Mozilla Chile entrevistó a nuestra visita para conocer un poco más de él, de sus motivaciones, aficiones y opiniones sobre la web, los móviles y, por supuesto, su trabajo en **Mozilla**.  
+El próximo miércoles 27 se realizará el primer «Firefox OS App Days in a Box»</a> en Chile, y nuestro expositor invitado es **Fabio Magnoni**. Mozilla Chile entrevistó a nuestra visita para conocer un poco más de él, de sus motivaciones, aficiones y opiniones sobre la web, los móviles y, por supuesto, su trabajo en **Mozilla**.  
 <!--more-->
 
 <div id="destacado" style="color: #555555; background-color: #ffffcc; border: solid 1px #ffcc66; padding: 10px; margin: 10px;">
@@ -58,7 +57,7 @@ El próximo miércoles 27 se realizará el <a href="http://www.mozillachile.cl/b
   </h3>
   
   <p>
-    ¡Soy músico! Toco guitarra, tengo una banda de thrash metal, con la que hice algunas giras por Latinoamérica acompañando a <a href="http://es.wikipedia.org/wiki/Sepultura_(banda)‎" target="_blank">Sepultura</a>. ¡Fue una gran época! Pero tuve que dejarla por causa de mi trabajo, así que toco con mis amigos por diversión.
+    ¡Soy músico! Toco guitarra, tengo una banda de thrash metal, con la que hice algunas giras por Latinoamérica acompañando a <a href="https://es.wikipedia.org/wiki/Sepultura_(banda)‎" target="_blank">Sepultura</a>. ¡Fue una gran época! Pero tuve que dejarla por causa de mi trabajo, así que toco con mis amigos por diversión.
   </p>
   
   <p>

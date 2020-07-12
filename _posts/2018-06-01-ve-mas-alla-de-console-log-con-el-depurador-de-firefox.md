@@ -4,7 +4,6 @@ title: Ve más allá de console.log con el depurador de Firefox
 date: 2018-06-01T12:41:32-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=1255
 permalink: /blog/2018/06/01/ve-mas-alla-de-console-log-con-el-depurador-de-firefox/
 image: /images/2018/06/Debugger_social-1-300x165.png
 categories:
@@ -23,7 +22,7 @@ _Esta es una traducción del [artículo original](https://hacks.mozilla.org/2017
 
 ### Presentamos el Debugger Playground
 
-<a href="http://www.mozillabolivia.org/ve-mas-alla-de-console-log-con-el-depurador-de-firefox/debugger_social-1/" rel="attachment wp-att-1805"><img class="aligncenter size-large wp-image-1805" src="http://www.mozillabolivia.org/wp-content/uploads/2018/03/Debugger_social-1-600x307.png" sizes="(max-width: 600px) 100vw, 600px" srcset="http://www.mozillabolivia.org/wp-content/uploads/2018/03/Debugger_social-1-600x307.png 600w, http://www.mozillabolivia.org/wp-content/uploads/2018/03/Debugger_social-1-300x154.png 300w, http://www.mozillabolivia.org/wp-content/uploads/2018/03/Debugger_social-1-768x393.png 768w, http://www.mozillabolivia.org/wp-content/uploads/2018/03/Debugger_social-1.png 1000w" alt="" width="600" height="307" /></a>
+<a href="images/2018/03/Debugger_social-1.png" rel="attachment wp-att-1805"><img class="aligncenter size-large wp-image-1805" src="/images/2018/03/Debugger_social-1-600x307.png" sizes="(max-width: 600px) 100vw, 600px" srcset="/images/2018/03/Debugger_social-1-600x307.png 600w, /images/2018/03/Debugger_social-1-300x154.png 300w, /images/2018/03/Debugger_social-1-768x393.png 768w, /images/2018/03/Debugger_social-1.png 1000w" alt="" width="600" height="307" /></a>
 
 Las lecciones son completamente gratuitas y el código de la aplicación de tareas está [disponible para descargar desde GitHub](https://mozilladevelopers.github.io/sample-todo/01-variables/).
 

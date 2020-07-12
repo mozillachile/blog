@@ -4,7 +4,6 @@ title: Firefox 34, ¡WebIDE y Hello!
 date: 2014-11-30T23:34:10-03:00
 author: ravmn
 layout: post
-guid: http://www.mozillachile.cl/?p=845
 permalink: /blog/2014/11/30/firefox-34-webide-y-hello/
 image: /images/2014/11/Fx10th-wallpaper-1920x1080.jpg
 categories:

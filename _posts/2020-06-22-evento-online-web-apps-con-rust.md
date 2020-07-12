@@ -4,7 +4,6 @@ title: Evento Online Web Apps con Rust
 date: 2020-06-22T21:59:47-04:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=1353
 permalink: /blog/2020/06/22/evento-online-web-apps-con-rust/
 spay_email:
   - ""

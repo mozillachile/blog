@@ -4,7 +4,6 @@ title: Preguntas frecuentes sobre la renuncia del CEO
 date: 2014-04-08T21:21:28-03:00
 author: mozilla
 layout: post
-guid: http://www.mozillachile.cl/?p=455
 permalink: /blog/2014/04/08/preguntas-frecuentes-sobre-la-renuncia-del-ceo/
 sharing_disabled:
   - "1"
@@ -36,7 +35,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  Mozilla está fundado sobre la misión de promover apertura, innovación y oportunidades en la Web. Cada día, unimos más de medio billon de usuarios y miles de colaboradores de más de 80 países para avanzar en la causa trazada en el <a href="http://www.mozilla.org/about/manifesto/">Manifiesto de Mozilla</a>. La Web es un recurso público vital y Mozilla existe para protegerlo. Eso es lo que hacemos en Mozilla, nuestro singular punto de atención.
+  Mozilla está fundado sobre la misión de promover apertura, innovación y oportunidades en la Web. Cada día, unimos más de medio billon de usuarios y miles de colaboradores de más de 80 países para avanzar en la causa trazada en el <a href="https://www.mozilla.org/about/manifesto/">Manifiesto de Mozilla</a>. La Web es un recurso público vital y Mozilla existe para protegerlo. Eso es lo que hacemos en Mozilla, nuestro singular punto de atención.
 </p>
 
 <p dir="ltr">
@@ -194,7 +193,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  R: No. El proyecto Mozilla es el paraguas que cubre la comunidad mundial de Mozilla, y como una organización comunitaria no se preocupa de asuntos fuera de la mira del <a href="http://www.mozilla.org/about/manifesto/">Manifiesto de Mozilla</a>. Cada miembro de la comunidad es libre de tener su propia opinión, y nosotros aceptamos a todos. Mozilla Corporation y Mozilla Foundation, como muchos de sus pares en la industria tecnológica estadounidense a) provee beneficios y apoyo a parejas del mismo sexo y b) recientemente publicó la <a href="https://blog.mozilla.org/blog/2014/03/29/mozilla-supports-lgbt-equality/">siguiente declaración </a>acerca del matrimonio igualitario. No necesitas estar de acuerdo con estas acciones o declaraciones para ser un Mozillian.
+  R: No. El proyecto Mozilla es el paraguas que cubre la comunidad mundial de Mozilla, y como una organización comunitaria no se preocupa de asuntos fuera de la mira del <a href="https://www.mozilla.org/about/manifesto/">Manifiesto de Mozilla</a>. Cada miembro de la comunidad es libre de tener su propia opinión, y nosotros aceptamos a todos. Mozilla Corporation y Mozilla Foundation, como muchos de sus pares en la industria tecnológica estadounidense a) provee beneficios y apoyo a parejas del mismo sexo y b) recientemente publicó la <a href="https://blog.mozilla.org/blog/2014/03/29/mozilla-supports-lgbt-equality/">siguiente declaración </a>acerca del matrimonio igualitario. No necesitas estar de acuerdo con estas acciones o declaraciones para ser un Mozillian.
 </p>
 
 <p dir="ltr">
@@ -202,7 +201,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  R: No. Mozilla está dedicado a una causa única: mantener la Web libre y abierta. Nuestras metas específicas como una organización están delineadas en el<a href="http://www.mozilla.org/about/manifesto/"> Manifiesto de Mozilla</a>. Somos activistas de la Open Web. Mozilla tiene una larga historia de atraer gente con una amplia diversidad de creencias políticas, sociales y religiosas para trabajar con Mozilla.
+  R: No. Mozilla está dedicado a una causa única: mantener la Web libre y abierta. Nuestras metas específicas como una organización están delineadas en el<a href="https://www.mozilla.org/about/manifesto/"> Manifiesto de Mozilla</a>. Somos activistas de la Open Web. Mozilla tiene una larga historia de atraer gente con una amplia diversidad de creencias políticas, sociales y religiosas para trabajar con Mozilla.
 </p>
 
 <p dir="ltr">
@@ -214,5 +213,5 @@ categories:
 </p>
 
 <p dir="ltr">
-  Todo, desde las <a href="http://www.mozilla.org/about/governance/policies/participation/" target="_blank">Guías de Participación de la Comunidad</a>, la ley laboral y la Misión de Mozilla manda que empleados y miembros de la comunidad pueden y deben mantener cualquier tipo de creencia que deseen. Somos una organización constituída de una comunidad global de gente con amplios y diversos puntos de vista, uniéndose para una meta global común: <a href="http://www.mozilla.org/about/manifesto/">proteger y construir una Web abierta</a>.
+  Todo, desde las <a href="https://www.mozilla.org/about/governance/policies/participation/" target="_blank">Guías de Participación de la Comunidad</a>, la ley laboral y la Misión de Mozilla manda que empleados y miembros de la comunidad pueden y deben mantener cualquier tipo de creencia que deseen. Somos una organización constituída de una comunidad global de gente con amplios y diversos puntos de vista, uniéndose para una meta global común: <a href="https://www.mozilla.org/about/manifesto/">proteger y construir una Web abierta</a>.
 </p>

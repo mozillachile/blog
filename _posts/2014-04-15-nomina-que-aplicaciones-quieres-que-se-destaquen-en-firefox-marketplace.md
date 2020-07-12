@@ -4,7 +4,6 @@ title: ¡Nomina qué aplicaciones quieres que se destaquen en Firefox Marketplac
 date: 2014-04-15T21:31:52-03:00
 author: lourcastillo
 layout: post
-guid: http://www.mozillachile.cl/?p=463
 permalink: /blog/2014/04/15/nomina-que-aplicaciones-quieres-que-se-destaquen-en-firefox-marketplace/
 image: /images/2014/04/firefox-marketplace_logo-only_RGB.png
 categories:

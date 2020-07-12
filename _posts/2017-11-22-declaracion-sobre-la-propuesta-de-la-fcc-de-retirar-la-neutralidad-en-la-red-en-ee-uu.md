@@ -4,7 +4,6 @@ title: Declaración sobre la propuesta de la FCC de retirar la neutralidad en la
 date: 2017-11-22T11:57:18-03:00
 author: Javier Martínez Ortiz
 layout: post
-guid: http://www.mozillachile.cl/?p=1231
 permalink: /blog/2017/11/22/declaracion-sobre-la-propuesta-de-la-fcc-de-retirar-la-neutralidad-en-la-red-en-ee-uu/
 image: /images/2017/11/Immigration_Blog_Design_BW-300x165.jpg
 categories:
