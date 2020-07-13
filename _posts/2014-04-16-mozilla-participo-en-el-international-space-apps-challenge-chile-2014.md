@@ -127,7 +127,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/BlIl33ZIcAADSRo.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIl33ZIcAADSRo.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-527" /></a>
+        <a href='/images/2014/04/BlIl33ZIcAADSRo.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIl33ZIcAADSRo.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-527" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-527'>
@@ -137,7 +137,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/BlIQQytIMAAJHIl.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIQQytIMAAJHIl.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-564" /></a>
+        <a href='/images/2014/04/BlIQQytIMAAJHIl.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIQQytIMAAJHIl.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-564" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-564'>
@@ -147,7 +147,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/1397344188998.jpg'><img width="150" height="150" src="/images/2014/04/1397344188998-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-555" /></a>
+        <a href='/images/2014/04/1397344188998.jpg'><img width="150" height="150" src="/images/2014/04/1397344188998-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-555" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-555'>
@@ -159,7 +159,7 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
     
     <dl class='gallery-item'>
       <dt class='gallery-icon portrait'>
-        <a href='images/2014/04/10013498_10152188419211696_8460090671302567364_n2.jpg'><img width="150" height="150" src="/images/2014/04/10013498_10152188419211696_8460090671302567364_n2-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-590" /></a>
+        <a href='/images/2014/04/10013498_10152188419211696_8460090671302567364_n2.jpg'><img width="150" height="150" src="/images/2014/04/10013498_10152188419211696_8460090671302567364_n2-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-590" /></a>
       </dt>
       
       <dd class='wp-caption-text gallery-caption' id='gallery-4-590'>
@@ -357,13 +357,13 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-6' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/IMG_20140413_103221100.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140413_103221100-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/IMG_20140413_103221100.jpg'><img width="150" height="150" src="/images/2014/04/IMG_20140413_103221100-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/BlHAPkXIUAA2gOc.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlHAPkXIUAA2gOc.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/BlHAPkXIUAA2gOc.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlHAPkXIUAA2gOc.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
@@ -388,13 +388,13 @@ Durante todo el evento (los dos días) dimos soporte para las aplicaciones, adem
   <div id='gallery-7' class='gallery galleryid-469 gallery-columns-3 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='images/2014/04/BlIU0B1IUAAz3oV.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIU0B1IUAAz3oV.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/BlIU0B1IUAAz3oV.jpglarge.jpeg'><img width="150" height="150" src="/images/2014/04/BlIU0B1IUAAz3oV.jpglarge-160x160.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item'>
       <dt class='gallery-icon portrait'>
-        <a href='images/2014/04/BlHS7T0CYAEJMJh.png'><img width="150" height="150" src="/images/2014/04/BlHS7T0CYAEJMJh-160x160.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <a href='/images/2014/04/BlHS7T0CYAEJMJh.png'><img width="150" height="150" src="/images/2014/04/BlHS7T0CYAEJMJh-160x160.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
     

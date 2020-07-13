@@ -23,7 +23,7 @@ Entre las actividades destacadas del evento, a parte de las charlas de la comuni
 
 <figure class="wp-block-image">
 
-<img src="images/2019/08/IMG_20190823_150450708.jpg" alt="" class="wp-image-1320" srcset="/images/2019/08/IMG_20190823_150450708.jpg 3120w, /images/2019/08/IMG_20190823_150450708-300x213.jpg 300w, /images/2019/08/IMG_20190823_150450708-768x545.jpg 768w, /images/2019/08/IMG_20190823_150450708-600x426.jpg 600w, /images/2019/08/IMG_20190823_150450708-1000x710.jpg 1000w" sizes="(max-width: 3120px) 100vw, 3120px" />
+<img src="/images/2019/08/IMG_20190823_150450708.jpg" alt="" class="wp-image-1320" srcset="/images/2019/08/IMG_20190823_150450708.jpg 3120w, /images/2019/08/IMG_20190823_150450708-300x213.jpg 300w, /images/2019/08/IMG_20190823_150450708-768x545.jpg 768w, /images/2019/08/IMG_20190823_150450708-600x426.jpg 600w, /images/2019/08/IMG_20190823_150450708-1000x710.jpg 1000w" sizes="(max-width: 3120px) 100vw, 3120px" />
 </figure> 
 
 Les comparto el enlace del evento: <https://la.ubucon.org/>

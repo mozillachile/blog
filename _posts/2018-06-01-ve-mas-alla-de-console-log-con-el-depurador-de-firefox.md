@@ -22,7 +22,7 @@ Esta es una traducción del [artículo original](https://hacks.mozilla.org/2017/
 
 ### Presentamos el Debugger Playground
 
-<a href="images/2018/03/Debugger_social-1.png" rel="attachment wp-att-1805"><img class="aligncenter size-large wp-image-1805" src="/images/2018/03/Debugger_social-1-600x307.png" sizes="(max-width: 600px) 100vw, 600px" srcset="/images/2018/03/Debugger_social-1-600x307.png 600w, /images/2018/03/Debugger_social-1-300x154.png 300w, /images/2018/03/Debugger_social-1-768x393.png 768w, /images/2018/03/Debugger_social-1.png 1000w" alt="" width="600" height="307" /></a>
+<a href="/images/2018/03/Debugger_social-1.png" rel="attachment wp-att-1805"><img class="aligncenter size-large wp-image-1805" src="/images/2018/03/Debugger_social-1-600x307.png" sizes="(max-width: 600px) 100vw, 600px" srcset="/images/2018/03/Debugger_social-1-600x307.png 600w, /images/2018/03/Debugger_social-1-300x154.png 300w, /images/2018/03/Debugger_social-1-768x393.png 768w, /images/2018/03/Debugger_social-1.png 1000w" alt="" width="600" height="307" /></a>
 
 Las lecciones son completamente gratuitas y el código de la aplicación de tareas está [disponible para descargar desde GitHub](https://mozilladevelopers.github.io/sample-todo/01-variables/).
 

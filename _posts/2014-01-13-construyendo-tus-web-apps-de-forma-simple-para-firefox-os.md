@@ -14,7 +14,7 @@ tags:
   - guia
   - web apps
 ---
-<img class="size-medium wp-image-1580 alignright" alt="firefoxos_boton_azul2" src="images/2013/08/firefoxos_boton_azul2-252x252.png" width="252" height="252" />
+<img class="size-medium wp-image-1580 alignright" alt="firefoxos_boton_azul2" src="/images/2013/08/firefoxos_boton_azul2-252x252.png" width="252" height="252" />
 
 > Basado en la <a title="Tu app para Firefox OS en 5 pasos" href="http://mozilla.pe/firefoxos-dev" target="_blank">entrada original</a> de Mozilla Perú, replicada por <a title="Tu app para Firefox OS en 5 pasos" href="https://www.mozilla-hispano.org/tu-app-para-firefox-os-en-5-pasos/" target="_blank">Jorge Villalobos</a> en Mozilla Hispano.
 

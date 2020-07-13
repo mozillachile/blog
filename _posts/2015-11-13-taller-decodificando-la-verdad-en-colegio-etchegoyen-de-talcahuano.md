@@ -119,7 +119,7 @@ Por lo pronto, se proyectan las siguientes actividades para el mes de marzo de 2
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='images/2015/11/PB110085-e1447437140591.jpg'><img width="150" height="150" src="/images/2015/11/PB110085-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="Taller en Colegio Etchegoyen" aria-describedby="gallery-12-1067" /></a>
+      <a href='/images/2015/11/PB110085-e1447437140591.jpg'><img width="150" height="150" src="/images/2015/11/PB110085-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="Taller en Colegio Etchegoyen" aria-describedby="gallery-12-1067" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-12-1067'>
@@ -237,7 +237,7 @@ Por lo pronto, se proyectan las siguientes actividades para el mes de marzo de 2
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='images/2015/11/PB110096-e1447437009630.jpg'><img width="150" height="150" src="/images/2015/11/PB110096-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="Taller en Colegio Etchegoyen" aria-describedby="gallery-12-1078" /></a>
+      <a href='/images/2015/11/PB110096-e1447437009630.jpg'><img width="150" height="150" src="/images/2015/11/PB110096-160x160.jpg" class="attachment-thumbnail size-thumbnail" alt="Taller en Colegio Etchegoyen" aria-describedby="gallery-12-1078" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-12-1078'>
