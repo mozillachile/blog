@@ -7,6 +7,15 @@ github: "https://github.com/mozilla/release-blog"
 highlighter: rouge
 repository: https://github.com/mozillachile/blog
 
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
 # Navigation
 navigation:
 - title: Twitter
