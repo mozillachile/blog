@@ -97,7 +97,7 @@ Nos gustaría fomentar que los desarrolladores empiecen a experimentar con WebAu
 
 Es muy emocionate traer la estandarización de la autenticación de dos factores a la web; la criptografía de llave pública también protege nuestra información cuando viaja a través de internet a través del protocolo TLS, y ahora permite que los ataques phishing sean más difíciles de realizar. Prueba WebAuthn en Firefox ([firefox.com](http://firefox.com)).
 
-[<img class="aligncenter size-full wp-image-41672" src="/images/2018/06/20180111_162351.jpg" sizes="(max-width: 650px) 100vw, 650px" srcset="/images/2018/06/ 650w, /images/2018/06/20180111_162351-300x247.jpg 300w, /images/2018/06/20180111_162351-130x107.jpg 130w, /images/2018/06/20180111_162351-100x83.jpg 100w" alt="Autenticación con token" width="650" height="535" />](/images/2018/06/20180111_162351.jpg)
+[<img class="aligncenter size-full wp-image-41672" src="/images/2018/06/20180111_162351.jpg" sizes="(max-width: 650px) 100vw, 650px" srcset="/images/2018/06/20180111_162351.jpg 650w, /images/2018/06/20180111_162351-300x247.jpg 300w, /images/2018/06/20180111_162351-130x107.jpg 130w, /images/2018/06/20180111_162351-100x83.jpg 100w" alt="Autenticación con token" width="650" height="535" />](/images/2018/06/20180111_162351.jpg)
 
 ### Una nota final sobre pruebas
 
