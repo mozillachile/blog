@@ -177,7 +177,7 @@ html {
 }
 
 /* RM blog additions */
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 430px) {
     #site-description {
            line-height: initial;
         }
