@@ -68,7 +68,7 @@ Si te perdiste el evento anterior, puedes ver en este siguiente enlace <a rel="n
 <pre class="wp-block-preformatted"><strong>BIOGRAFÍA CHARLISTA</strong></pre>
 
 <div class="wp-block-image">
-  <figure class="alignleft is-resized"><img src="https://i1.wp.com/pbs.twimg.com/profile_images/1225940015361867783/_GXL-5Rc_400x400.jpg?ssl=1" alt="" width="280" height="280" /><figcaption>Mario García</figcaption></figure>
+  <figure class="alignleft is-resized"><img src="/images/2020/06/GXL5Rc.jpg" alt="" width="280" height="280" /><figcaption>Mario García</figcaption></figure>
 </div>
 
 Usuario y contribuidor activo en proyectos de código abierto por más de una década. Ha participado como conferencista e instructor en eventos de tecnología e innovación desde 2008. Ha colaborado con Mozilla desde 2011 y es Mozilla Reps. Forma parte de los programas GitLab Heroes y GitKraken Ambassadors. Es Desarrollador Web. Además, escribe artículos técnicos en <a href="https://dev.to/" target="_blank" rel="noreferrer noopener">dev.to</a>

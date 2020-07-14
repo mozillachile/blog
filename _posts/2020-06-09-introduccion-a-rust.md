@@ -26,7 +26,7 @@ El próximo 20 de junio a las 11:00 hrs de Chile te invitamos a participar de la
 <pre class="wp-block-preformatted"><strong>BIOGRAFÍA CHARLISTA</strong></pre>
 
 <div class="wp-block-image">
-  <figure class="alignleft"><img src="https://pbs.twimg.com/profile_images/1225940015361867783/_GXL-5Rc_400x400.jpg" alt="" /></figure>
+  <figure class="alignleft"><img src="/images/2020/06/GXL5Rc.jpg" alt="" /></figure>
 </div>
 
 Usuario y contribuidor activo en proyectos de código abierto por más de una década. Ha participado como conferencista e instructor en eventos de tecnología e innovación desde 2008. Ha colaborado con Mozilla desde 2011 y es Mozilla Reps. Forma parte de los programas GitLab Heroes y GitKraken Ambassadors. Es Desarrollador Web. Además, escribe artículos técnicos en dev.to

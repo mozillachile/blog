@@ -45,7 +45,7 @@ layout: compress
     <link rel="stylesheet" id="frontierline-css" href="/themes/frontierline-rm/style.css" type="text/css" media="all" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/themes/frontierline-rm/js/jquery.min.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172502773-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -54,7 +54,21 @@ layout: compress
       gtag('config', 'UA-172502773-1');
     </script>
 
-   
+    <!-- PWA -->
+    <link rel='manifest' href='/manifest.json'>
+    
+    <script>
+      if ("serviceWorker" in navigator) {
+        if (!navigator.serviceWorker.controller) {
+          navigator.serviceWorker
+            .register("/serviceworker.js", {
+              scope: "./"
+            })
+            .then(function (reg) {
+            });
+        }
+      }
+    </script>
   </head>
 
   <body class="{% if page.home%}blog{% else %}post-template-default single single-post single-format-standard color-scheme-none pattern-none{% endif %}">
