@@ -51,7 +51,7 @@ self.addEventListener('fetch', (event) => {
           } else {
             console.log('inside else');
             return fetch(event.request).then(function(response) {
-              console.log('Service Worker: Returning Response from Server', response);
+              //console.log('Service Worker: Returning Response from Server', response);
               //cache.put(event.request, response.clone());
               return response;
             }).catch((error) => {
