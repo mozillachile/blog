@@ -9,24 +9,42 @@ layout: compress
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}. {{ site.extradescription }}">
-    <meta name="image" content="{{ site.url }}/images/logos/750px-All-firefox-logos.png">
+    {% if page.image %}
+      <meta name="image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+      <meta name="image" content="{{ site.url }}/images/logos/site-logo-640x492.jpg">
+    {% endif %}
 
     <!-- Schema.org for Google -->
     <meta itemprop="name" content="{{ page.title }}">
     <meta itemprop="description" content="{{ site.description }}. {{ site.extradescription }}">
-    <meta itemprop="image" content="{{ site.url }}/images/logos/750px-All-firefox-logos.png">
+    
+    {% if page.image %}
+      <meta itemprop="image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+      <meta itemprop="image" content="{{ site.url }}/images/logos/site-logo-640x492.jpg">
+    {% endif %}
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ site.description }}. {{ site.extradescription }}">
     <meta name="twitter:site" content="@MozillaReleases">
-    <meta name="twitter:image:" content="{{ site.url }}/images/logos/750px-All-firefox-logos.png">
+    {% if page.image %}
+      <meta name="twitter:image:" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+      <meta name="twitter:image:" content="{{ site.url }}/images/logos/site-logo-640x492.jpg">
+    {% endif %}
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ site.description }}. {{ site.extradescription }}">
-    <meta property="og:image" content="{{ site.url }}/images/logos/750px-All-firefox-logos.png">
+    {% if page.image %}
+      <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+      <meta property="og:image" content="{{ site.url }}/images/logos/site-logo-640x492.jpg">
+    {% endif %}
+  
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="Mozilla Chile">
     <meta property="og:locale" content="en-US">
@@ -115,16 +133,9 @@ layout: compress
     </nav>
 
     <main id="content" role="main">
-
       {{ content }}
-
-       
     </main>
-     
   </div><!-- /.site-wrap -->
-
-
-
 
   <footer id="site-info" class="section">
     <div class="content">
