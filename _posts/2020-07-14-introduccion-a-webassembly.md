@@ -14,7 +14,7 @@ categories:
 tags:
   - webassembly
 ---
-<pre class="wp-block-preformatted"><strong>Introduccion a WebAssembly</strong></pre>
+<pre class="wp-block-preformatted"><strong>Introducción a WebAssembly</strong></pre>
 
 
 
