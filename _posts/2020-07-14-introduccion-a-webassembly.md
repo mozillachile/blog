@@ -16,6 +16,10 @@ tags:
 ---
 <pre class="wp-block-preformatted"><strong>Introduccion a WebAssembly</strong></pre>
 
+
+
+**Para asistir al evento:** [Suscribirse a Mozilla Chile](https://www.youtube.com/channel/UC8C9tZY8TMiEtXBFLOsJsbA/)
+
 WebAssembly (abreviado, Wasm) es una nueva forma con la que los desarrolladores web pueden generar aplicaciones en internet. Hasta ahora, para ello había que recurrir a JavaScript. Pero JavaScript es relativamente lento y, en determinados escenarios, se ve limitado. Por eso, el World Wide Web Consortium (W3C) ha impulsado este nuevo método. Sin embargo, para que Wasm pueda funcionar, el navegador debe ser compatible con este lenguaje. Por este motivo, Mozilla (Firefox), Microsoft (Edge), Apple (Safari) y Google (Chrome) han participado en el desarrollo. En todas las versiones de navegador actuales de estos proveedores se pueden ejecutar aplicaciones en WebAssembly.
 
 El próximo 18 de julio a las 20:00 hrs de Chile te invitamos a participar de la actividad online a cargo de [Miguel Useche](https://skatox.com/blog/).
