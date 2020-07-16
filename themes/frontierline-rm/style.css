@@ -181,10 +181,13 @@ html {
     #site-description {
            line-height: initial;
         }
-    #masthead {
-      background-image: url('/themes/frontierline-rm/img/fox-tail.png');
-    }
 }
+#masthead {
+    background-image: url('/themes/frontierline-rm/img/fox-tail.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 /* Author picture styling */
 .entry-info .author-photo {
