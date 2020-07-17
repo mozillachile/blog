@@ -46,16 +46,11 @@ self.addEventListener('fetch', (event) => {
       caches.open(CACHE).then(function(cache) {
         return cache.match(event.request).then(function(response) {
           if (response) {
-            //console.log('Service Worker: Returning Cached Response', response);
             return response;
           } else {
-            console.log('inside else');
             return fetch(event.request).then(function(response) {
-              //console.log('Service Worker: Returning Response from Server', response);
-              //cache.put(event.request, response.clone());
               return response;
             }).catch((error) => {
-              //console.log('Fetch failed; returning offline page instead.', error);
               return caches.match('/offline.html');
             });
           }
@@ -64,20 +59,3 @@ self.addEventListener('fetch', (event) => {
       );
   }
 });
-
-// this.addEventListener('activate', function activator(event) {
-//   console.log('Service Worker: Activating', event);
-//   event.waitUntil(
-//     caches.keys().then(function(keys) {
-//       return Promise.all(keys
-//         .filter(function(key) {
-//             return key.indexOf(CACHE) !== 0;
-//         })
-//         .map(function(key) {
-//             return caches.delete(key);
-//         })
-//       );
-//     })
-//   );
-// });
-
