@@ -103,7 +103,7 @@ categories:
 ```
 
 # Publicación de artículos
-El proyecto está confgurado con integracón continua, por lo que solo basta enviar los cambios al repositorio para un despliegue automático utilizando:
+Este proyecto está configurado con integración continua por lo que solo basta enviar los cambios al repositorio para un despliegue automático.
 
 ```bash
 $ git add .
