@@ -49,7 +49,7 @@ prefix: [1,2,3,4,5,6]
 <nav class="pagination">
   <ul class='page-numbers'>
     {% if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo;</a></li>
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
     {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
