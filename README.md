@@ -6,7 +6,7 @@ mozillachile-blog
 
 # Índice
 1. [Prerrequisitos](#Prerrequisitos)
-2. [Creación de artículos](#Creación-de-nuevos-artículos)
+2. [Creación de artículos](#Creación-de-artículos)
 3. [Publicación de artículos](#Publicación-de-artículos)
 
 
@@ -29,7 +29,7 @@ Ruby a menudo se encuentra empaquetado en distribuciones Linux, por lo que las s
 
 ```bash
 $ sudo apt install ruby-full
-$ sudo apt install zlib1g-dev # dependencia requerida nokogiri
+$ sudo apt install zlib1g-dev # dependencia requerida por nokogiri
 
 ```
 
@@ -42,7 +42,7 @@ $ brew install ruby
 
 # Ejecución
 ```bash
-$ git clone https://github.com/mozilla/release-blog.git
+$ git clone https://github.com/mozillachile/blog.git
 $ cd release-blog
 $ gem install bundler --user-install
 $ bundle install --path vendor/bundle
@@ -81,7 +81,7 @@ Un articulo contiene los siguientes elementos en su cabecera
 | layout | si |  post | Estilo de plantilla, en este caso, siempre debe contener el valor 'post'
 | permalink | si |  /blog/2014/11/30/firefox-56/ | Url de acceso al post, favor utilizar formato /blog/yyyy/mm/dd/titulo/
 | image | no |  /images/2014/11/firefox-56.jpg | Ruta de imagen para portada de artículo
-| categories | si | - Desarrolladores | Lista de categorías relacionadas lar artículo
+| categories | no | - Desarrolladores | Lista de categorías relacionadas al artículo
 
 ## Ejemplo completo
 
