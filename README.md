@@ -73,7 +73,7 @@ Los artículos:
 
 Un articulo contiene los siguientes elementos en su cabecera
 
-| Syntax | Requerido | Ejemplo | Descripción
+| Elemento | Requerido | Ejemplo | Descripción
 | --- | ----------- | -----------| -----------
 | title | si |  Firefox 56 | Titulo del artículo
 | date | si | 2014-11-30T23:34:10-03:00 | Fecha del articulo en formato ISO
