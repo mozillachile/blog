@@ -66,17 +66,17 @@ Los artículos:
  - Son alojados en la carpeta _post 
  - Se encuentran escritos utilizando el lenguaje de demarcación Markdown, sin embargo pueden contener tags html
  - Deben tener un nombre con el siguiente formato: "yyyy-mm-dd-nombre.md" (2014-09-06-firefox.md). En donde yyyy-mm-dd repesenta la fecha del artículo
- - Deben contener las imagenes pertenecientes a estos dentro del mismo repositiorio en la carpeta images siguindo el siguiente formato: images/yyyy/mm/nombre.jpg. En donde yyyy/mm representa la fecha del artículo
+ - Deben contener las imagenes pertenecientes a estos dentro del mismo repositiorio en la carpeta images siguiendo el siguiente formato: images/yyyy/mm/nombre.jpg. En donde yyyy/mm representa la fecha del artículo
  
 
 ## Formato de un artículo
 
-Un articulo contiene los siguientes elementos en su cabecera
+Un artículo contiene los siguientes elementos en su cabecera
 
 | Elemento | Requerido | Ejemplo | Descripción
 | --- | ----------- | -----------| -----------
 | title | si |  Firefox 56 | Titulo del artículo
-| date | si | 2014-11-30T23:34:10-03:00 | Fecha del articulo en formato ISO
+| date | si | 2014-11-30T23:34:10-03:00 | Fecha del artículo en formato ISO
 | author | si | mozilla | Nombre de autor de artículo (definidos en '_config.yaml)'
 | layout | si |  post | Estilo de plantilla, en este caso, siempre debe contener el valor 'post'
 | permalink | si |  /blog/2014/11/30/firefox-56/ | Url de acceso al post, favor utilizar formato /blog/yyyy/mm/dd/titulo/

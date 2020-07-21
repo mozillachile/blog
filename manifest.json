@@ -7,25 +7,36 @@
     "display": "standalone",
     "start_url": "https://mozillachile.cl/",
     "background_color": "#ffffff",
-    "theme_color": "transparent",
+    "theme_color": "#FFFFFF",
     "description": "Por un internet público, libre y accesible.. Medio de difusión de actividades de Mozilla Chile",
     "orientation": "portrait",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "https://mozillachile.cl//images/favicons/favicon.ico",
+            "src": "https://mozillachile.cl/images/favicons/favicon.ico",
             "sizes": "64x64"
         },
         {
-            "src": "https://mozillachile.cl//images/favicons/apple-touch-icon-180x180.png",
+            "src": "https://mozillachile.cl/images/favicons/apple-touch-icon-180x180.png",
             "sizes": "180x180",
             "type": "image/png"
         },
         {
-            "src": "https://mozillachile.cl//images/favicons/favicon-196x196.png",
+            "src": "https://mozillachile.cl//mages/favicons/favicon-196x196.png",
             "sizes": "196x196",
             "type": "image/png"
+        },
+        {
+            "src": "https://mozillachile.cl/images/favicons/favicon-512x512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://mozillachile.cl/images/favicons/maskable_icon.png",
+            "sizes": "602x602",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "url": "https://mozillachile.cl",
