@@ -23,7 +23,7 @@ categories:
   No. El Administrador de aplicaciones, principal función del navegador para el desarrollo de aplicaciones web ha llegado al final del recorrido. Desde ahora puedes<strong> escribir código directamente en el navegador con WebIDE</strong>. Mozilla, en su búsqueda para facilitar el <strong>desarrollo de aplicaciones web</strong> tanto para el navegador de escritorio como para <strong>Firefox OS y Firefox para Android</strong>, ha incluido un fantástico pedazo de código con el que podrás ponerte a desarrollar sin necesidad de abrir otro programa. ¡Incluso <strong>puedes depurar directamente</strong> tus aplicaciones, abriéndolas en simuladores de Firefox OS o enviándola al teléfono!
 </p>
 
-<img class="size-full wp-image-917 aligncenter" src="/images/2014/11/Editor-de-código.png" alt="Editor de código" width="882" height="642" srcset="/images/2014/11/Editor-de-código.png 882w, /images/2014/11/Editor-de-código-252x183.png 252w, /images/2014/11/Editor-de-código-600x436.png 600w" sizes="(max-width: 882px) 100vw, 882px" /> 
+<img class="size-full wp-image-917 aligncenter" src="/images/2014/11/Editor-de-codigo.png" alt="Editor de código" width="882" height="642" srcset="/images/2014/11/Editor-de-codigo.png 882w, /images/2014/11/Editor-de-codigo-252x183.png 252w, /images/2014/11/Editor-de-codigo-600x436.png 600w" sizes="(max-width: 882px) 100vw, 882px" /> 
 
 <h6 style="text-align: center;">
   *El editor cuenta con plantillas para facilitar la creación de manifiestos para aplicaciones privilegiadas y otras*

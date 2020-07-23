@@ -172,7 +172,7 @@ html {
 }
 
 @media screen and ( max-width: 782px ) {
-    html { margin-top: 46px !important; }
+    /* html { margin-top: 46px !important; } */
     * html body { margin-top: 46px !important; }
 }
 
@@ -181,10 +181,13 @@ html {
     #site-description {
            line-height: initial;
         }
-    #masthead {
-      background-image: url('/themes/frontierline-rm/img/fox-tail.png');
-    }
 }
+#masthead {
+    background-image: url('/themes/frontierline-rm/img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 /* Author picture styling */
 .entry-info .author-photo {

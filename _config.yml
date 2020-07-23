@@ -60,3 +60,6 @@ authors:
     
 paginate: 12
 excerpt_separator: "<!-- more -->"
+
+plugins:
+  - jekyll-figure

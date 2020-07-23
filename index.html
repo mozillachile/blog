@@ -15,9 +15,9 @@ prefix: [1,2,3,4,5,6]
           <a href="{{ post.url }}" class="entry-link" title="Link a “{{ post.title }}”" rel="bookmark">
                     <div class="post-image post-image-large">
                         {% if post.image != null %}
-                          <img class="wp-post-image image-fallback" width="600" height="330" src="{{ post.image }}">
+                          <img class="wp-post-image image-fallback" width="600" height="330" src="{{ post.image }}" alt="{{ post.title }}">
                         {% else %}
-                          <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png">
+                          <img class="wp-post-image image-fallback color-{{ prefix[0] }}" width="600" height="330" src="https://blog.nightly.mozilla.org/wp-content/themes/frontierline/img/fallbacks/pattern-{{ prefix[0] }}.png" alt="{{ post.title }}">
                         {% endif %}
                       </div>
                   <h2 class="entry-title">{{ post.title }}</h2>
@@ -49,7 +49,7 @@ prefix: [1,2,3,4,5,6]
 <nav class="pagination">
   <ul class='page-numbers'>
     {% if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo;</a></li>
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
     {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
