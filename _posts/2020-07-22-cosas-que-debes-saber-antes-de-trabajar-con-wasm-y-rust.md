@@ -31,4 +31,8 @@ Saludos, estamos organizando charlas y Yuli es nuestra invitada desde Mexico. As
 Yuli es Software engineer. Master Coache en el programa de Platzi Master , contribuidora a proyectos Open Source en la comunidad de Mozilla, en los programas de Mozilla Reps y Mozilla Tech Speaker. Malabarista y amante de los tacos.
 
 **Instagram:** [tuxxy](https://www.instagram.com/tuxxy/)  
+<<<<<<< HEAD
 **Twitter:** [@tuxxy](https://twitter.com/tuxxy)
+=======
+**Twitter:** [@tuxxy](https://twitter.com/tuxxy)
+>>>>>>> 1483de10dc387213086c383ac50255d94c3adfc0
