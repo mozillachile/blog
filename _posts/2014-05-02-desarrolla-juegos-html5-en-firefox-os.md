@@ -1,5 +1,4 @@
 ---
-id: 638
 title: Desarrolla juegos HTML5 en Firefox OS
 date: 2014-05-02T13:05:23-04:00
 author: lourcastillo

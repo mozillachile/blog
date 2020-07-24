@@ -1,5 +1,4 @@
 ---
-id: 299
 title: Australis, la nueva apariencia de Firefox
 date: 2013-12-03T22:32:13-03:00
 author: mozilla

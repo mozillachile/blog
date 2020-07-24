@@ -1,5 +1,4 @@
 ---
-id: 931
 title: Vacaciones Rock Star en Cancún, con Movistar, Alcatel y Firefox OS
 date: 2014-11-26T15:15:18-03:00
 author: Javier Martínez Ortiz

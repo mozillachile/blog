@@ -1,5 +1,4 @@
 ---
-id: 356
 title: Primeras aplicaciones chilenas para FirefoxOS
 date: 2013-12-27T20:34:39-03:00
 author: lourcastillo

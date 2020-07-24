@@ -1,5 +1,4 @@
 ---
-id: 608
 title: Servicio de localización de Mozilla
 date: 2014-05-01T20:22:33-04:00
 author: ravmn

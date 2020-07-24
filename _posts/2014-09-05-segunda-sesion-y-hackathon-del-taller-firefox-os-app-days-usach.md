@@ -1,5 +1,4 @@
 ---
-id: 778
 title: Segunda sesión y hackathon del Taller Firefox OS App Days USACH
 date: 2014-09-05T00:31:46-04:00
 author: lourcastillo

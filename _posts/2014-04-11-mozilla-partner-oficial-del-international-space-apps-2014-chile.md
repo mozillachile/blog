@@ -1,5 +1,4 @@
 ---
-id: 447
 title: Mozilla, partner oficial del International Space Apps 2014 Chile
 date: 2014-04-11T21:04:04-03:00
 author: lourcastillo

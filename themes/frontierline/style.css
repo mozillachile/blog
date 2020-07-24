@@ -663,8 +663,7 @@ textarea:-moz-ui-invalid:not(output), input[type=email]:-moz-ui-invalid:not(outp
 .single .entry-content .wpml-ls, .page .entry-content .wpml-ls { border-top: 2px solid #000; margin-top: 2em; padding-top: 1em; }
 @media screen and (min-width: 480px) { .single .entry-content .alignleft.size-medium, .page .entry-content .alignleft.size-medium { float: left; margin: 0 30px .5em -20px; }
   .single .entry-content .alignright.size-medium, .page .entry-content .alignright.size-medium { float: right; margin: 0 -20px .5em 30px; } }
-@media screen and (min-width: 760px) { .single .entry-content .alignleft, .page .entry-content .alignleft { margin-left: -60px; }
-  .single .entry-content .alignleft.size-medium, .page .entry-content .alignleft.size-medium { margin-left: -60px; }
+
   .single .entry-content .alignright, .page .entry-content .alignright { margin-right: -60px; }
   .single .entry-content .alignright.size-medium, .page .entry-content .alignright.size-medium { margin-right: -60px; } }
 @media screen and (min-width: 1000px) { .single .entry-content .alignleft.size-large, .page .entry-content .alignleft.size-large { float: left; margin: 0 30px .5em -60px; }

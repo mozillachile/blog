@@ -1,5 +1,4 @@
 ---
-id: 137
 title: Teléfonos con Firefox OS llegarán a Chile en el primer trimestre de 2014
 date: 2013-10-22T23:32:22-03:00
 author: mozilla

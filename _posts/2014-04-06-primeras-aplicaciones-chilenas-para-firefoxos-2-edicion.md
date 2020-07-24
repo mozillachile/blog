@@ -1,5 +1,4 @@
 ---
-id: 418
 title: 'Primeras aplicaciones chilenas para FirefoxOS: 2° Edición'
 date: 2014-04-06T01:22:45-03:00
 author: lourcastillo

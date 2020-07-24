@@ -1,5 +1,4 @@
 ---
-id: 1255
 title: Ve más allá de console.log con el depurador de Firefox
 date: 2018-06-01T12:41:32-04:00
 author: lourcastillo

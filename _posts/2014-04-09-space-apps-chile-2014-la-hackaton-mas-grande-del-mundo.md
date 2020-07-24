@@ -1,5 +1,4 @@
 ---
-id: 438
 title: 'SPACE APPS CHILE 2014: La hackatón más grande del mundo'
 date: 2014-04-09T10:18:53-03:00
 author: lourcastillo

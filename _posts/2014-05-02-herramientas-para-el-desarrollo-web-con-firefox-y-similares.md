@@ -1,5 +1,4 @@
 ---
-id: 633
 title: Herramientas para el desarrollo web con Firefox y similares
 date: 2014-05-02T11:58:54-04:00
 author: lourcastillo

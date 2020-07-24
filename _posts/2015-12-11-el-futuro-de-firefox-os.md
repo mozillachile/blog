@@ -1,5 +1,4 @@
 ---
-id: 1093
 title: El futuro de Firefox OS
 date: 2015-12-11T10:51:52-03:00
 author: Javier Martínez Ortiz

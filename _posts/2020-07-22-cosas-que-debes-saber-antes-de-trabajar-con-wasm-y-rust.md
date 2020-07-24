@@ -16,8 +16,6 @@ tags:
 ---
 <pre class="wp-block-preformatted"><strong>Cosas que debes saber antes de trabajar con WASM y Rust</strong></pre>
 
-
-
 **Para asistir al evento:** [Suscribirse a Mozilla Chile](https://www.youtube.com/channel/UC8C9tZY8TMiEtXBFLOsJsbA/)
 
 Saludos, estamos organizando charlas y Yuli es nuestra invitada desde Mexico. Asi que si quieres saber que es #WebAssembly y #rustlang, asiste este Sábado 25 de Julio a la charla de "Cosas que debes saber antes de trabajar con WASM y Rust" y la misma será transmitida por el canal de Mozilla Chile

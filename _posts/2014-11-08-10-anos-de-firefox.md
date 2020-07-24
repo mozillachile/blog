@@ -1,5 +1,4 @@
 ---
-id: 887
 title: 10 años de Firefox
 date: 2014-11-08T01:10:55-03:00
 author: ravmn

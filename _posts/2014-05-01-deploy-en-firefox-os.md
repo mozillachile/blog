@@ -1,5 +1,4 @@
 ---
-id: 622
 title: “Deploy” en Firefox OS
 date: 2014-05-01T21:34:08-04:00
 author: lourcastillo

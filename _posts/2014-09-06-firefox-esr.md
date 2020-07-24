@@ -1,5 +1,4 @@
 ---
-id: 785
 title: Firefox ESR
 date: 2014-09-06T00:41:51-04:00
 author: ravmn

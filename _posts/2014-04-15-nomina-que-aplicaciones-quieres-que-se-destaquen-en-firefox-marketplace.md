@@ -1,5 +1,4 @@
 ---
-id: 463
 title: ¡Nomina qué aplicaciones quieres que se destaquen en Firefox Marketplace!
 date: 2014-04-15T21:31:52-03:00
 author: lourcastillo

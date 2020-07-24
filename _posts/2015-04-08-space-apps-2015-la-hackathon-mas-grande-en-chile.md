@@ -1,5 +1,4 @@
 ---
-id: 988
 title: Space Apps 2015 la hackathon más grande en Chile
 date: 2015-04-08T12:48:49-03:00
 author: mozilla

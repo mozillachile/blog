@@ -1,5 +1,4 @@
 ---
-id: 236
 title: 'Lightbeam para Firefox: Educación de privacidad para los usuarios y datos abiertos.'
 date: 2013-10-26T02:03:13-03:00
 author: lourcastillo

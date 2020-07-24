@@ -1,5 +1,4 @@
 ---
-id: 375
 title: Respuesta de Mozilla al discurso del Presidente Obama sobre la vigilancia
 date: 2014-01-20T22:27:54-03:00
 author: Javier Martínez Ortiz

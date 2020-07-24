@@ -1,5 +1,4 @@
 ---
-id: 864
 title: Firefox OS prende el IP Virginio Gómez de Concepción
 date: 2014-10-20T12:42:21-03:00
 author: Javier Martínez Ortiz

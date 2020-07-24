@@ -1,4 +1,3 @@
----
 id: 265
 title: FirefoxOS «App Days in a Box» en Ingeniería de la U. de Chile
 date: 2013-11-14T22:24:57-03:00

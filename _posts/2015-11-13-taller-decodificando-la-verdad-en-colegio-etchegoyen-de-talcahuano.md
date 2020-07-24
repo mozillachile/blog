@@ -1,5 +1,4 @@
 ---
-id: 1059
 title: Taller «Decodificando la Verdad» en Colegio Etchegoyen de Talcahuano
 date: 2015-11-13T15:34:35-03:00
 author: Javier Martínez Ortiz

@@ -1,5 +1,4 @@
 ---
-id: 707
 title: Taller Firefox OS App Days USACH
 date: 2014-08-11T12:08:59-04:00
 author: lourcastillo

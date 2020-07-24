@@ -1,5 +1,4 @@
 ---
-id: 455
 title: Preguntas frecuentes sobre la renuncia del CEO
 date: 2014-04-08T21:21:28-03:00
 author: mozilla

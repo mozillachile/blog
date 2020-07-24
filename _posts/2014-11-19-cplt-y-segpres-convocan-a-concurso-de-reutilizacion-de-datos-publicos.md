@@ -1,5 +1,4 @@
 ---
-id: 922
 title: CPLT y SEGPRES convocan a concurso de Reutilización de Datos Públicos
 date: 2014-11-19T20:58:19-03:00
 author: Javier Martínez Ortiz

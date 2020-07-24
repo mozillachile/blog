@@ -1,5 +1,4 @@
 ---
-id: 850
 title: Habemus nueva casa
 date: 2014-10-15T09:00:25-03:00
 author: ravmn

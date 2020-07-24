@@ -1,5 +1,4 @@
 ---
-id: 1231
 title: Declaración sobre la propuesta de la FCC de retirar la neutralidad en la red en EE.UU.
 date: 2017-11-22T11:57:18-03:00
 author: Javier Martínez Ortiz

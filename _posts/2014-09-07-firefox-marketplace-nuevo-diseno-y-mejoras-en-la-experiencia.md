@@ -1,5 +1,4 @@
 ---
-id: 728
 title: 'Firefox Marketplace: nuevo diseño y mejoras en la experiencia'
 date: 2014-09-07T01:59:04-03:00
 author: Javier Martínez Ortiz

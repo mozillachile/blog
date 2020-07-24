@@ -1,5 +1,4 @@
 ---
-id: 395
 title: Firefox OS presentado en Chile
 date: 2014-02-22T01:38:23-03:00
 author: Javier Martínez Ortiz

@@ -1,5 +1,4 @@
 ---
-id: 827
 title: Te invitamos a la Fiesta Mobilizer
 date: 2014-09-10T22:40:44-03:00
 author: mozilla

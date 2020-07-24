@@ -1,5 +1,4 @@
 ---
-id: 1082
 title: Ya llegó Firefox para iOS
 date: 2015-11-13T16:35:35-03:00
 author: Javier Martínez Ortiz

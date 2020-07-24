@@ -1,5 +1,4 @@
 ---
-id: 954
 title: Retrospectiva de actividades 2014
 date: 2015-01-04T10:57:29-03:00
 author: ravmn

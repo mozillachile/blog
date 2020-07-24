@@ -1,5 +1,4 @@
 ---
-id: 801
 title: Cuenta alegre de Firefox OS App Days USACH
 date: 2014-09-09T02:05:07-03:00
 author: lourcastillo

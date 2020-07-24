@@ -1,5 +1,4 @@
 ---
-id: 1294
 title: 'Beta Testing  BugHunter  Inacap Maipu'
 date: 2019-06-22T09:50:06-04:00
 author: mozilla

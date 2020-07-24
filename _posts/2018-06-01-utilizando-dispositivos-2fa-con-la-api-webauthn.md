@@ -1,5 +1,4 @@
 ---
-id: 1264
 title: Utilizando dispositivos 2FA con la API WebAuthn
 date: 2018-06-01T17:50:23-04:00
 author: lourcastillo

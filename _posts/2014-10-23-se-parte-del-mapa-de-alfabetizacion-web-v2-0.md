@@ -1,5 +1,4 @@
 ---
-id: 873
 title: Sé parte del Mapa de Alfabetización Web v2.0
 date: 2014-10-23T23:12:13-03:00
 author: Javier Martínez Ortiz

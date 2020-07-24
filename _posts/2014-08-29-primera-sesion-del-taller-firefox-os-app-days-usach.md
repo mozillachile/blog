@@ -1,5 +1,4 @@
 ---
-id: 743
 title: Primera sesión del taller Firefox OS App Days USACH
 date: 2014-08-29T14:44:04-04:00
 author: lourcastillo

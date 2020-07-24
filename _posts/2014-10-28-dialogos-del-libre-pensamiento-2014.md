@@ -1,5 +1,4 @@
 ---
-id: 882
 title: Diálogos del libre pensamiento 2014
 date: 2014-10-28T11:38:31-03:00
 author: ravmn

@@ -1,5 +1,4 @@
 ---
-id: 1009
 title: 'Proyecto comunitario: Womoz Chile'
 date: 2015-05-15T12:58:38-03:00
 author: mozilla

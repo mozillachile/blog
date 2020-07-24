@@ -1,5 +1,4 @@
 ---
-id: 314
 title: 'Nuestra primera vez: App Days in a Box en Santiago'
 date: 2013-12-02T23:38:43-03:00
 author: Javier Martínez Ortiz

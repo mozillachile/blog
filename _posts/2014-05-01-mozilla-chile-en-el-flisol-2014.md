@@ -1,5 +1,4 @@
 ---
-id: 613
 title: Mozilla Chile en el FLISOL 2014
 date: 2014-05-01T20:58:50-04:00
 author: Javier Martínez Ortiz

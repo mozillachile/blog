@@ -1,5 +1,4 @@
 ---
-id: 670
 title: Mozilla permitirá reproducir contenido con DRM en Firefox
 date: 2014-05-14T20:52:45-04:00
 author: Javier Martínez Ortiz

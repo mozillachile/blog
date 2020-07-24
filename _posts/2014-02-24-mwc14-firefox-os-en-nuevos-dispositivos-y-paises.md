@@ -1,5 +1,4 @@
 ---
-id: 400
 title: 'MWC14: Firefox OS en nuevos dispositivos y países'
 date: 2014-02-24T13:16:11-03:00
 author: Javier Martínez Ortiz

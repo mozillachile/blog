@@ -1,5 +1,4 @@
 ---
-id: 372
 title: 'Construyendo tus web apps de forma simple para  Firefox OS'
 date: 2014-01-13T13:28:25-03:00
 author: Javier Martínez Ortiz

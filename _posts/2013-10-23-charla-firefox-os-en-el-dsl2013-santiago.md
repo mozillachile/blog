@@ -1,5 +1,4 @@
 ---
-id: 186
 title: 'Charla Firefox OS en el #DSL2013 Santiago'
 date: 2013-10-23T23:32:13-03:00
 author: lourcastillo

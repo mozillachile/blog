@@ -1,5 +1,4 @@
 ---
-id: 1353
 title: Evento Online Web Apps con Rust
 date: 2020-06-22T21:59:47-04:00
 author: lourcastillo

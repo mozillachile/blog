@@ -1,5 +1,4 @@
 ---
-id: 364
 title: '[ULTIMA HORA] Microsoft compra Mozilla en una cifra desconocida'
 date: 2013-12-28T11:16:21-03:00
 author: Javier Martínez Ortiz

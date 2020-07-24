@@ -1,5 +1,4 @@
 ---
-id: 1316
 title: Participación de la Comunidad Mozilla Chile en la Ubuntu Conference LA 2019
 date: 2019-08-28T23:37:33-04:00
 author: Eduardo Urcullú

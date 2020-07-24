@@ -1,5 +1,4 @@
 ---
-id: 223
 title: Balance Summit Toronto 2013
 date: 2013-10-25T23:36:22-03:00
 author: lourcastillo

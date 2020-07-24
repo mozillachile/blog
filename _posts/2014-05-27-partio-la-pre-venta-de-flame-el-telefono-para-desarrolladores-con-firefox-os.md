@@ -1,5 +1,4 @@
 ---
-id: 687
 title: Partió la pre-venta de Flame, el teléfono para desarrolladores con Firefox OS
 date: 2014-05-27T22:32:20-04:00
 author: Javier Martínez Ortiz

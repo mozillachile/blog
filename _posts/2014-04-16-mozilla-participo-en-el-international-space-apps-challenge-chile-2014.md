@@ -1,5 +1,4 @@
 ---
-id: 469
 title: Mozilla participó en el International Space Apps Challenge Chile 2014
 date: 2014-04-16T23:03:58-03:00
 author: lourcastillo

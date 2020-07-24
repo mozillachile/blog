@@ -1,5 +1,4 @@
 ---
-id: 1046
 title: Software Freedom Day 2015 en Santiago
 date: 2015-09-29T21:56:58-03:00
 author: mozilla

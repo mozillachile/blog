@@ -1,5 +1,4 @@
 ---
-id: 843
 title: Firefox v33 ha llegado
 date: 2014-10-14T00:00:26-03:00
 author: ravmn

@@ -1,5 +1,4 @@
 ---
-id: 1145
 title: Encuentro «Nuevas tecnologías para la enseñanza y revitalización del mapudungun»
 date: 2017-05-01T14:57:05-03:00
 author: Javier Martínez Ortiz

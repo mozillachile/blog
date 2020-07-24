@@ -1,5 +1,4 @@
 ---
-id: 1344
 title: Evento Online Introducción a Rust
 date: 2020-06-09T01:22:24-04:00
 author: lourcastillo

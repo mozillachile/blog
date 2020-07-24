@@ -1,5 +1,4 @@
 ---
-id: 845
 title: Firefox 34, ¡WebIDE y Hello!
 date: 2014-11-30T23:34:10-03:00
 author: ravmn

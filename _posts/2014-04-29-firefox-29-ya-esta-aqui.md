@@ -1,5 +1,4 @@
 ---
-id: 601
 title: ¡Firefox 29 ya está aquí!
 date: 2014-04-29T10:34:40-04:00
 author: Javier Martínez Ortiz

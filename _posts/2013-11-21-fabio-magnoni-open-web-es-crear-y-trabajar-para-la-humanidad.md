@@ -1,5 +1,4 @@
 ---
-id: 277
 title: 'Fabio Magnoni: «Open Web es crear y trabajar para la humanidad»'
 date: 2013-11-21T15:10:42-03:00
 author: Javier Martínez Ortiz

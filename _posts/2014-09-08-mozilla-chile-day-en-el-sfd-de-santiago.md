@@ -1,5 +1,4 @@
 ---
-id: 792
 title: Mozilla Chile Day en el SFD de Santiago
 date: 2014-09-08T10:48:48-03:00
 author: Javier Martínez Ortiz

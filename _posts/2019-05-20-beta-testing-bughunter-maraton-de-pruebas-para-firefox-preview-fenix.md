@@ -1,5 +1,4 @@
 ---
-id: 1285
 title: Beta Testing BugHunter, maratón de pruebas para Firefox Preview (Fenix)
 date: 2019-05-20T20:48:14-04:00
 author: lourcastillo

@@ -1,5 +1,4 @@
 ---
-id: 1030
 title: Workshop desarrollo en Bootstrap
 date: 2015-09-03T21:29:21-03:00
 author: mozilla
