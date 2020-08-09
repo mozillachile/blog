@@ -26,37 +26,70 @@ navigation:
   url: https://wiki.mozilla.org/RapidRelease/Calendar
 
 authors:
-  iformas:
-    display_name: Ignacio Formas
-    web: https://community.mozilla.org/people/iformas/
-    github: iformas
 
   lourcastillo:
     display_name: Lourdes Castillo
+    title: Mozilla Reps & Review Team
+    bio: Ingeniera en Informática, paraguaya viviendo en Chile. Actualmente QA Engineer en Vacasa, empresa norteamericana con oficina en Chile. Altamente motivada con más de 5 años de experiencia y una apasionada cazadora de Bugs. Voluntaria de la comunidad desde 2009 y representante de Mozilla en Chile desde 2012. Este año fue elegida para ser una de los miembros del equipo de revisión de Mozilla a nivel global.
+    avatar: lourcastillo.jpg
     web: https://community.mozilla.org/people/lourcastillo/
     github: lourcastillo
 
   Eduardo Urcullú:
     display_name: Eduardo Urcullú
+    title: Colaborador
+    bio:
+    avatar:
     web: https://reps.mozilla.org/u/Urcu/
+    github:
 
   Miguel Pedreros:
     display_name: Miguel Pedreros
+    title: Evangelización y Alfabetización Web
+    bio: Miguel es un voluntario muy activo en la comunidad de Mozilla Chile realizando charlas sobre el manifiesto y la misión de mozilla en universidades chilenas.
+    avatar: ocioslax.jpg
     web: https://community.mozilla.org/people/ocioslax/
     github: ocioslax
 
   Javier Martínez Ortiz:
     display_name: Javier Martínez Ortiz
+    title: Colaborador
+    bio:
+    avatar:
     web: https://mozillians.org/en-US/u/hyoga2k/
+    github:
 
   ravmn:
     display_name: Richard von Moltke Necochea
+    title: Localización es-CL
+    bio: Estudiante de medicina, traductor voluntario y entusiasta de la tecnologia
+    avatar: ravmn.jpg
     web: https://community.mozilla.org/people/ravmn/
     github: RAVMN
 
   mozilla:
     display_name: Mozilla
+    Title:
+    bio:
+    avatar:
     web: https://mozillachile.cl
+    github:
+
+  skamel:
+    display_name: Scarlett Melgarejo
+    title: Colaborador
+    bio: Diseño web y gráfico. Conocimientos en Vtex, Joomla, Wordpress, Magento, Open Cart, Moodle, HTML5 y CSS3. 12 años de experiencia en distintas empresas relacionadas al diseño web, llevando a cabo proyecto de sitios para universidades, gobierno, y corporativos para las medianas y grandes empresas. Coordinadora y Relatora del Taller de Joomla, impartido en el Departamento de Informática de la Universidad de Santiago - USACH, realizado en 3 oportunidades desde el año 2012. Miembro y voluntaria en Firefox, Mozilla Chile y Developer Lead del Launch Team de Firefox OS. 100% fan del software libre.
+    avatar: skamel.jpg
+    web: https://community.mozilla.org/en/people/skamel/
+    github:
+
+  iformas:
+    display_name: Ignacio Formas
+    title: 
+    bio: 
+    avatar: iformas.jpg
+    web: https://community.mozilla.org/people/iformas/
+    github: iformas
     
 paginate: 12
 excerpt_separator: "<!-- more -->"

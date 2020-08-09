@@ -1,0 +1,61 @@
+---
+layout: default
+permalink: /colaboradores.html
+---
+<div class="content posts-grid hfeed">
+
+  {% for author in site.authors %}
+    {% if author[1].avatar != null and author[1].display_name !=null and author[1].title!=null and author[1].bio!=null %}
+
+      <article class="post-summary post type-post" >
+        <header class="entry-header">
+          {% if author[1].web != null %}
+            <a href="{{author[1].web}}" class="entry-link" title="{{author[1].display_name}}" rel="bookmark"></a> 
+            {% else %}
+            <a href="#" class="entry-link" title="{{author[1].display_name}}" rel="bookmark"></a> 
+          {% endif %}
+          {% if author[1].web != null %}
+              <a href="{{author[1].web}}" class="entry-link" title="{{author[1].display_name}}" rel="bookmark">
+            {% else %}
+              <a href="#" class="entry-link" title="{{author[1].display_name}}" rel="bookmark">
+            {% endif %}
+              
+            <div class="post-image post-image-large">
+                  <img class="wp-post-image image-fallback" width="600" height="330" src="/images/authors/{{author[1].avatar}}" alt="{{author[1].title}}">
+            </div>
+            <h4 class="card-name">{{author[1].display_name}}  </h4>
+          </a>
+          <div class="entry-info">
+            <p><i> {{author[1].title}} </i></p>
+          </div>
+        </header>
+        <div class="entry-summary">
+          <p>
+            {{author[1].bio}}
+          </p>
+        </div>
+      </article>
+
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+
+<style>
+    .post-image img {
+    border-radius: 50%!important;
+    max-width: 200px!important;
+    margin: 0 auto!important;
+    display: block!important;
+    }
+  .post-summary{
+    text-align: center!important;
+  }
+
+.article{
+    text-align: center!important;
+
+}
+</style>
+
