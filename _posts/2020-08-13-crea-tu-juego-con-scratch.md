@@ -29,6 +29,6 @@ Lo anterior quiere decir que tú inventarás a los personajes y el contenido del
 
 Ojo, el único requisito para participar es tener un computador con conexión a internet. No importa si nunca has realizado algo así, porque sólo necesitas ganas de aprender para lograrlo.
 
-Además, podrás ingresar a la hora que gustes para participar de este taller, porque el video estará disponible durante toda la jornada, siempre y cuando te hayas **inscrito en Desafío Latam**
+Además, podrás ingresar a la hora que gustes para participar de este taller, porque el video estará disponible durante toda la jornada, siempre y cuando te hayas **inscrito en Desafío Latam.**
 
 
