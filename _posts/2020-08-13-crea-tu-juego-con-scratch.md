@@ -25,7 +25,7 @@ Para el Día del Niño, esta institución hará un entretenido **taller gratuito
 
 Para eso debes ingresar el mismo **16 de agosto (previa inscripción)** a [desafiolatam.com](https://desafiolatam.com/crea-tu-juego/#cta-bottom), porque liberaran un **video tutorial que explicará paso a paso**, lo que tienes que hacer para desarrollar un juegos personalizado.
 
-Lo anterior quiere decir que tú inventarás a los personajes y el contenido del mismo. Y lo harás en la plataforma [Scratch](https://scratch.mit.edu/), esa pensada para que niños de **8 a 16 años** aprendan a programar de manera fácil y divertida.
+Lo anterior quiere decir que tú inventarás a los personajes y el contenido del mismo. Y lo harás en la plataforma [Scratch](https://scratch.mit.edu/), está pensada para que niños de **8 a 16 años** aprendan a programar de manera fácil y divertida.
 
 Ojo, el único requisito para participar es tener un computador con conexión a internet. No importa si nunca has realizado algo así, porque sólo necesitas ganas de aprender para lograrlo.
 
