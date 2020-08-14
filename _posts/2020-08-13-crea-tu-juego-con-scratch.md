@@ -31,7 +31,7 @@ Ojo, el único requisito para participar es tener un computador con conexión a 
 
 Además, podrás ingresar a la hora que gustes para participar de este taller, porque el video estará disponible durante toda la jornada, siempre y cuando te hayas **inscrito en Desafío Latam.**
 
-<pre class="wp-block-preformatted"><strong>Taller Día del Niño y la Niña 2020</strong></pre>
-<div class="wp-block-image">
-  <figure class="alignleft"><img src="/images/2020/08/scratch-desafiolatam.jpg" alt="" /></figure>
+<pre class="aligncenter"><strong>Taller Día del Niño y la Niña 2020</strong></pre>
+<div center class="wp-block-image">
+  <figure class="aligncenter"><img src="/images/2020/08/scratch-desafiolatam.jpg" alt="" /></figure>
 </div>
