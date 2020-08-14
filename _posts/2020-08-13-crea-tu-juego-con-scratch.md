@@ -3,7 +3,7 @@ title: Aprende a crear tu juego con Scratch
 date: 2020-08-13T01:22:24-04:00
 author: lourcastillo
 layout: post
-permalink: /blog/2020/07/22/crea-tu-juego-con-scratch
+permalink: /blog/2020/07/22/crea-tu-juego-con-scratch/
 spay_email:
   - ""
 image: /images/2020/08/scratch.jpg
@@ -31,4 +31,7 @@ Ojo, el único requisito para participar es tener un computador con conexión a 
 
 Además, podrás ingresar a la hora que gustes para participar de este taller, porque el video estará disponible durante toda la jornada, siempre y cuando te hayas **inscrito en Desafío Latam.**
 
-
+<div align="center"> **Taller Día del Niño y la Niña 2020** </div>
+<div class="wp-block-image">
+  <figure class="alignleft"><img src="/images/2020/08/scratch-desafiolatam.jpg" alt="" /></figure>
+</div>
