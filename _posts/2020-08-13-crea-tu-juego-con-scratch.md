@@ -23,7 +23,7 @@ El taller se hará el domingo 16, para celebrar el Día del Niño con una guía 
 
 Para el Día del Niño, esta institución hará un entretenido **taller gratuito** de Creación de Videojuegos.
 
-Para eso debes ingresar el mismo **16 de agosto (previa inscripción)** a [desafiolatam.com](https://desafiolatam.com/crea-tu-juego/#cta-bottom), porque liberaran un **video tutorial que explicará paso a paso**, lo que tienes que hacer para desarrollar un juegos personalizado.
+Para eso debes ingresar el mismo **16 de agosto (previa inscripción)** a [desafiolatam.com](https://desafiolatam.com/crea-tu-juego/#cta-bottom), porque liberaran un **video tutorial que explicará paso a paso**, lo que tienes que hacer para desarrollar un juego personalizado.
 
 Lo anterior quiere decir que tú inventarás a los personajes y el contenido del mismo. Y lo harás en la plataforma [Scratch](https://scratch.mit.edu/), está pensada para que niños de **8 a 16 años** aprendan a programar de manera fácil y divertida.
 
