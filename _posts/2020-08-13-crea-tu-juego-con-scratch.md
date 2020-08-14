@@ -3,7 +3,7 @@ title: Aprende a crear tu juego con Scratch
 date: 2020-08-13T01:22:24-04:00
 author: lourcastillo
 layout: post
-permalink: /blog/2020/07/22/crea-tu-juego-con-scratch.md
+permalink: /blog/2020/07/22/crea-tu-juego-con-scratch
 spay_email:
   - ""
 image: /images/2020/08/scratch.jpg
