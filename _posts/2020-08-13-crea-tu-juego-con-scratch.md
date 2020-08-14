@@ -12,7 +12,7 @@ categories:
   - Desarrolladores
   - Eventos
 tags:
-  - Eventos
+  - chile
 ---
 
 **¿En qué consiste Crea tu Juego de Desafío Latam? y** [¿Cómo participar?](https://desafiolatam.com/crea-tu-juego/#cta-bottom)
