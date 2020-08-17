@@ -43,6 +43,14 @@ authors:
     web: https://community.mozilla.org/en/people/skamel/
     github:
 
+  ravmn:
+    display_name: Richard von Moltke Necochea
+    title: Localización es-CL
+    bio: Estudiante de medicina, traductor voluntario y entusiasta de la tecnologia.
+    avatar: ravmn.jpg
+    web: https://community.mozilla.org/people/ravmn/
+    github: RAVMN
+    
   Eduardo Urcullú:
     display_name: Eduardo Urcullú
     title: Mozilla Reps
@@ -58,6 +66,14 @@ authors:
     avatar: ocioslax.jpg
     web: https://community.mozilla.org/people/ocioslax/
     github: ocioslax
+    
+  iformas:
+    display_name: Ignacio Formas
+    title: Equipo de Desarrollo
+    bio: Colaborador activo en la comunidad de Mozilla Chile.
+    avatar: iformas.jpg
+    web: https://community.mozilla.org/people/iformas/
+    github: iformas
 
   Javier Martínez Ortiz:
     display_name: Javier Martínez Ortiz
@@ -75,14 +91,6 @@ authors:
     web: https://community.mozilla.org/en/people/chalalo/
     github: chalalo1533
 
-  ravmn:
-    display_name: Richard von Moltke Necochea
-    title: Localización es-CL
-    bio: Estudiante de medicina, traductor voluntario y entusiasta de la tecnologia.
-    avatar: ravmn.jpg
-    web: https://community.mozilla.org/people/ravmn/
-    github: RAVMN
-
   mozilla:
     display_name: Mozilla
     Title:
@@ -90,14 +98,6 @@ authors:
     avatar:
     web: https://mozillachile.cl
     github:
-
-  iformas:
-    display_name: Ignacio Formas
-    title: Equipo de Desarrollo
-    bio: Colaborador activo en la comunidad de Mozilla Chile.
-    avatar: iformas.jpg
-    web: https://community.mozilla.org/people/iformas/
-    github: iformas
     
 paginate: 12
 excerpt_separator: "<!-- more -->"
