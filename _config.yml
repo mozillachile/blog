@@ -66,6 +66,14 @@ authors:
     avatar: urcu.jpg
     web: https://reps.mozilla.org/u/Urcu/
     github: urcubot
+    
+ iformas:
+    display_name: Ignacio Formas
+    title: Equipo de Desarrollo
+    bio: Colaborador activo en la comunidad de Mozilla Chile.
+    avatar: iformas.jpg
+    web: https://community.mozilla.org/people/iformas/
+    github: iformas
 
   Miguel Pedreros:
     display_name: Miguel Pedreros
@@ -74,14 +82,6 @@ authors:
     avatar: ocioslax.jpg
     web: https://community.mozilla.org/people/ocioslax/
     github: ocioslax
-    
-  iformas:
-    display_name: Ignacio Formas
-    title: Equipo de Desarrollo
-    bio: Colaborador activo en la comunidad de Mozilla Chile.
-    avatar: iformas.jpg
-    web: https://community.mozilla.org/people/iformas/
-    github: iformas
 
   Javier Martínez Ortiz:
     display_name: Javier Martínez Ortiz
