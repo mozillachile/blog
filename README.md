@@ -43,7 +43,7 @@ $ brew install ruby
 # Ejecución
 ```bash
 $ git clone https://github.com/mozillachile/blog.git
-$ cd release-blog
+$ cd blog-master
 $ gem install bundler --user-install
 $ bundle install --path vendor/bundle
 $ bundle exec jekyll serve
