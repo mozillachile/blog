@@ -27,6 +27,14 @@ navigation:
 
 authors:
 
+sebaebc:
+    display_name: Sebastian Becerra
+    title: Equipo de Desarrollo
+    bio: Ingeniero en Informática y Director de Operaciones en PropulsoW. 
+    avatar: Seba.jpg
+    web: https://community.mozilla.org/es/people/sebaebc/
+    github: sebaebc
+    
   lourcastillo:
     display_name: Lourdes Castillo
     title: Mozilla Reps & Review Team
