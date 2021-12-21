@@ -26,14 +26,6 @@ navigation:
   url: https://wiki.mozilla.org/RapidRelease/Calendar
 
 authors:
-
-sebaebc:
-    display_name: Sebastian Becerra
-    title: Equipo de Desarrollo
-    bio: Ingeniero en Informática y Director de Operaciones en PropulsoW. 
-    avatar: Seba.jpg
-    web: https://community.mozilla.org/es/people/sebaebc/
-    github: sebaebc
     
   lourcastillo:
     display_name: Lourdes Castillo
@@ -58,6 +50,14 @@ sebaebc:
     avatar: ravmn.jpg
     web: https://community.mozilla.org/people/ravmn/
     github: RAVMN
+    
+    sebaebc:
+    display_name: Sebastian Becerra
+    title: Equipo de Desarrollo
+    bio: Ingeniero en Informática y Director de Operaciones en PropulsoW. 
+    avatar: Seba.jpg
+    web: https://community.mozilla.org/es/people/sebaebc/
+    github: sebaebc
     
   Eduardo Urcullú:
     display_name: Eduardo Urcullú
