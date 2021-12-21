@@ -27,6 +27,14 @@ navigation:
 
 authors:
     
+   ravmn:
+    display_name: Richard von Moltke Necochea
+    title: Localización es-CL
+    bio: Estudiante de medicina, traductor voluntario y entusiasta de la tecnologia.
+    avatar: ravmn.jpg
+    web: https://community.mozilla.org/people/ravmn/
+    github: RAVMN
+    
   lourcastillo:
     display_name: Lourdes Castillo
     title: Mozilla Reps & Review Team
@@ -42,14 +50,6 @@ authors:
     avatar: skamel.jpg
     web: https://community.mozilla.org/en/people/skamel/
     github:
-
-  ravmn:
-    display_name: Richard von Moltke Necochea
-    title: Localización es-CL
-    bio: Estudiante de medicina, traductor voluntario y entusiasta de la tecnologia.
-    avatar: ravmn.jpg
-    web: https://community.mozilla.org/people/ravmn/
-    github: RAVMN
     
     sebaebc:
     display_name: Sebastian Becerra
